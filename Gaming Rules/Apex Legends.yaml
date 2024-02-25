@@ -1,16 +1,6 @@
 payload:
-  # > Genshin Impact Rule
-  - DOMAIN-SUFFIX,genshinimpact.com
-  - DOMAIN-SUFFIX,honkaiimpact3.com
-  - DOMAIN-SUFFIX,honkaistarrail.com
-  - DOMAIN-SUFFIX,hoyo.link
-  - DOMAIN-SUFFIX,hoyolab.com
-  - DOMAIN-SUFFIX,hoyoverse.com
-  - DOMAIN-SUFFIX,n0vadesktop.com
-  - DOMAIN-SUFFIX,mihoyo.com
-  - DOMAIN-KEYWORD,genshinimpact
-  - DOMAIN-KEYWORD,honkaiimpact3
-  - DOMAIN-KEYWORD,mihoyo
-  - DST-PORT,22101
-  - DST-PORT,22102
-  - DST-PORT,42472
+  # > Apex Legends Rule
+  - DOMAIN-SUFFIX,playapex.com
+  - DOMAIN-SUFFIX,projectapex.com
+  - DOMAIN-KEYWORD,apex
+  - DST-PORT,1024-1124/3216/9960-9969/18000/18060/18120/27900/28910/29900
