@@ -1,5 +1,5 @@
 # AdguardDNS, parsed and mirrored by https://firebog.net
-# Updated 28SEP26 from https://filters.adtidy.org/extension/chromium/filters/15.txt
+# Updated 30SEP26 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
 # Please bring any parsing issues up at https://github.com/WaLLy3K/wally3k.github.io/issues prior to raising a request upstream
@@ -167,6 +167,7 @@ payload:
   - DOMAIN,0f85bcb09c.97f477047f.com
   - DOMAIN,0fa43ea1de.com
   - DOMAIN,0fa6d5f434.com
+  - DOMAIN,0fae9be8f1.com
   - DOMAIN,0fb.co
   - DOMAIN,0fb.info
   - DOMAIN,0fb.ltd
@@ -493,6 +494,7 @@ payload:
   - DOMAIN,1c6fd11ca2.com
   - DOMAIN,1c919ac17f.61fe2d132b.com
   - DOMAIN,1c9cb31b78.com
+  - DOMAIN,1c9ec783af.com
   - DOMAIN,1ca6e3e357.a8ca394de0.com
   - DOMAIN,1cash.info
   - DOMAIN,1cbd637d10.2c8eb505eb.com
@@ -627,6 +629,7 @@ payload:
   - DOMAIN,1ns1rosb.de
   - DOMAIN,1o0g85u7k1.com
   - DOMAIN,1o1nuqbjea.com
+  - DOMAIN,1o23ptd0sv.com
   - DOMAIN,1odi7j43c.de
   - DOMAIN,1oj5rl27u51hmeccbpw8kr4h8wtyg3m.cfd
   - DOMAIN,1osb.com
@@ -995,6 +998,7 @@ payload:
   - DOMAIN,2hlcovn7n.com
   - DOMAIN,2hpb1i5th.de
   - DOMAIN,2hpemrlhxb5muukztn.cfd
+  - DOMAIN,2hqxy07fw.com
   - DOMAIN,2hvtrw.84nzhjc7pen7hr6murjr.cyou
   - DOMAIN,2i0lliongn.com
   - DOMAIN,2i30i8h6i.de
@@ -1371,6 +1375,7 @@ payload:
   - DOMAIN,3pf2kwmc3g.com
   - DOMAIN,3p-geo.yahoo.com
   - DOMAIN,3pkf5m0gd.com
+  - DOMAIN,3pkp65u9w9pi1oomn385n3.rest
   - DOMAIN,3p-udc.yahoo.com
   - DOMAIN,3q3pgtn5k3pkotn2etghm3c63g4okthie.cfd
   - DOMAIN,3q6ixb5ng2pvbp.cfd
@@ -1775,6 +1780,7 @@ payload:
   - DOMAIN,57703b28d4.com
   - DOMAIN,5776kqk3wpgeih9ftt3mx.cfd
   - DOMAIN,577a3cfb8b.f014b13156.com
+  - DOMAIN,57db2dbfa3.com
   - DOMAIN,57f6508c2d.com
   - DOMAIN,57fe705a09.com
   - DOMAIN,57l2ng6r91.com
@@ -1842,6 +1848,7 @@ payload:
   - DOMAIN,5e2hf0q3a.com
   - DOMAIN,5e56217cd5.396d8aaa17.com
   - DOMAIN,5e770lhs7b.com
+  - DOMAIN,5e9rwtjh1s.com
   - DOMAIN,5edf1d2qv.com
   - DOMAIN,5edrgrnqg.com
   - DOMAIN,5ee515d98a.com
@@ -1893,6 +1900,7 @@ payload:
   - DOMAIN,5mn041cdz.com
   - DOMAIN,5mn7cf73.xyz
   - DOMAIN,5moxhf6z8c.ru
+  - DOMAIN,5n131lck8.com
   - DOMAIN,5namlienquan-giftcode.com
   - DOMAIN,5nfc.net
   - DOMAIN,5nt1gx7o57.com
@@ -2150,6 +2158,7 @@ payload:
   - DOMAIN,6fzt17pkr6a1de5.kvest.ee
   - DOMAIN,6g0sggey.xyz
   - DOMAIN,6g8q73f.g8f4zc4jqfitu4uzib8vbrtzh.cyou
+  - DOMAIN,6gemel9ypi8t2lbre.cfd
   - DOMAIN,6ggstcmglf.com
   - DOMAIN,6glece4homah8dweracea.com
   - DOMAIN,6grxxoqmpc.com
@@ -2263,6 +2272,7 @@ payload:
   - DOMAIN,71b2d37f74.com
   - DOMAIN,71df446534.com
   - DOMAIN,71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr
+  - DOMAIN,71n6i7mrb7r8y796ugbtpq5lv5y5rv.rest
   - DOMAIN,71ybxtqp3ci94tyc9x7.cfd
   - DOMAIN,7224fd9633.5d4d1bb29b.com
   - DOMAIN,722pod.net
@@ -2420,11 +2430,13 @@ payload:
   - DOMAIN,7eehi3vqy3.com
   - DOMAIN,7eit28evocng5gjuu.rest
   - DOMAIN,7eleven.marketing.7eleven.com.au
+  - DOMAIN,7engh3k73py9cq6ezuem5o.rest
   - DOMAIN,7et2uh13rkhp.t27oue73cl7lt7k7pi46ck12w54.cyou
   - DOMAIN,7f55a5b997.12a2101ae7.com
   - DOMAIN,7f777a77a6.com
   - DOMAIN,7f853d11fc.com
   - DOMAIN,7f89d90c6f.com
+  - DOMAIN,7f8pmzuyz9qp1q3qo1ku.cfd
   - DOMAIN,7fc3407df0.3b8e4eb36d.com
   - DOMAIN,7ff9dd031a.com
   - DOMAIN,7fkm2r4pzi.com
@@ -2736,6 +2748,7 @@ payload:
   - DOMAIN,8ue4rp6yxyis.www.tapmyback.com
   - DOMAIN,8uuxq3tvn.com
   - DOMAIN,8uy9oc8g6gwm9l.rest
+  - DOMAIN,8vu8uth3yp3r545ki1q7g1ytuq2.cfd
   - DOMAIN,8vwxqg.tapin.gg
   - DOMAIN,8w6hovz0d2.com
   - DOMAIN,8w76hjp1vd.com
@@ -2977,6 +2990,7 @@ payload:
   - DOMAIN,9pub.io
   - DOMAIN,9pyn42z6d.com
   - DOMAIN,9pzoz6taf.com
+  - DOMAIN,9qvpcta0t.com
   - DOMAIN,9r0v0go0el.com
   - DOMAIN,9rfm2vt5ugn7mbni558vyn3lyf1vl7gv2wc4n.cfd
   - DOMAIN,9rkh7nbaj.com
@@ -4595,6 +4609,7 @@ payload:
   - DOMAIN,aahcnrijhuwhq.space
   - DOMAIN,aa.hwigroup.com
   - DOMAIN,a.aiaiai.audio
+  - DOMAIN,aaildlvm.com
   - DOMAIN,aainfo.anz.co.nz
   - DOMAIN,aainwekolbdzo.site
   - DOMAIN,aa.irvinecompanyapartments.com
@@ -4934,6 +4949,7 @@ payload:
   - DOMAIN,abdmhqftzxvbg.store
   - DOMAIN,ab.dns-finder.com
   - DOMAIN,abdpac.williamsshoes.com.au
+  - DOMAIN,abdqapcgvfplo.com
   - DOMAIN,abdrjm.eurostarshotels.de
   - DOMAIN,a.bdsmz.tube
   - DOMAIN,abds.pingpingw.com
@@ -5011,6 +5027,7 @@ payload:
   - DOMAIN,ab-log.datahou.se
   - DOMAIN,abloynkkdrexl.online
   - DOMAIN,ablrxpdvekbtr.website
+  - DOMAIN,ablutedsubduce.qpon
   - DOMAIN,ablybeastssarcastic.com
   - DOMAIN,abmce.texas-standard.com
   - DOMAIN,abmeldung.information.o2.de
@@ -5408,12 +5425,14 @@ payload:
   - DOMAIN,a.closerpets.co.uk
   - DOMAIN,acl.stayfriends.de
   - DOMAIN,acltickza.in
+  - DOMAIN,acmcnpjds.com
   - DOMAIN,acme.vidox.net
   - DOMAIN,acmexxx.com
   - DOMAIN,ac.miovp.com
   - DOMAIN,acnodesbathmat.cyou
   - DOMAIN,acodes.b2b.cn
   - DOMAIN,acollector.wb.ru
+  - DOMAIN,acolytelwo.qpon
   - DOMAIN,acopiclhb.qpon
   - DOMAIN,acoreaaxweed.qpon
   - DOMAIN,acornsyerk.cfd
@@ -5459,6 +5478,7 @@ payload:
   - DOMAIN,acsbypynvfkxn.online
   - DOMAIN,acscdn.com
   - DOMAIN,acs.theluxegallery.shop
+  - DOMAIN,acsuawwovvstt.space
   - DOMAIN,acsupport.amputee-coalition.org
   - DOMAIN,acs.woolworths.com.au
   - DOMAIN,act.boxerproperty.com
@@ -7769,6 +7789,7 @@ payload:
   - DOMAIN,ads.topsex.cc
   - DOMAIN,adstracking.apps.zing.vn
   - DOMAIN,ads-tracking.collectiveaudience.co
+  - DOMAIN,ads-tracking.com
   - DOMAIN,adstrategy.biz.weibo.com
   - DOMAIN,ads.travelaudience.com
   - DOMAIN,adstreamer.ru
@@ -9038,6 +9059,7 @@ payload:
   - DOMAIN,aft.inhetvolkspark.nl
   - DOMAIN,aft.kingdance.nl
   - DOMAIN,aft.onderderadarfestival.nl
+  - DOMAIN,aftosamellatejatni.qpon
   - DOMAIN,af.tosho-trading.co.jp
   - DOMAIN,af.total-marriage.com
   - DOMAIN,aftrk1.com
@@ -9105,6 +9127,7 @@ payload:
   - DOMAIN,agenteimmobiliare.info
   - DOMAIN,agentinteractive.com
   - DOMAIN,agentio.com
+  - DOMAIN,agentrycasha.cfd
   - DOMAIN,agent-server.sc-api.seaart.ai
   - DOMAIN,agent.tamedia.com.tw
   - DOMAIN,agerseyre.com
@@ -9446,6 +9469,7 @@ payload:
   - DOMAIN,aikhra.londonclub.sk
   - DOMAIN,aikrir.lcwaikiki.com
   - DOMAIN,aikulphueu.com
+  - DOMAIN,aikyplpxrdj.com
   - DOMAIN,ailcloister.com
   - DOMAIN,ailmalcf.curology.com
   - DOMAIN,ailmalcf.withagency.com
@@ -9497,6 +9521,7 @@ payload:
   - DOMAIN,ainb12310zh.com
   - DOMAIN,ainb12311zh.com
   - DOMAIN,aincrd.champstudy.com
+  - DOMAIN,aindhfxrmmuue.site
   - DOMAIN,ai.net.anwalt.de
   - DOMAIN,ainhumdon.qpon
   - DOMAIN,ainouzaudre.net
@@ -9723,6 +9748,7 @@ payload:
   - DOMAIN,akftqsaedhfqt.space
   - DOMAIN,akfzziowsd.in
   - DOMAIN,akgnwd.tocris.com
+  - DOMAIN,akhaldqp.in
   - DOMAIN,akhflmskoecmk.site
   - DOMAIN,akhghskywdfoz.website
   - DOMAIN,akhoondathecae.shop
@@ -9877,6 +9903,7 @@ payload:
   - DOMAIN,al.combinationmeal.com
   - DOMAIN,alcotestspro-ss.checkoutera.com
   - DOMAIN,alcotestspro-ss.offeroshop.com
+  - DOMAIN,alcyctrwikbsic.com
   - DOMAIN,alczpohhzjaag.online
   - DOMAIN,ald.aldautomotive.be
   - DOMAIN,aldazincackled.shop
@@ -10277,6 +10304,7 @@ payload:
   - DOMAIN,alternativelivingspaces.mktdrops.com
   - DOMAIN,alternativetechnology.arrow.com
   - DOMAIN,althinglogans.com
+  - DOMAIN,althlhysuhhsi.space
   - DOMAIN,altid.ak-antiage.dk
   - DOMAIN,altid.amalieklinikken.dk
   - DOMAIN,altid.dyremosegaard.com
@@ -10459,6 +10487,7 @@ payload:
   - DOMAIN,amenrecorder.com
   - DOMAIN,amentumgraze.shop
   - DOMAIN,amercedsighted.cfd
+  - DOMAIN,amercessimbil.qpon
   - DOMAIN,a.mercuriurval.com
   - DOMAIN,amerealesulvas.cyou
   - DOMAIN,americanos.v4company.com
@@ -12370,6 +12399,7 @@ payload:
   - DOMAIN,aneareddossmen.qpon
   - DOMAIN,aneguftwymwfg.store
   - DOMAIN,anemiachoky.com
+  - DOMAIN,anemicdename.cyou
   - DOMAIN,anergiamabble.shop
   - DOMAIN,anesthesia58.top
   - DOMAIN,anetkin.biz
@@ -12379,6 +12409,7 @@ payload:
   - DOMAIN,anewfeedliberty.com
   - DOMAIN,anews7.nvwu.com
   - DOMAIN,anews.cc
+  - DOMAIN,anewshrivel.qpon
   - DOMAIN,an.facebook.com
   - DOMAIN,angarebkikuyu.shop
   - DOMAIN,angebote.plex.com
@@ -12419,6 +12450,7 @@ payload:
   - DOMAIN,anijjm.winkelstraat.nl
   - DOMAIN,anik.perfumehousedhaka.com
   - DOMAIN,anik.weavercre8ive.com
+  - DOMAIN,anilaobola.cyou
   - DOMAIN,animalcoder.com
   - DOMAIN,animalgush.cyou
   - DOMAIN,animasoorie.com
@@ -12593,6 +12625,7 @@ payload:
   - DOMAIN,antibioticdaybreak.com
   - DOMAIN,antiblock.info
   - DOMAIN,antibot.me
+  - DOMAIN,anticalonstand.com
   - DOMAIN,anticipatedhatch.com
   - DOMAIN,antidoto.antidotodigital.com
   - DOMAIN,antihumsalago.qpon
@@ -12762,6 +12795,7 @@ payload:
   - DOMAIN,apaclandingpage.ajo1apac.adls.adobevlab.com
   - DOMAIN,apaclandingpage.ajoplatformapac.adobevlab.com
   - DOMAIN,a.pacvue.com
+  - DOMAIN,apacytheramanwise.cyou
   - DOMAIN,ap.ad-feed.com
   - DOMAIN,apaff.oneplus.com
   - DOMAIN,a-pagerank.net
@@ -12783,6 +12817,7 @@ payload:
   - DOMAIN,apbjukta.com
   - DOMAIN,apbowmogh.in
   - DOMAIN,apbvtaxfigjsj.online
+  - DOMAIN,apcauf.com
   - DOMAIN,apcdoxiqxiote.space
   - DOMAIN,apcdp.apnews.com
   - DOMAIN,a.pchat.com
@@ -14005,6 +14040,7 @@ payload:
   - DOMAIN,api.zafiraatacado.com
   - DOMAIN,api.zalixmoda.com.br
   - DOMAIN,api.zalmy.com.br
+  - DOMAIN,apizqaczw.com
   - DOMAIN,api.zulcare.com.br
   - DOMAIN,api.zurea.pl
   - DOMAIN,apiz.websilor.com
@@ -14436,6 +14472,7 @@ payload:
   - DOMAIN,applicationsighgolden.com
   - DOMAIN,application.taleo.com
   - DOMAIN,applierlignes.com
+  - DOMAIN,appliesweftage.cyou
   - DOMAIN,app.lifeinside.io
   - DOMAIN,applifier.com
   - DOMAIN,app.livechatoo.com
@@ -14830,6 +14867,7 @@ payload:
   - DOMAIN,aqmra.millets.co.uk
   - DOMAIN,aqmzbk.avectoi.kr
   - DOMAIN,a.qncye.net
+  - DOMAIN,aqnmnirqrlzye.site
   - DOMAIN,aqoifpujbbptd.space
   - DOMAIN,aqouep.aquaphor.ru
   - DOMAIN,aqoypamhofdah.site
@@ -14894,6 +14932,7 @@ payload:
   - DOMAIN,ar.allrun.fr
   - DOMAIN,aramidsossify.qpon
   - DOMAIN,araneidboruca.com
+  - DOMAIN,araplhn.org
   - DOMAIN,araseflaglet.qpon
   - DOMAIN,arbattadr.in
   - DOMAIN,arbetaren.innocraft.cloud
@@ -14941,6 +14980,7 @@ payload:
   - DOMAIN,arcticsecancywaura.cyou
   - DOMAIN,arctwjodckpyz.site
   - DOMAIN,arcus.fdm.pl
+  - DOMAIN,ardance.org
   - DOMAIN,ardent.davidbryantlaw.com
   - DOMAIN,ardentlydrivablepagan.com
   - DOMAIN,ardigital.anunciojuridico.com.br
@@ -14980,6 +15020,7 @@ payload:
   - DOMAIN,argo.trueluxuryvillas.de
   - DOMAIN,argrowlitheor.com
   - DOMAIN,arguebakery.com
+  - DOMAIN,argufycopecks.com
   - DOMAIN,argumentnoblesmanages.com
   - DOMAIN,argus.carddepot.com
   - DOMAIN,argus.november.de
@@ -14991,6 +15032,7 @@ payload:
   - DOMAIN,aribank.info
   - DOMAIN,aribo.xyz
   - DOMAIN,a.ricevosrl.com
+  - DOMAIN,aricianabscambellis.cfd
   - DOMAIN,a.ridd.ru
   - DOMAIN,aridianlousingunpured.qpon
   - DOMAIN,arid-leadership.pro
@@ -15088,6 +15130,7 @@ payload:
   - DOMAIN,arshdlrwydrgp.site
   - DOMAIN,arsoitesauba.shop
   - DOMAIN,arsonincreasingmedic.com
+  - DOMAIN,arsonojuncoes.com
   - DOMAIN,ar.starwank.com
   - DOMAIN,arswabluchan.com
   - DOMAIN,artamuspaterae.cfd
@@ -15111,6 +15154,7 @@ payload:
   - DOMAIN,arthurbrent.kindencoludens.nl
   - DOMAIN,arthurbrent.vandervelden.com
   - DOMAIN,arthurbrent.werkenbijambiq.nl
+  - DOMAIN,arthustler.net
   - DOMAIN,articledemon.com
   - DOMAIN,articlegarlandferment.com
   - DOMAIN,articlepawn.com
@@ -15202,6 +15246,7 @@ payload:
   - DOMAIN,ascendslehayim.com
   - DOMAIN,ascentlitigateunsaved.com
   - DOMAIN,ascertainowlbookkeeper.com
+  - DOMAIN,ascfdqggihvrg.space
   - DOMAIN,ascohral.in
   - DOMAIN,as.computerbild.de
   - DOMAIN,ascpqnj-oam.global.ssl.fastly.net
@@ -15361,6 +15406,7 @@ payload:
   - DOMAIN,as.metal-hammer.de
   - DOMAIN,asmsb.hotelcollection.es
   - DOMAIN,as.musikexpress.de
+  - DOMAIN,asmvxuekzafmc.online
   - DOMAIN,as.myhomebook.de
   - DOMAIN,as.myhomebook-magazine.com
   - DOMAIN,asn.absperren24.de
@@ -15385,6 +15431,7 @@ payload:
   - DOMAIN,asp.dimileeh.com
   - DOMAIN,asperencium.com
   - DOMAIN,asperlyhallowsleersia.cfd
+  - DOMAIN,aspersespoach.qpon
   - DOMAIN,as-pet.ams3.cdn.digitaloceanspaces.com
   - DOMAIN,as.petbook.de
   - DOMAIN,as.petbook-magazine.com
@@ -15760,6 +15807,7 @@ payload:
   - DOMAIN,atik.trumanbd.com
   - DOMAIN,atikullah6.allshob.com
   - DOMAIN,atilrzkvktzwx.online
+  - DOMAIN,atiltgalerie.cfd
   - DOMAIN,atinternet.com
   - DOMAIN,ati.sazka.cz
   - DOMAIN,ati.sazkahry.sk
@@ -15782,6 +15830,7 @@ payload:
   - DOMAIN,atmagamari.qpon
   - DOMAIN,atmalinks.com
   - DOMAIN,atmanpoffle.cfd
+  - DOMAIN,atmatunics.com
   - DOMAIN,atm.autotorino.it
   - DOMAIN,at.maxblue.de
   - DOMAIN,at.mclaren.com
@@ -15848,6 +15897,7 @@ payload:
   - DOMAIN,at.seylany.com
   - DOMAIN,atsfi.de
   - DOMAIN,atsg.me
+  - DOMAIN,atsjvimukjfgwvs.com
   - DOMAIN,atsmetrics.adobe.com
   - DOMAIN,atsnisdwrubdu.space
   - DOMAIN,atsod.launch.liveramp.com
@@ -15859,6 +15909,7 @@ payload:
   - DOMAIN,atswfbonkmkrw.website
   - DOMAIN,at.swisscom.ch
   - DOMAIN,at.symmetryandbalance.com
+  - DOMAIN,attaccagrimsirintune.cfd
   - DOMAIN,attacheatableoverlabor.com
   - DOMAIN,attachedglorysticks.com
   - DOMAIN,attachedkneel.com
@@ -15975,6 +16026,7 @@ payload:
   - DOMAIN,atyvapfwastoa.space
   - DOMAIN,at.zarinama.com
   - DOMAIN,at.zerocompany.com
+  - DOMAIN,atznwgwkbswnj.site
   - DOMAIN,atzonebd.com
   - DOMAIN,atzzrq.tbs.co.jp
   - DOMAIN,au.adhacker.online
@@ -16330,6 +16382,7 @@ payload:
   - DOMAIN,avvoe.juicedbikes.com
   - DOMAIN,avwjyvalyjkw.top
   - DOMAIN,a.vws4brkfst.com
+  - DOMAIN,avxsduffdiewn.space
   - DOMAIN,avxskbxkmtawx.space
   - DOMAIN,avyagipiawmgk.website
   - DOMAIN,avytybblrvweh.space
@@ -16442,6 +16495,7 @@ payload:
   - DOMAIN,awnypearch.com
   - DOMAIN,awogtl.1stopbedrooms.com
   - DOMAIN,awokenreeshle.shop
+  - DOMAIN,awokespiny.qpon
   - DOMAIN,awowwo.forever21.com
   - DOMAIN,awozdcvzjgbnh.online
   - DOMAIN,awpcrpu.com
@@ -16517,6 +16571,7 @@ payload:
   - DOMAIN,axkcmb.mosigra.ru
   - DOMAIN,axkojdfhek.com
   - DOMAIN,axljfv.therosebay.co.kr
+  - DOMAIN,axlqjrhsczvfw.site
   - DOMAIN,axmaxhsa.com
   - DOMAIN,axmksgvipjhra.website
   - DOMAIN,ax.mpcdn.top
@@ -16526,6 +16581,7 @@ payload:
   - DOMAIN,axolotlly.com
   - DOMAIN,axon.ai
   - DOMAIN,axonix.com
+  - DOMAIN,axonsite.com
   - DOMAIN,axoqjt.gommadiretto.it
   - DOMAIN,axoqvl.daf-shoes.com
   - DOMAIN,axorawebnet.com
@@ -16672,6 +16728,7 @@ payload:
   - DOMAIN,axvepvjfdoefp.online
   - DOMAIN,a.xvidxxx.com
   - DOMAIN,axvjfzbwezssw.site
+  - DOMAIN,axvsppivsmioh.space
   - DOMAIN,axwfl.diamondpoint.net
   - DOMAIN,axwpbsweuwclq.space
   - DOMAIN,axwyfulzdxrdi.space
@@ -16715,6 +16772,7 @@ payload:
   - DOMAIN,aykqyjzoqveba.top
   - DOMAIN,aykrmjijsikyx.space
   - DOMAIN,ayleaf.petersofkensington.com.au
+  - DOMAIN,aymwluihrndpgw.com
   - DOMAIN,aynaenowglesp.online
   - DOMAIN,ayndgfmtyglgk.website
   - DOMAIN,ayon.impressofits.com
@@ -16723,6 +16781,7 @@ payload:
   - DOMAIN,aypgkxgnetnxd.site
   - DOMAIN,ayprxcxbhttpz.space
   - DOMAIN,ayqwjhh4cn.com
+  - DOMAIN,aysltbnozkryu.site
   - DOMAIN,aystda25.amazingyou.com
   - DOMAIN,aytbhnsvjqdrv.site
   - DOMAIN,aytgk8rfu4.com
@@ -16936,6 +16995,7 @@ payload:
   - DOMAIN,b668.record-bee.com
   - DOMAIN,b677b1ad62.com
   - DOMAIN,b681514051.com
+  - DOMAIN,b69922ebf1.com
   - DOMAIN,b6c9c4cf28.com
   - DOMAIN,b6ed49d650.b4b00ff6ab.com
   - DOMAIN,b6f2a46f29.com
@@ -17000,6 +17060,7 @@ payload:
   - DOMAIN,baboon.vacanti.com
   - DOMAIN,babooseducate.cyou
   - DOMAIN,bab.reinoanimalpet.com.br
+  - DOMAIN,babrootarrach.cfd
   - DOMAIN,babsst.buildabear.at
   - DOMAIN,babsst.buildabear.de
   - DOMAIN,babsst.buildabear.dk
@@ -17049,6 +17110,7 @@ payload:
   - DOMAIN,baconstaregnar.cfd
   - DOMAIN,baconswiles.shop
   - DOMAIN,ba-content.de
+  - DOMAIN,bacpfxhywfbb.com
   - DOMAIN,bacteriapokemoney.com
   - DOMAIN,bacurypredy.com
   - DOMAIN,badaladmin.savvybazz.store
@@ -17066,6 +17128,7 @@ payload:
   - DOMAIN,b.aecf.org
   - DOMAIN,baeel.viovet.co.uk
   - DOMAIN,baeizhplymdyc.site
+  - DOMAIN,baetylsavitri.qpon
   - DOMAIN,baexia.smartbuyglasses.com.hk
   - DOMAIN,baezlvydomldo.space
   - DOMAIN,baf3838b31.com
@@ -17151,6 +17214,7 @@ payload:
   - DOMAIN,baletingo.com
   - DOMAIN,balkersestian.com
   - DOMAIN,balkliving.com
+  - DOMAIN,ballast85.top
   - DOMAIN,ballatepinales.com
   - DOMAIN,ballismmalaise.qpon
   - DOMAIN,balloonbelieve.com
@@ -17178,6 +17242,7 @@ payload:
   - DOMAIN,balvehgmhw.com
   - DOMAIN,balxmtsxemcdn.com
   - DOMAIN,balzadicyema.com
+  - DOMAIN,bambankankie.qpon
   - DOMAIN,bambubajimper.shop
   - DOMAIN,bambusamums.cfd
   - DOMAIN,bamfd.hellobatch.com
@@ -17347,6 +17412,7 @@ payload:
   - DOMAIN,banshop.gruntovik.ru
   - DOMAIN,ban.su
   - DOMAIN,bantamsonefold.com
+  - DOMAIN,bantaytururi.qpon
   - DOMAIN,bantex.ru
   - DOMAIN,banthang.me
   - DOMAIN,bantinturing.cfd
@@ -17396,6 +17462,7 @@ payload:
   - DOMAIN,bareflowmat-ss.checkoutera.com
   - DOMAIN,barefootdreamsclasssettlement.e.epiqnotification.com
   - DOMAIN,barelydonkeysteed.com
+  - DOMAIN,barelykhariaedgiest.cfd
   - DOMAIN,baresplurge.shop
   - DOMAIN,barfingvolvas.qpon
   - DOMAIN,bargeerclival.com
@@ -17430,6 +17497,7 @@ payload:
   - DOMAIN,barrasdockage.com
   - DOMAIN,barrelcider.com
   - DOMAIN,barrelsgorce.shop
+  - DOMAIN,barren-struggle.pro
   - DOMAIN,barren-theory.com
   - DOMAIN,barresrelists.com
   - DOMAIN,barrier2plugins.net
@@ -17536,6 +17604,7 @@ payload:
   - DOMAIN,bayzsimioid.qpon
   - DOMAIN,bazamodov.ru
   - DOMAIN,bazlny.homepal.it
+  - DOMAIN,baztfhhqiuvttm.com
   - DOMAIN,bb2a5f24b3.com
   - DOMAIN,bb2c68869a.com
   - DOMAIN,bb2k0pq1vf.com
@@ -17693,6 +17762,7 @@ payload:
   - DOMAIN,bcpnsajrgrlop.online
   - DOMAIN,bcprm.com
   - DOMAIN,bcqhr.thecomfy.com
+  - DOMAIN,bcr74meb.xyz
   - DOMAIN,bcrct.bumpboxx.com
   - DOMAIN,bcrdao.apollo.de
   - DOMAIN,bcscodanngnhc.site
@@ -17986,6 +18056,7 @@ payload:
   - DOMAIN,bebasteshogs.shop
   - DOMAIN,bebeuwaqgtukc.site
   - DOMAIN,bebi.com
+  - DOMAIN,bebitealdols.cfd
   - DOMAIN,bebloomangrilyeveweed.cfd
   - DOMAIN,bebont.xyz
   - DOMAIN,bebpon.zetronix.com
@@ -18020,6 +18091,7 @@ payload:
   - DOMAIN,bedrop.marketing-tech.io
   - DOMAIN,bedrownannulsleskea.cyou
   - DOMAIN,bedsberry.com
+  - DOMAIN,bedsidemanak.cyou
   - DOMAIN,bedsidemeasuring.com
   - DOMAIN,bedsidetray.com
   - DOMAIN,bedsitcovert.qpon
@@ -18042,6 +18114,7 @@ payload:
   - DOMAIN,beencounter.com
   - DOMAIN,beennutforleseegret.cyou
   - DOMAIN,beenover.com
+  - DOMAIN,beeparentdo.com
   - DOMAIN,beepergaily.com
   - DOMAIN,beer2s.millerbrewing.com
   - DOMAIN,beeroutetrail.com
@@ -18157,6 +18230,7 @@ payload:
   - DOMAIN,bellows83.top
   - DOMAIN,bellsshutoku.com
   - DOMAIN,bellyinternsulphur.com
+  - DOMAIN,beloboka.link
   - DOMAIN,belointeractive.com
   - DOMAIN,belong.curtin.edu.au
   - DOMAIN,belongingstransform.com
@@ -18269,6 +18343,7 @@ payload:
   - DOMAIN,berthasgenty.cfd
   - DOMAIN,berthfrankly.com
   - DOMAIN,berthsosselet.cfd
+  - DOMAIN,bertlaevo.com
   - DOMAIN,bertleague.shop
   - DOMAIN,bertsysxmykqm.online
   - DOMAIN,berunhowbeit.cfd
@@ -18436,6 +18511,7 @@ payload:
   - DOMAIN,bewrycuba.cfd
   - DOMAIN,bewsgxy.solidandstriped.com
   - DOMAIN,bewzoacohftco.space
+  - DOMAIN,bexkpopzujdus.space
   - DOMAIN,beyanmaan.com
   - DOMAIN,beyolp.pebmed.com.br
   - DOMAIN,beyond.bluewolf.com
@@ -18458,6 +18534,7 @@ payload:
   - DOMAIN,bf-ad.net
   - DOMAIN,bfakfxslixdbx.site
   - DOMAIN,bfast.com
+  - DOMAIN,bfatejqxzleqa.site
   - DOMAIN,bfaubcoezrihe.site
   - DOMAIN,bf.barfego.de
   - DOMAIN,bfblyaqvcnaat.space
@@ -18609,6 +18686,7 @@ payload:
   - DOMAIN,bhgbqh.crocs.de
   - DOMAIN,bhgnm.biologica.com
   - DOMAIN,bhheuhvupxzpk.space
+  - DOMAIN,bhhhctxwaztth.space
   - DOMAIN,bhhqvf.theway9.co.kr
   - DOMAIN,bhhsg.superstarcarwashaz.com
   - DOMAIN,bhhvaweewcrdj.space
@@ -18844,6 +18922,7 @@ payload:
   - DOMAIN,bidmyadz.com
   - DOMAIN,bidmyqps.xyz
   - DOMAIN,bidpapers.com
+  - DOMAIN,bid.pleasedmad.com
   - DOMAIN,bidrbu.bett1.at
   - DOMAIN,bidreefigbirdgrubby.cyou
   - DOMAIN,bidr.io
@@ -18943,6 +19022,7 @@ payload:
   - DOMAIN,bilahh.feuvert.fr
   - DOMAIN,bilboaiortnredelay.cyou
   - DOMAIN,bildirim.eu
+  - DOMAIN,biliarybilati.cyou
   - DOMAIN,bilingualgeek.com
   - DOMAIN,bilinkexchang.com
   - DOMAIN,bilinnoisome.cyou
@@ -18957,6 +19037,7 @@ payload:
   - DOMAIN,bilmnu.trouver-un-logement-neuf.com
   - DOMAIN,bilobetwirled.qpon
   - DOMAIN,bilog.lovense-api.com
+  - DOMAIN,bilozolaize.cfd
   - DOMAIN,bilpolicydi.bytelab.dk
   - DOMAIN,bilsyndication.com
   - DOMAIN,bi.manhuaren.com
@@ -19775,11 +19856,14 @@ payload:
   - DOMAIN,bnhlpsmhvodae.online
   - DOMAIN,bnhrsd.urbanitae.com
   - DOMAIN,bnhtml.com
+  - DOMAIN,bnhufrkyqcbbo.online
   - DOMAIN,bnijec.colorfulimages.com
   - DOMAIN,bn.imguol.com
+  - DOMAIN,bniwhgmjnrhioni.com
   - DOMAIN,bnjrdn.newporthome.no
   - DOMAIN,bnk.wolterskluwerfs.com
   - DOMAIN,bnlhhv.jjshouse.co.uk
+  - DOMAIN,bnmymxvlfcxbx.space
   - DOMAIN,bnobmgl.icu
   - DOMAIN,bn.ohah.ru
   - DOMAIN,bnopq.hansohome.com
@@ -20161,6 +20245,7 @@ payload:
   - DOMAIN,bottleddictionary.com
   - DOMAIN,bottlertilly.qpon
   - DOMAIN,bottlestrivingtarget.com
+  - DOMAIN,bottsdieted.cfd
   - DOMAIN,bouchra2.actinutrivia.com
   - DOMAIN,boudja.com
   - DOMAIN,bougefill.cyou
@@ -20244,6 +20329,7 @@ payload:
   - DOMAIN,boyguwsiukyag.space
   - DOMAIN,boyismkouproh.com
   - DOMAIN,boyunakylie.com
+  - DOMAIN,bozvcohnsbhgk.website
   - DOMAIN,bozzedarby.qpon
   - DOMAIN,bp491h5z7wvpgl367mtefgbmzrmvq3oh.cfd
   - DOMAIN,bp4apps.horus.biz
@@ -20310,6 +20396,7 @@ payload:
   - DOMAIN,bqaijuqtjwpbf.website
   - DOMAIN,bqajoisaiwlxs.site
   - DOMAIN,bqbwvfofginwp.online
+  - DOMAIN,bqchipbuldzvg.website
   - DOMAIN,bqcmk.gardenofmemoriesmetairie.com
   - DOMAIN,bqddrhvtnoikv.space
   - DOMAIN,bqenzxdijbdov.space
@@ -20348,6 +20435,7 @@ payload:
   - DOMAIN,bqwjmvbjodclc.space
   - DOMAIN,bqx13piq2iitk12.cfd
   - DOMAIN,bqxnpvzbrurde.online
+  - DOMAIN,bqyfasjrctlfb.site
   - DOMAIN,br0vjqh7pe.com
   - DOMAIN,br4fr61y3p.com
   - DOMAIN,br7.beautyrepublicma.com
@@ -20378,6 +20466,7 @@ payload:
   - DOMAIN,braiseparvisemezuzas.cyou
   - DOMAIN,brajqk.ineedamobile.com
   - DOMAIN,brakiefissive.com
+  - DOMAIN,bramtammyplanish.cyou
   - DOMAIN,branch20.top
   - DOMAIN,branchborder.com
   - DOMAIN,branchout.pegs.com
@@ -20412,6 +20501,7 @@ payload:
   - DOMAIN,brashgrandchild.com
   - DOMAIN,brasilmistime.shop
   - DOMAIN,brassekhalat.cfd
+  - DOMAIN,brassetstanedcritics.cyou
   - DOMAIN,brassieringe.com
   - DOMAIN,brassstacker.com
   - DOMAIN,brationalfilarded.com
@@ -20530,6 +20620,7 @@ payload:
   - DOMAIN,brightestmarriagegrape.com
   - DOMAIN,brightforesthill.com
   - DOMAIN,bright.mailstrom.co
+  - DOMAIN,brightsafety.pro
   - DOMAIN,bright-sdk.com
   - DOMAIN,brightshare.com
   - DOMAIN,brightskyridge.com
@@ -20580,6 +20671,7 @@ payload:
   - DOMAIN,brluhyuqqizos.space
   - DOMAIN,br.m3fyrj9viihlbevn.cyou
   - DOMAIN,brm68.xnxx-hindi.com
+  - DOMAIN,brmnvyofrgody.online
   - DOMAIN,brmqk.potpourri.com
   - DOMAIN,brmrfxnpajqqx.site
   - DOMAIN,brn7myitt56fpb99p.cyou
@@ -20894,6 +20986,7 @@ payload:
   - DOMAIN,btrijioqoidwi.site
   - DOMAIN,btrll.com
   - DOMAIN,btrlvukwtlqyc.site
+  - DOMAIN,btsel5g.com
   - DOMAIN,btserve.com
   - DOMAIN,bts-la.ucweb.com
   - DOMAIN,btstats.benakt.com
@@ -20927,6 +21020,7 @@ payload:
   - DOMAIN,buafznvyuaoxv.site
   - DOMAIN,buaontzlplobx.website
   - DOMAIN,buasmk.earthshoes.com
+  - DOMAIN,buballmighty.com
   - DOMAIN,bubasocks-ss.checkoutera.com
   - DOMAIN,bubasocks-ss.shopperoc.com
   - DOMAIN,bubbledidact.qpon
@@ -20953,6 +21047,7 @@ payload:
   - DOMAIN,buckweeklyrecording.com
   - DOMAIN,buckynul.qpon
   - DOMAIN,bucsh.goodcatholic.com
+  - DOMAIN,budadymskizcs.online
   - DOMAIN,budaicius.com
   - DOMAIN,budairishryrampick.cfd
   - DOMAIN,budapest.imprenditore-vero.com
@@ -20973,6 +21068,7 @@ payload:
   - DOMAIN,buffermotivatorsuffice.com
   - DOMAIN,buffetaccommodating.com
   - DOMAIN,buffet.identityservices.io
+  - DOMAIN,buffinwillful.cfd
   - DOMAIN,buffoneazygous.cyou
   - DOMAIN,buffooncountabletreble.com
   - DOMAIN,buf.lemonde.fr
@@ -21144,6 +21240,7 @@ payload:
   - DOMAIN,burstyflavia.com
   - DOMAIN,burt.io
   - DOMAIN,burtonsmucin.cfd
+  - DOMAIN,burunduksha.link
   - DOMAIN,burvz.cerebralpalsyguide.com
   - DOMAIN,burwfuhpwjlme.site
   - DOMAIN,burysmemburdens.qpon
@@ -21312,6 +21409,7 @@ payload:
   - DOMAIN,bvmcdn.com
   - DOMAIN,bvmcdn.net
   - DOMAIN,bvmgyjbhzsuti.website
+  - DOMAIN,bvnfvpxegkfhj.site
   - DOMAIN,bvnnxhmypzrpbe.com
   - DOMAIN,bvqfh.skinesa.com
   - DOMAIN,bvraciedl.com
@@ -21346,6 +21444,7 @@ payload:
   - DOMAIN,bwbebqhowuxfn.online
   - DOMAIN,bwbwye.klarstein.hu
   - DOMAIN,bwcdn.xyz
+  - DOMAIN,bwcnkqheouhbk.site
   - DOMAIN,bwcvzbjbrbolk.site
   - DOMAIN,bwdhsqfsnouki.site
   - DOMAIN,bwdsnvwtnvuhl.store
@@ -21462,6 +21561,7 @@ payload:
   - DOMAIN,bxumze.wickedlocal.com
   - DOMAIN,bxvuyljdhjtim.site
   - DOMAIN,bxvvzylxihzoh.space
+  - DOMAIN,bxvxiomxjfeba.online
   - DOMAIN,bxwvk2ggv3.com
   - DOMAIN,bxwwtoeemvgrq.website
   - DOMAIN,bxwzds.spartoo.hu
@@ -21507,6 +21607,7 @@ payload:
   - DOMAIN,bykamfod.com
   - DOMAIN,bykwtf.victoriassecret.ae
   - DOMAIN,byl73zv9pvtj76.cfd
+  - DOMAIN,bylawsflaunty.cyou
   - DOMAIN,bylmfilfswasy.website
   - DOMAIN,by.mywd.com
   - DOMAIN,bynameshun.qpon
@@ -21530,6 +21631,7 @@ payload:
   - DOMAIN,bysfnu.bodeboca.com
   - DOMAIN,byspot.com
   - DOMAIN,byspvudwx.com
+  - DOMAIN,bystroglaza.link
   - DOMAIN,byswxkgrsbekt.website
   - DOMAIN,bytde.com
   - DOMAIN,byte69.net
@@ -21876,6 +21978,7 @@ payload:
   - DOMAIN,calamitynineteenthglide.com
   - DOMAIN,calcados.reginarios.com.br
   - DOMAIN,calchasbejanttoyers.qpon
+  - DOMAIN,calciumchulha.cyou
   - DOMAIN,calcpol.com
   - DOMAIN,calculatingcircle.com
   - DOMAIN,calculation94.top
@@ -22824,6 +22927,7 @@ payload:
   - DOMAIN,cargodisplayads.com
   - DOMAIN,cargoswrinklesotik.qpon
   - DOMAIN,caribalpicea.com
+  - DOMAIN,caribanpitmans.com
   - DOMAIN,caribou.mcgregorpublishing.com
   - DOMAIN,caricatureboretangle.com
   - DOMAIN,carinassyrus.qpon
@@ -22924,6 +23028,7 @@ payload:
   - DOMAIN,cas.derkarton.net
   - DOMAIN,case.losskin.com.br
   - DOMAIN,caseours.com
+  - DOMAIN,caserntagmeme.cyou
   - DOMAIN,cas.greenguardia.de
   - DOMAIN,cash4members.com
   - DOMAIN,cash-ads.com
@@ -22958,6 +23063,7 @@ payload:
   - DOMAIN,casinohacksforyou.com
   - DOMAIN,casinotoplists.com
   - DOMAIN,casinousagevacant.com
+  - DOMAIN,caskedthai.com
   - DOMAIN,casketdropperregalia.com
   - DOMAIN,casketembody.com
   - DOMAIN,caskingtawsed.cfd
@@ -23002,6 +23108,7 @@ payload:
   - DOMAIN,catapultx.com
   - DOMAIN,cataract40.com
   - DOMAIN,cataract77.top
+  - DOMAIN,catarrhparly.cfd
   - DOMAIN,cat.beunitedinchrist.com
   - DOMAIN,catchbarracksclinic.com
   - DOMAIN,catchesbaiza.com
@@ -23034,6 +23141,7 @@ payload:
   - DOMAIN,catfood.mikipetstore.com
   - DOMAIN,catfront.dianping.com
   - DOMAIN,cat.gfx.io
+  - DOMAIN,cathaytrash.com
   - DOMAIN,ca.thepornstar.com
   - DOMAIN,cathe-tindung247mpos.com
   - DOMAIN,cat.hilde-phil.com
@@ -23105,6 +23213,7 @@ payload:
   - DOMAIN,caxtsk.russoraffaele.it
   - DOMAIN,caxuqimnaclcm.website
   - DOMAIN,ca.yangshengtv.com
+  - DOMAIN,caymanhafgan.qpon
   - DOMAIN,cayot.ir
   - DOMAIN,ca.zatube.com
   - DOMAIN,cazbt.immunage.us
@@ -23120,6 +23229,7 @@ payload:
   - DOMAIN,cba.cda-hd.co
   - DOMAIN,cba-fed-igh.com
   - DOMAIN,c.bannerflow.net
+  - DOMAIN,cbayjvkbxwmki.site
   - DOMAIN,c.bazo.io
   - DOMAIN,c.bazu.cc
   - DOMAIN,cb.baidu.com
@@ -23172,6 +23282,7 @@ payload:
   - DOMAIN,cbsbnq.goodsey.com
   - DOMAIN,cbsfn.miranajewels.com
   - DOMAIN,cbsloirslgakw.space
+  - DOMAIN,cbsooaywxukwm.space
   - DOMAIN,cbso.uk.net
   - DOMAIN,cbstctshoywvv.space
   - DOMAIN,cbsxfgczalhiv.space
@@ -23953,6 +24064,7 @@ payload:
   - DOMAIN,cenoobi.run
   - DOMAIN,cenpsn.creatework.jp
   - DOMAIN,censingshlocks.cfd
+  - DOMAIN,censureswabs.qpon
   - DOMAIN,censuscompassembryo.com
   - DOMAIN,censusmarrydespair.com
   - DOMAIN,centassels.com
@@ -24227,6 +24339,7 @@ payload:
   - DOMAIN,chaipoodrort.com
   - DOMAIN,chaireggnog.com
   - DOMAIN,chairermomma.shop
+  - DOMAIN,chairersurvise.qpon
   - DOMAIN,chairman69.top
   - DOMAIN,chairscrack.com
   - DOMAIN,chairsdonkey.com
@@ -24473,6 +24586,7 @@ payload:
   - DOMAIN,chief-border.com
   - DOMAIN,chiefburden.cyou
   - DOMAIN,chieflydecorationtreasure.com
+  - DOMAIN,chiefsvibrion.cfd
   - DOMAIN,chientich-sinhnhatlienquangarenavn.ml
   - DOMAIN,chientich-sinhnhat-lienquanvn.gq
   - DOMAIN,chievegambian.cyou
@@ -24574,6 +24688,7 @@ payload:
   - DOMAIN,chovaynhanh.online
   - DOMAIN,chovaytiengopsg.com
   - DOMAIN,chovaytieudung.online
+  - DOMAIN,chowingethnize.com
   - DOMAIN,chowingtwains.qpon
   - DOMAIN,chowsespenal.qpon
   - DOMAIN,choymp.pooldawg.com
@@ -24653,6 +24768,7 @@ payload:
   - DOMAIN,chvfszwf.pricebook.site
   - DOMAIN,chvfszwf.tilbudstorvet.dk
   - DOMAIN,chvfszwf.xn--strmfinner-2cb.no
+  - DOMAIN,chwanakaro.com
   - DOMAIN,chwyt1hzb.com
   - DOMAIN,chxfqemkekb.com
   - DOMAIN,chxknzcvpciju.site
@@ -24713,6 +24829,7 @@ payload:
   - DOMAIN,cilvyqmins.com
   - DOMAIN,cimage.adobe.com
   - DOMAIN,ci-marketing.de
+  - DOMAIN,cimbricalphyls.cfd
   - DOMAIN,cimbznaflhzgk.site
   - DOMAIN,c.imedia.cz
   - DOMAIN,cimexcursers.cyou
@@ -24921,6 +25038,7 @@ payload:
   - DOMAIN,ckpb3c3wq449m7wo7fe553ief.cfd
   - DOMAIN,ckpchhhnhbsle.site
   - DOMAIN,ckpip.lifeextension.com
+  - DOMAIN,ckprywhyjlilp.website
   - DOMAIN,ckpyqgorlfdko.site
   - DOMAIN,ckqohqwhpsgvf.website
   - DOMAIN,ckqot.gleamin.com
@@ -24940,6 +25058,7 @@ payload:
   - DOMAIN,ckvbtyjnsuvxl.space
   - DOMAIN,ckwcowyajixtb.online
   - DOMAIN,ck.wohnwagenmatratzen.com
+  - DOMAIN,ckwouavsimupd.space
   - DOMAIN,ckygge.mohd.it
   - DOMAIN,ckyhec.maxisport.com
   - DOMAIN,ckzkucfmuzzif.space
@@ -24977,6 +25096,7 @@ payload:
   - DOMAIN,clarinmeanest.com
   - DOMAIN,clarity.abacast.com
   - DOMAIN,clarity.fonio.ai
+  - DOMAIN,clarity-il.com
   - DOMAIN,clarity.ms
   - DOMAIN,claritytag.com
   - DOMAIN,clarium.global.ssl.fastly.net
@@ -25006,6 +25126,7 @@ payload:
   - DOMAIN,clawaramina.cfd
   - DOMAIN,clawkerrifely.cyou
   - DOMAIN,claxonsfootedaerides.cfd
+  - DOMAIN,claxonstumble.cyou
   - DOMAIN,claycandle.com
   - DOMAIN,claysinigowiggism.cyou
   - DOMAIN,clbaf.com
@@ -25032,6 +25153,7 @@ payload:
   - DOMAIN,cl.dinoeduca.com
   - DOMAIN,cldirplarimo.com
   - DOMAIN,cldlr.com
+  - DOMAIN,cle38jfzoop9fyii8rwgiy59hzi.cfd
   - DOMAIN,cleafs.com
   - DOMAIN,clean-1-clean.club
   - DOMAIN,clean-browsing.com
@@ -25092,6 +25214,7 @@ payload:
   - DOMAIN,cl.eye-healthy.com
   - DOMAIN,clhvo.yolotek.com
   - DOMAIN,clhzet.ubierzswojesciany.pl
+  - DOMAIN,cli1x4kbjw9j3op.cfd
   - DOMAIN,cli2020.com
   - DOMAIN,clicadu.com
   - DOMAIN,click2.cafepress.com
@@ -26062,6 +26185,7 @@ payload:
   - DOMAIN,cobwebsituationstyling.com
   - DOMAIN,cocambgwyeeym.website
   - DOMAIN,cocauseuncharmfun.qpon
+  - DOMAIN,coccidmiaows.com
   - DOMAIN,coccoussparsim.cyou
   - DOMAIN,cochairdauw.cyou
   - DOMAIN,cochin.net.anwalt.de
@@ -26129,6 +26253,7 @@ payload:
   - DOMAIN,cod.southmoney.com
   - DOMAIN,cod.tandartspraktijkjagtkade.nl
   - DOMAIN,coeffvibices.shop
+  - DOMAIN,coelderallergy.cyou
   - DOMAIN,coeliabumpee.com
   - DOMAIN,coendouspare.com
   - DOMAIN,coenurebagfulsbransle.cyou
@@ -26207,6 +26332,7 @@ payload:
   - DOMAIN,coleta.curcura.com.br
   - DOMAIN,coleta.suplementosgolfeto.com.br
   - DOMAIN,colgui.vidaxl.pt
+  - DOMAIN,colibrivols.cfd
   - DOMAIN,colicsbefile.com
   - DOMAIN,col.idealista.com
   - DOMAIN,col.idealista.fr
@@ -26558,6 +26684,7 @@ payload:
   - DOMAIN,collserve.com
   - DOMAIN,collstatute.cyou
   - DOMAIN,colobinresever.com
+  - DOMAIN,cologsassholebribees.cyou
   - DOMAIN,colonexpenditure.com
   - DOMAIN,colonistnobilityheroic.com
   - DOMAIN,coloradoserves.com
@@ -27919,7 +28046,6 @@ payload:
   - DOMAIN,counter.log24.ru
   - DOMAIN,counter.maases.com
   - DOMAIN,counter.mahanmusic.net
-  - DOMAIN,counter-mdpr.freetls.fastly.net
   - DOMAIN,counter.megagroup.ru
   - DOMAIN,counter.megaindex.ru
   - DOMAIN,counter.mgronline.com
@@ -28063,6 +28189,7 @@ payload:
   - DOMAIN,cowherbcarboys.qpon
   - DOMAIN,cowhmc.docmorris.de
   - DOMAIN,cowlitzukiyoye.cyou
+  - DOMAIN,cowlssubtly.com
   - DOMAIN,cowpeasgnatty.qpon
   - DOMAIN,cowshernani.com
   - DOMAIN,coxalgyjessingtempter.qpon
@@ -28249,6 +28376,7 @@ payload:
   - DOMAIN,c.pravo.ru
   - DOMAIN,cprgh.nuudcare.fr
   - DOMAIN,c.printmyname.fr
+  - DOMAIN,cprnimwjghdhx.space
   - DOMAIN,cpro.baidu.com
   - DOMAIN,cpro.baidustatic.com
   - DOMAIN,cpro.bdrmb.cn
@@ -28288,7 +28416,9 @@ payload:
   - DOMAIN,cqaipi.cristaiscadoro.com
   - DOMAIN,cqbbpf.geewiz.co.za
   - DOMAIN,cqbkhv.anacapri.com.br
+  - DOMAIN,cqbxk55j7pxnl69c2q.cfd
   - DOMAIN,cqcaoltqtarmz.space
+  - DOMAIN,cqccwsdgaphae.site
   - DOMAIN,cqcounter.com
   - DOMAIN,cqcpazetvhaso.website
   - DOMAIN,cqcsvgiryffsf.online
@@ -28398,6 +28528,7 @@ payload:
   - DOMAIN,cranegarnishextinct.com
   - DOMAIN,cranelyculpa.cfd
   - DOMAIN,crane.maggsgroup.com
+  - DOMAIN,cranialhubbed.com
   - DOMAIN,craniasasan.shop
   - DOMAIN,craniolgozzan.com
   - DOMAIN,crankerbillety.shop
@@ -28450,6 +28581,7 @@ payload:
   - DOMAIN,crdzdraaxdphk.online
   - DOMAIN,creaghtain.com
   - DOMAIN,creakedmenisci.qpon
+  - DOMAIN,creamsfecial.cyou
   - DOMAIN,creamssicsite.com
   - DOMAIN,creamymouth.com
   - DOMAIN,creara-media.ru
@@ -28572,6 +28704,7 @@ payload:
   - DOMAIN,crickball.com
   - DOMAIN,cricketquaint.com
   - DOMAIN,crickleleangle.qpon
+  - DOMAIN,cricoidcharact.cfd
   - DOMAIN,criesspiceclack.com
   - DOMAIN,crieycuber.com
   - DOMAIN,cri.harvardpilgrim.org
@@ -28684,6 +28817,7 @@ payload:
   - DOMAIN,crosspromotion.weplayer.cc
   - DOMAIN,crosspromo.voodoo.io
   - DOMAIN,crosswalkmail.com
+  - DOMAIN,crotinegoists.cfd
   - DOMAIN,crouchedmonarch.com
   - DOMAIN,crouteintendersinbringer.monster
   - DOMAIN,crowbarrinds.com
@@ -28769,6 +28903,7 @@ payload:
   - DOMAIN,crxcr2.com
   - DOMAIN,crxcra.com
   - DOMAIN,crxsoukcwwpip.space
+  - DOMAIN,cryoselarolla.com
   - DOMAIN,cryo.socialblade.com
   - DOMAIN,cryp-o.online
   - DOMAIN,cryptalsnakily.cyou
@@ -28957,6 +29092,7 @@ payload:
   - DOMAIN,csst.iszn.ch
   - DOMAIN,csst.kingscollegedoha.com
   - DOMAIN,csst.kingscollegeriyadh.com
+  - DOMAIN,csstmrxvhyufk.site
   - DOMAIN,csst.reptonabudhabi.org
   - DOMAIN,csst.reptondubai.org
   - DOMAIN,csst.rgsgd.com
@@ -28978,6 +29114,7 @@ payload:
   - DOMAIN,cst.docciatime.it
   - DOMAIN,cst.maracarol.it
   - DOMAIN,cstwpush.com
+  - DOMAIN,csudgirlnnkir.space
   - DOMAIN,csufnzbxyfrfd.space
   - DOMAIN,csuhgqcwubodd.online
   - DOMAIN,csujjgortosza.site
@@ -29368,6 +29505,7 @@ payload:
   - DOMAIN,cupqkf.laimprentacg.com
   - DOMAIN,cupra.euroshop.com.pe
   - DOMAIN,cupriteaffile.qpon
+  - DOMAIN,cuprumsalist.qpon
   - DOMAIN,cupsligase.qpon
   - DOMAIN,cups.republicoftea.com
   - DOMAIN,cuqkju.under70.kr
@@ -29378,6 +29516,7 @@ payload:
   - DOMAIN,curated.fieldtest.cc
   - DOMAIN,curatedtea.com
   - DOMAIN,curatnestful.com
+  - DOMAIN,curberefforddarkest.qpon
   - DOMAIN,curberstownletwur.qpon
   - DOMAIN,curbingspider.com
   - DOMAIN,curbminers.com
@@ -29867,6 +30006,7 @@ payload:
   - DOMAIN,cyrola.net
   - DOMAIN,cysclatowtdxq.website
   - DOMAIN,cysodwprdoejs.online
+  - DOMAIN,cystoidschlockspecked.cyou
   - DOMAIN,cytomachatons.cyou
   - DOMAIN,cytulaprizes.cyou
   - DOMAIN,cyu6bl939o.com
@@ -29880,6 +30020,7 @@ payload:
   - DOMAIN,cyxyzrpolrjnh.online
   - DOMAIN,cyyzrgvrnbomn.online
   - DOMAIN,cz16vlh0la.com
+  - DOMAIN,cz34qg4fkx6cxlj5zom9.rest
   - DOMAIN,czabtzbcciqyn.space
   - DOMAIN,czapqaaydakss.online
   - DOMAIN,czardasshammas.qpon
@@ -31170,6 +31311,7 @@ payload:
   - DOMAIN,d4u.best4u.nl
   - DOMAIN,d4xmm7es84.com
   - DOMAIN,d5092moci.com
+  - DOMAIN,d5455682ae.com
   - DOMAIN,d55b071143.03c4e4cc73.com
   - DOMAIN,d580eca1d1.com
   - DOMAIN,d58ad0184a.com
@@ -31555,6 +31697,7 @@ payload:
   - DOMAIN,dampdock.com
   - DOMAIN,dampedvisored.com
   - DOMAIN,damselfly.vegenook.com
+  - DOMAIN,damselsidyloured.cyou
   - DOMAIN,damselsslacken.cyou
   - DOMAIN,d.amsterdamdeskcompany.nl
   - DOMAIN,d.amsterdamsvloerencentrum.nl
@@ -31671,6 +31814,7 @@ payload:
   - DOMAIN,darkpetalia.com
   - DOMAIN,darksbebop.qpon
   - DOMAIN,darlingyechs.qpon
+  - DOMAIN,darnedsweaty.cfd
   - DOMAIN,darnobedienceupscale.com
   - DOMAIN,darnuid.netflix.com
   - DOMAIN,daro.so
@@ -36747,6 +36891,7 @@ payload:
   - DOMAIN,d.bifrost-studio.com
   - DOMAIN,dbijezouim.com
   - DOMAIN,d.bildeals.se
+  - DOMAIN,dbjgerjoxzdmq.space
   - DOMAIN,dbjnzp.estellabartlett.com
   - DOMAIN,dbl.cadriamarketing.com
   - DOMAIN,d.bliss-stories.fr
@@ -37117,6 +37262,7 @@ payload:
   - DOMAIN,ddss.shoutt.ai
   - DOMAIN,ddst.mybet.com.au
   - DOMAIN,ddst.swiftbet.com.au
+  - DOMAIN,ddszuecklamvl.space
   - DOMAIN,dd.ukko.hu
   - DOMAIN,dd.vanharvey.com
   - DOMAIN,ddvbjehruuj5y.cloudfront.net
@@ -37371,6 +37517,7 @@ payload:
   - DOMAIN,delawstooded.com
   - DOMAIN,delaybagelblur.com
   - DOMAIN,delayeddisputecommotion.com
+  - DOMAIN,delayersyrmian.qpon
   - DOMAIN,deleb.xyz
   - DOMAIN,delectable-earth.com
   - DOMAIN,delegatehistorianincline.com
@@ -37478,6 +37625,7 @@ payload:
   - DOMAIN,demdhkulyjqyb.space
   - DOMAIN,dementedjudged.com
   - DOMAIN,demeter-tr-core-collect.trendyol.com
+  - DOMAIN,demibobenstarseizing.qpon
   - DOMAIN,demiestwirl.cyou
   - DOMAIN,demiramhuffywoodlet.qpon
   - DOMAIN,demiseberriesstranger.com
@@ -37583,6 +37731,7 @@ payload:
   - DOMAIN,deraz.habitnest.com
   - DOMAIN,derbypops.com
   - DOMAIN,derbytestulebimini.qpon
+  - DOMAIN,derejaycees.cyou
   - DOMAIN,derelictbookstorebilly.com
   - DOMAIN,d.eremitplats.se
   - DOMAIN,derfsquares.qpon
@@ -37627,7 +37776,6 @@ payload:
   - DOMAIN,desklks.com
   - DOMAIN,desktopcorreoshowcase.net.mydays.de
   - DOMAIN,deskunfortunate.com
-  - DOMAIN,desk.unlesscool.com
   - DOMAIN,desminefarinhaimpling.cfd
   - DOMAIN,despoteavesdropblazing.com
   - DOMAIN,despotsnortle.qpon
@@ -37834,6 +37982,7 @@ payload:
   - DOMAIN,df888.eastday.com
   - DOMAIN,d.fabu-btq.com.ua
   - DOMAIN,dfaksbltiobcn.website
+  - DOMAIN,dfalhiqzvuepe.website
   - DOMAIN,dfanalytics.dealerfire.com
   - DOMAIN,dfapvmql-q.global.ssl.fastly.net
   - DOMAIN,d.farmaggedon.co.uk
@@ -38666,6 +38815,7 @@ payload:
   - DOMAIN,diobolssorrowlr.cyou
   - DOMAIN,diocgn.biltorvet.dk
   - DOMAIN,dionaeapeoplet.com
+  - DOMAIN,dionizewarlordrally.cyou
   - DOMAIN,dionymservant.shop
   - DOMAIN,dioonwongen.shop
   - DOMAIN,dioptrecalmato.cfd
@@ -39083,6 +39233,7 @@ payload:
   - DOMAIN,d.karim-fathi-berrada.fr
   - DOMAIN,dkattqczpqtsi.site
   - DOMAIN,dkbicq.elektramat.nl
+  - DOMAIN,dkbplndtgstzj.site
   - DOMAIN,dkc63u5su8.com
   - DOMAIN,dkcarxqotiviv.website
   - DOMAIN,dkclxi.sitkagear.com
@@ -39249,6 +39400,7 @@ payload:
   - DOMAIN,dlooqrhebkjoh.cloudfront.net
   - DOMAIN,d.love4porn.com
   - DOMAIN,dlqbioenjjwsv.store
+  - DOMAIN,dlqetfcxdfzxr.online
   - DOMAIN,dlqxtm.sssports.com
   - DOMAIN,dlqycx.zenhotels.com
   - DOMAIN,dlrdmw.zanui.com.au
@@ -39528,6 +39680,7 @@ payload:
   - DOMAIN,d.norsol.no
   - DOMAIN,d.northtownchiro.co
   - DOMAIN,dnosyvngti.com
+  - DOMAIN,dnpvftwodustw.site
   - DOMAIN,dnqaa.flexyminds.com
   - DOMAIN,dnqftnryxfngg.website
   - DOMAIN,dnqmuubtrodvi.site
@@ -39583,6 +39736,7 @@ payload:
   - DOMAIN,dobldiaene.qpon
   - DOMAIN,doboscymene.cyou
   - DOMAIN,dobrhoovkxoru.website
+  - DOMAIN,dobrolyuba.link
   - DOMAIN,d.obsessive.fr
   - DOMAIN,dobytowsy.com
   - DOMAIN,doc830ytc7pyp.cloudfront.net
@@ -39666,6 +39820,7 @@ payload:
   - DOMAIN,dolarkurum.com
   - DOMAIN,dolej.beyondriders.com
   - DOMAIN,dolekaraokeoversleep.com
+  - DOMAIN,dolgoruka.link
   - DOMAIN,doliumacutely.shop
   - DOMAIN,dollarbank.fmservice.com
   - DOMAIN,dollarcarbohydratesunrise.com
@@ -39717,6 +39872,7 @@ payload:
   - DOMAIN,domslc.com
   - DOMAIN,d.omsnative.de
   - DOMAIN,dom.uneinternet.com.br
+  - DOMAIN,domzpbsymwbtf.online
   - DOMAIN,donagggfdfgzd.space
   - DOMAIN,donalpapmeat.com
   - DOMAIN,donasi.lk21.de
@@ -39809,6 +39965,7 @@ payload:
   - DOMAIN,dortmark.net
   - DOMAIN,dosagepettytrust.com
   - DOMAIN,dosawes.com
+  - DOMAIN,dosingscutta.com
   - DOMAIN,dossierportal.net.mydays.de
   - DOMAIN,dossingxina.com
   - DOMAIN,dossqsmvbabik.site
@@ -40032,6 +40189,7 @@ payload:
   - DOMAIN,dqhepocpcwspj.space
   - DOMAIN,dqif5bl25s0bf.cloudfront.net
   - DOMAIN,dqlnwrulga.com
+  - DOMAIN,dqlrjkhbgtncp.space
   - DOMAIN,dqmgvcgaghhww.online
   - DOMAIN,dqntra.home-to-go.ca
   - DOMAIN,dqpqg.bynorah.com
@@ -40104,6 +40262,7 @@ payload:
   - DOMAIN,d.rapidformations.co.uk
   - DOMAIN,dratetillage.com
   - DOMAIN,drato.xyz
+  - DOMAIN,draughtsolarycibory.cfd
   - DOMAIN,d.raum-blick.de
   - DOMAIN,draviteinosine.com
   - DOMAIN,drawerexperienceletting.com
@@ -41088,6 +41247,7 @@ payload:
   - DOMAIN,duelf.xstanceinsoles.com
   - DOMAIN,duendesmolest.com
   - DOMAIN,duenschdgoplh.online
+  - DOMAIN,dueobtiwztrvb.website
   - DOMAIN,duepose.com
   - DOMAIN,dufai4b1ap33z.cloudfront.net
   - DOMAIN,dufbut.wtennis.com.br
@@ -41115,6 +41275,7 @@ payload:
   - DOMAIN,duliasvod.cyou
   - DOMAIN,dulillipupan.com
   - DOMAIN,dullequivalent.com
+  - DOMAIN,dullingmaltols.qpon
   - DOMAIN,dullmilacredolmans.cyou
   - DOMAIN,dullylogoi.cfd
   - DOMAIN,dulojet.com
@@ -41137,10 +41298,12 @@ payload:
   - DOMAIN,dungsweighty.shop
   - DOMAIN,dunhilltraveldeals.com
   - DOMAIN,dunkashtraycolloquial.com
+  - DOMAIN,dunlincaban.com
   - DOMAIN,dunsunless.cyou
   - DOMAIN,duodialclinkslowder.cfd
   - DOMAIN,duomoskullani.cyou
   - DOMAIN,duopodbanshee.cfd
+  - DOMAIN,duopolyfresher.qpon
   - DOMAIN,duop.safetygenius.co.nz
   - DOMAIN,duotypesleeted.com
   - DOMAIN,duovd.simmonsfirm.com
@@ -41178,12 +41341,15 @@ payload:
   - DOMAIN,durylpatefyachage.cfd
   - DOMAIN,duryltubbist.com
   - DOMAIN,dusclebolloxfidgets.cyou
+  - DOMAIN,duseqed.cfd
   - DOMAIN,dusfolzrshwgf.online
   - DOMAIN,duskilyboheas.com
   - DOMAIN,dust-0001.delorazahnow.workers.dev
   - DOMAIN,dustaclean-ss.checkoutera.com
   - DOMAIN,dustapro-ss.topashopo.com
   - DOMAIN,dustavacuum-ss.checkoutera.com
+  - DOMAIN,dustedfiggy.com
+  - DOMAIN,dusthorses.com
   - DOMAIN,dustuckiodates.cfd
   - DOMAIN,dust.xxx-video-indian.com
   - DOMAIN,dustydime.com
@@ -41595,6 +41761,7 @@ payload:
   - DOMAIN,dyeingsbayamo.com
   - DOMAIN,dygeitaze.com
   - DOMAIN,dyghye.fashionesta.com
+  - DOMAIN,dygtrbrfakhei.online
   - DOMAIN,dygudhixkfwew.online
   - DOMAIN,dyh1wzegu1j6z.cloudfront.net
   - DOMAIN,dyingsixth.com
@@ -41662,6 +41829,7 @@ payload:
   - DOMAIN,dzbkl37t8az8q.cloudfront.net
   - DOMAIN,dzbuad.dr505.com
   - DOMAIN,dzdgfp673c1p0.cloudfront.net
+  - DOMAIN,dzdyehthvvklf.online
   - DOMAIN,d.zep.de
   - DOMAIN,dzfcb.hydropeptide.com
   - DOMAIN,dzforp.buscape.com.br
@@ -41909,6 +42077,7 @@ payload:
   - DOMAIN,ea.greenweez.eu
   - DOMAIN,eagsur.sobarroso.pt
   - DOMAIN,eagtmss.esferadaarte.com.br
+  - DOMAIN,eagyippfwjizf.online
   - DOMAIN,ea.habitat.de
   - DOMAIN,ea.habitat.fr
   - DOMAIN,ea.habitat.net
@@ -42103,6 +42272,7 @@ payload:
   - DOMAIN,eatvvxxcaszwi.space
   - DOMAIN,eaueb.shopsweatshaper.com
   - DOMAIN,eauicw.artnature.co.jp
+  - DOMAIN,eauspauld.qpon
   - DOMAIN,eauvvknrrdvxv.space
   - DOMAIN,eavakddcdofik.site
   - DOMAIN,ea.venta-del-diablo.com
@@ -42159,6 +42329,7 @@ payload:
   - DOMAIN,ebcuyqqwftzfn.website
   - DOMAIN,ebd.cda-hd.cc
   - DOMAIN,ebd.cda-hd.co
+  - DOMAIN,ebdfedoyvojak.online
   - DOMAIN,ebdljicttjddk.store
   - DOMAIN,ebeca096c8caf9bd59163307d4237176.com
   - DOMAIN,ebeed.game-patch.com
@@ -42365,6 +42536,7 @@ payload:
   - DOMAIN,ec.casagangotena.com
   - DOMAIN,eccentricsterilizevastness.com
   - DOMAIN,ecclesbacalaoahi.cyou
+  - DOMAIN,eccmdrazvyrgj.space
   - DOMAIN,ec-concier.com
   - DOMAIN,ecctjf.leroymerlin.com.br
   - DOMAIN,e.cdngeek.com
@@ -42828,6 +43000,7 @@ payload:
   - DOMAIN,eeodvdku.fuglsang-service.dk
   - DOMAIN,eeoldm.onitsukatiger.com
   - DOMAIN,eeorderso.cfd
+  - DOMAIN,eepidlweakvhd.site
   - DOMAIN,eepngjlpomkcr.space
   - DOMAIN,eeptoabs.com
   - DOMAIN,eepxyp.dogu.pet
@@ -42906,6 +43079,7 @@ payload:
   - DOMAIN,efh2rahxxq.com
   - DOMAIN,efhcel.erborian.ru
   - DOMAIN,efhljy.trendhim.bg
+  - DOMAIN,efikmuchly.qpon
   - DOMAIN,efjsvt.patyka.com
   - DOMAIN,eflewandatnig.org
   - DOMAIN,efljvtbtvlypv.online
@@ -42994,6 +43168,7 @@ payload:
   - DOMAIN,eglujzjlgxlhq.space
   - DOMAIN,egmoytcwvwfnc.website
   - DOMAIN,egoemukkwyxfe.site
+  - DOMAIN,egojvezcvpcxsy.com
   - DOMAIN,egomiogdopisd.website
   - DOMAIN,egori.xyz
   - DOMAIN,egotisticexcavateplywood.com
@@ -43059,6 +43234,7 @@ payload:
   - DOMAIN,ehqot.southtree.com
   - DOMAIN,ehqufypefcfkx.site
   - DOMAIN,ehrlgb.izlato.sk
+  - DOMAIN,ehrxthskewjm.com
   - DOMAIN,ehrydnmdoe.com
   - DOMAIN,ehsaxkwmtzvlm.space
   - DOMAIN,ehsf5afviv.com
@@ -43076,6 +43252,7 @@ payload:
   - DOMAIN,ehwsnbikqtuyp.online
   - DOMAIN,ehxybi.arno.kr
   - DOMAIN,ehygkgvwxipes.website
+  - DOMAIN,ehyrkxjh.com
   - DOMAIN,ehzcn.4thandreckless.com
   - DOMAIN,ehzlb.jivenu.com
   - DOMAIN,ehzlg.lorenzo.world
@@ -43155,6 +43332,7 @@ payload:
   - DOMAIN,eiurcesrxusez.website
   - DOMAIN,eiv.baidu.com
   - DOMAIN,eiwgnamxjkj.com
+  - DOMAIN,eixefloolsv.com
   - DOMAIN,eixgdeonnumrp.site
   - DOMAIN,eixypottzpleb.space
   - DOMAIN,eiydgc.12storeez.ru
@@ -43215,6 +43393,7 @@ payload:
   - DOMAIN,ejubffgqqurwz.space
   - DOMAIN,ejufwpkpikrgy.space
   - DOMAIN,ejunshi.com
+  - DOMAIN,ejwirwtvfytge.site
   - DOMAIN,ejwxlplhgzzhf.store
   - DOMAIN,ejxaihnkjwwce.space
   - DOMAIN,ejxhiitnxgwun.site
@@ -43306,6 +43485,7 @@ payload:
   - DOMAIN,elastinfemale.qpon
   - DOMAIN,elatedcamera.com
   - DOMAIN,elatedpassatashiv.qpon
+  - DOMAIN,elatorklanism.com
   - DOMAIN,elaydark.com
   - DOMAIN,elb.edge47.testandtarget.omniture.com
   - DOMAIN,elbep.xyz
@@ -43355,6 +43535,7 @@ payload:
   - DOMAIN,elelasticalsdebat.org
   - DOMAIN,elemarleng.cfd
   - DOMAIN,element-1h.net.mydays.de
+  - DOMAIN,elementarycustomer.pro
   - DOMAIN,elementarysinger.com
   - DOMAIN,elementfleet51.net.mydays.de
   - DOMAIN,elementsacorncolossal.com
@@ -44356,6 +44537,7 @@ payload:
   - DOMAIN,enpwguftxyrgv.online
   - DOMAIN,enqbhjqulihto.com
   - DOMAIN,enqrudnf.com
+  - DOMAIN,enqueueazofier.qpon
   - DOMAIN,enquiry.marketingcube.com.au
   - DOMAIN,enquisite.com
   - DOMAIN,enracesolum.qpon
@@ -44655,6 +44837,7 @@ payload:
   - DOMAIN,epwa.europarl.europa.eu
   - DOMAIN,epwpsssmnituo.space
   - DOMAIN,epxniaadddb.com
+  - DOMAIN,epyqlmeugx.com
   - DOMAIN,epyykiftqkufp.space
   - DOMAIN,eq52.zclxvr99xuqzfvo2cvtwi2zf728f4x.cyou
   - DOMAIN,eq9qnbh53.com
@@ -44801,6 +44984,7 @@ payload:
   - DOMAIN,ermowffamrahw.website
   - DOMAIN,ernga.alexnalexrealty.com
   - DOMAIN,erniphiq.com
+  - DOMAIN,ernswhereatredwud.cyou
   - DOMAIN,ero-advertising.com
   - DOMAIN,eroadvertising.com
   - DOMAIN,eroahogayjnxf.website
@@ -44849,6 +45033,7 @@ payload:
   - DOMAIN,erutinmos.snagajob.com
   - DOMAIN,ervaring.theqlounge.nl
   - DOMAIN,ervgyk.nomadgrills.com
+  - DOMAIN,ervilcopsesoutcrow.cfd
   - DOMAIN,ervtdgkyqbsdd.website
   - DOMAIN,ervwyrdicmuvz.space
   - DOMAIN,erwknxujxxxbh.space
@@ -45405,6 +45590,7 @@ payload:
   - DOMAIN,eussiyvfjpqqc.site
   - DOMAIN,eussownwpyxdw.online
   - DOMAIN,eu.sst.elemis.com
+  - DOMAIN,eustmtegiln.com
   - DOMAIN,eu-stsdk.vivoglobal.com
   - DOMAIN,eusuperior.metodoeusuperior.com.br
   - DOMAIN,eu-survey.com
@@ -45458,6 +45644,7 @@ payload:
   - DOMAIN,evendeprivation.com
   - DOMAIN,evendisciplineseedlings.com
   - DOMAIN,evenement.ricoh.fr
+  - DOMAIN,evenerbeehive.cfd
   - DOMAIN,evenerphases.qpon
   - DOMAIN,evenincompleteremarried.com
   - DOMAIN,event1.thermofisher.com
@@ -45905,6 +46092,7 @@ payload:
   - DOMAIN,eviewonline.certinal.com
   - DOMAIN,evilexchanged.com
   - DOMAIN,evil.infinitybet.win
+  - DOMAIN,evillyhecticmush.cfd
   - DOMAIN,evilstrike.pro
   - DOMAIN,eviltracker.net
   - DOMAIN,e.viously.com
@@ -46146,6 +46334,7 @@ payload:
   - DOMAIN,exenunegpxcyk.space
   - DOMAIN,exepahzmgwfiz.site
   - DOMAIN,exercisepatronize.com
+  - DOMAIN,exesiontirlsscarph.qpon
   - DOMAIN,exfjpw.com
   - DOMAIN,exgrntvgdmflc.website
   - DOMAIN,exgrub.orthoticshop.com
@@ -46905,6 +47094,7 @@ payload:
   - DOMAIN,farmagewhooper.cyou
   - DOMAIN,farm-cn.plista.com
   - DOMAIN,farmergoldfish.com
+  - DOMAIN,farmoutuvulas.qpon
   - DOMAIN,faro-collector-prod-eu-west-0.grafana.net
   - DOMAIN,far.offday.com.bd
   - DOMAIN,faroukrollo.cfd
@@ -47225,6 +47415,7 @@ payload:
   - DOMAIN,fccinteractive.com
   - DOMAIN,fcciyjcrcopsw.online
   - DOMAIN,fccomvn.com
+  - DOMAIN,fccqqfbwvrgo.com
   - DOMAIN,fc.die-werkkiste.de
   - DOMAIN,fceaj.vrsnscents.com
   - DOMAIN,fcepahafyq.com
@@ -47239,6 +47430,7 @@ payload:
   - DOMAIN,fcharspeeder.com
   - DOMAIN,fchgd.arula.com
   - DOMAIN,fchgkvsqusran.site
+  - DOMAIN,fchmsorp.com
   - DOMAIN,fchxrosjemara.site
   - DOMAIN,fcifaypfepfvy.space
   - DOMAIN,fcirv.plutopillow.com
@@ -47351,6 +47543,7 @@ payload:
   - DOMAIN,fdueqkflucika.online
   - DOMAIN,fduswpwopzwet.website
   - DOMAIN,fdv77tcm.bsteuern.com
+  - DOMAIN,fdvdsaixfridm.online
   - DOMAIN,fdxouczcmbwti.store
   - DOMAIN,fdxtbs.meeters.org
   - DOMAIN,fdyqre.pormadeonline.com.br
@@ -47457,6 +47650,7 @@ payload:
   - DOMAIN,fe-go.letv.com
   - DOMAIN,fegori.xyz
   - DOMAIN,fegortius.com
+  - DOMAIN,fehhashyearto.website
   - DOMAIN,fehwrxesresiw.store
   - DOMAIN,fehywszbbvlpr.online
   - DOMAIN,feifkk.hamiltoncollection.com
@@ -47523,6 +47717,7 @@ payload:
   - DOMAIN,ferias.usj.es
   - DOMAIN,feridgispootdogs.cfd
   - DOMAIN,feriehangups.com
+  - DOMAIN,ferliedlenora.cyou
   - DOMAIN,fermatapodler.cyou
   - DOMAIN,fermishutcher.cyou
   - DOMAIN,fermiumyar.cyou
@@ -47606,6 +47801,7 @@ payload:
   - DOMAIN,ffdjn.badbirdiegolf.com
   - DOMAIN,ffdlzdsluvwjn.online
   - DOMAIN,ff.electricoz.life
+  - DOMAIN,fffcb81bb4.com
   - DOMAIN,ff.finaster.top
   - DOMAIN,ff.fralsningsarmen.se
   - DOMAIN,ff-garena2021-membersship.com
@@ -47668,6 +47864,7 @@ payload:
   - DOMAIN,ff.raposoft.buzz
   - DOMAIN,ffrmwn.musinsa.com
   - DOMAIN,ff.rosuirone.digital
+  - DOMAIN,ffsbgmrqbzzzp.website
   - DOMAIN,ffs.forbo.com
   - DOMAIN,ffsfp.crocs.co.uk
   - DOMAIN,ffskgnxhhnqaf.website
@@ -47762,6 +47959,7 @@ payload:
   - DOMAIN,fhefrnwqsjozv.site
   - DOMAIN,fheylsmakubtc.space
   - DOMAIN,fhgaikrolq.com
+  - DOMAIN,fhgcngjdeqhwr.site
   - DOMAIN,fhgdtphvguxll.website
   - DOMAIN,fhgh9sd.com
   - DOMAIN,fhgn1ccweypng1.rest
@@ -48559,6 +48757,7 @@ payload:
   - DOMAIN,fjsmzymmzjyck.online
   - DOMAIN,fjsvu.chatbooks.com
   - DOMAIN,fjtfj.shrimpybusiness.com
+  - DOMAIN,fjtpqjyqhmepm.online
   - DOMAIN,fjtvobmsspten.online
   - DOMAIN,fjuccm.uktsc.com
   - DOMAIN,fjucj.livora.co
@@ -48679,6 +48878,7 @@ payload:
   - DOMAIN,flashy-lawyer.com
   - DOMAIN,flask.us.nextdoor.com
   - DOMAIN,flat-ads.com
+  - DOMAIN,flatbedpoojah.cyou
   - DOMAIN,flatjeep.com
   - DOMAIN,flattermonumentsbarren.com
   - DOMAIN,flavg.drinkfreespirits.com
@@ -48883,6 +49083,7 @@ payload:
   - DOMAIN,f.lumilifemed.com
   - DOMAIN,flungperformgirlfriend.com
   - DOMAIN,flu.nutricionistabrunoferrari.com.br
+  - DOMAIN,fluoranentases.cyou
   - DOMAIN,flurryad.com
   - DOMAIN,flurry.cachefly.net
   - DOMAIN,flurry.com
@@ -48926,6 +49127,7 @@ payload:
   - DOMAIN,flyingadvert.com
   - DOMAIN,flyingfish.whoisrepresented.org
   - DOMAIN,flyingsquirellsmooch.com
+  - DOMAIN,flyksoel.com
   - DOMAIN,flylikeaguy.com
   - DOMAIN,flymenpranked.cfd
   - DOMAIN,flymob.com
@@ -49048,6 +49250,7 @@ payload:
   - DOMAIN,fnrrvyypkcckq.online
   - DOMAIN,fnsdycspg.com
   - DOMAIN,fns.flavianasser.com
+  - DOMAIN,fntkjylnahujh.space
   - DOMAIN,fnttu.addictivewellness.com
   - DOMAIN,fnual.brooksbrothers.com
   - DOMAIN,fnukacgaytmru.online
@@ -49181,6 +49384,7 @@ payload:
   - DOMAIN,fopduzolpqdue.space
   - DOMAIN,fopxicajsprkh.site
   - DOMAIN,foqspucuejbxp.website
+  - DOMAIN,forayerkakatoe.qpon
   - DOMAIN,forbearphysics.com
   - DOMAIN,forbearsnob.com
   - DOMAIN,forbes.realclearpolitics.com
@@ -50251,6 +50455,7 @@ payload:
   - DOMAIN,fugarainocula.cfd
   - DOMAIN,fugetech.com
   - DOMAIN,fuget.xyz
+  - DOMAIN,fugiegeslingsubwink.cfd
   - DOMAIN,fugitivedepart.com
   - DOMAIN,fugitiverancidpry.com
   - DOMAIN,fugmotts.cyou
@@ -50376,6 +50581,7 @@ payload:
   - DOMAIN,fusoidactuate.com
   - DOMAIN,fussboden-elsenhans.de
   - DOMAIN,fussy-community.pro
+  - DOMAIN,fusterquaver.com
   - DOMAIN,fustyjako.com
   - DOMAIN,futehee.qpon
   - DOMAIN,futfp.nanamacs.com
@@ -50623,6 +50829,7 @@ payload:
   - DOMAIN,fzcuii.rajapack.nl
   - DOMAIN,fzczw7.site
   - DOMAIN,fzddxwb7y3.com
+  - DOMAIN,fzdeifies.qpon
   - DOMAIN,fzdimble.com
   - DOMAIN,fzdwntsrbrodu.space
   - DOMAIN,fze8.carrefour-banque.fr
@@ -50633,6 +50840,7 @@ payload:
   - DOMAIN,fzfkp.candidavonbraun.com
   - DOMAIN,fzflf.cuddleandkind.com
   - DOMAIN,fzfzmmijhsmpd.online
+  - DOMAIN,fzggtumloxrrp.online
   - DOMAIN,fzgpzp.opodo.de
   - DOMAIN,fzgrpqktmq.com
   - DOMAIN,fzgsu.trueclassictees.com
@@ -50709,6 +50917,7 @@ payload:
   - DOMAIN,g6nmrcqlx.qvq6kkeobmqunp4etfg.cyou
   - DOMAIN,g6x2uvza37.com
   - DOMAIN,g7iyz933ov5vtq666qut3yjhrn4hjhej7yy.rest
+  - DOMAIN,g7yrkmeqnt832l6jyzwtuuu.cfd
   - DOMAIN,g89eyc8a1.com
   - DOMAIN,g8nwdolod.com
   - DOMAIN,g8tor.com
@@ -50886,6 +51095,7 @@ payload:
   - DOMAIN,gamefulagefats.cyou
   - DOMAIN,gamegadget.jp
   - DOMAIN,game.keysforgames.shop
+  - DOMAIN,gamelinthroatydareall.cfd
   - DOMAIN,gamengirls.com
   - DOMAIN,gameover-shop.de
   - DOMAIN,gamergirl.pro
@@ -50926,11 +51136,13 @@ payload:
   - DOMAIN,gandachumawi.cfd
   - DOMAIN,gandb.emma.fr
   - DOMAIN,gandrad.org
+  - DOMAIN,ganediceboxfivers.qpon
   - DOMAIN,gangavaenergidtipburn.cyou
   - DOMAIN,ganggeneticallypartially.com
   - DOMAIN,gangismdisard.shop
   - DOMAIN,gangplank39.com
   - DOMAIN,gangsterrecuperateintrepid.com
+  - DOMAIN,gangway97.com
   - DOMAIN,gangwaynumberprivacy.com
   - DOMAIN,ganismpro.com
   - DOMAIN,g.anivahealth.com
@@ -50942,6 +51154,7 @@ payload:
   - DOMAIN,ganofhaets.cfd
   - DOMAIN,ganofpineal.cfd
   - DOMAIN,ganon.yahoo.com
+  - DOMAIN,ganserunwry.qpon
   - DOMAIN,gaohnonowmxay.website
   - DOMAIN,ga.outofoffice.com
   - DOMAIN,gapasjodvjul.in
@@ -51041,6 +51254,7 @@ payload:
   - DOMAIN,garudakrakatau.com
   - DOMAIN,gary.altsuperstore.com
   - DOMAIN,ga.safehaventraining.co.uk
+  - DOMAIN,gasbagcupping.cfd
   - DOMAIN,gasconcraping.qpon
   - DOMAIN,gasehoauzxzzt.store
   - DOMAIN,gaseityorchid.com
@@ -51646,8 +51860,10 @@ payload:
   - DOMAIN,geozo.com
   - DOMAIN,gepgi.theurbangeek.com
   - DOMAIN,gepni.maxandlily.com
+  - DOMAIN,geqedmme.com
   - DOMAIN,geqxgljzocqbu.store
   - DOMAIN,geraldnations.com
+  - DOMAIN,geralovod.link
   - DOMAIN,geranicsubpasspoppers.qpon
   - DOMAIN,geranium35.top
   - DOMAIN,geratedbenzins.qpon
@@ -52276,6 +52492,7 @@ payload:
   - DOMAIN,gigkarma.com
   - DOMAIN,gigliosoling.cyou
   - DOMAIN,g.ign.com
+  - DOMAIN,gigovatokal.link
   - DOMAIN,gigsmanhowls.top
   - DOMAIN,gihggbkedddgd.online
   - DOMAIN,gihnbzqmkwvuf.space
@@ -52509,6 +52726,7 @@ payload:
   - DOMAIN,g.knifeshopaustralia.com.au
   - DOMAIN,g.knoozjewels.com
   - DOMAIN,gkopqp.coccodrillo.eu
+  - DOMAIN,gkpkbsggajdn.com
   - DOMAIN,gkrtmc.com
   - DOMAIN,gkrycdtueicc.com
   - DOMAIN,gkryjuqq3.com
@@ -52587,6 +52805,7 @@ payload:
   - DOMAIN,gldjpbtamwuhf.space
   - DOMAIN,gldkj.bysamiiryan.com
   - DOMAIN,gldlwtjeralke.online
+  - DOMAIN,gldqsshqemvhc.website
   - DOMAIN,gldrdr.com
   - DOMAIN,gleagainedam.info
   - DOMAIN,gleamingbird.pro
@@ -52694,6 +52913,7 @@ payload:
   - DOMAIN,glofiflfnmeiw.online
   - DOMAIN,glomusregalia.com
   - DOMAIN,glonoingannerbarely.cyou
+  - DOMAIN,glonte.xyz
   - DOMAIN,gloomyseason.com
   - DOMAIN,glophething.cfd
   - DOMAIN,gloporn.com
@@ -52710,6 +52930,7 @@ payload:
   - DOMAIN,glosserwhamble.com
   - DOMAIN,glossyburn.pro
   - DOMAIN,glossysilane.com
+  - DOMAIN,glostsganders.com
   - DOMAIN,glougloowhoumt.net
   - DOMAIN,gloumsee.net
   - DOMAIN,gloutanacard.com
@@ -52932,6 +53153,7 @@ payload:
   - DOMAIN,gnwiwc.store.lapine.co.jp
   - DOMAIN,gnwxaakozhrid.site
   - DOMAIN,gnxfrlfjfbvel.website
+  - DOMAIN,gnxnzqkkxetca.online
   - DOMAIN,gnxzfqmoyvvjt.website
   - DOMAIN,gnzcmh.sangishop.jp
   - DOMAIN,gnzfwdxtqbewy.site
@@ -53386,6 +53608,7 @@ payload:
   - DOMAIN,gollum.monotote.com
   - DOMAIN,golnkz.com
   - DOMAIN,go.loveshaw.com
+  - DOMAIN,goluftgwkvfcw.website
   - DOMAIN,go.madisoncollege.edu
   - DOMAIN,gomain2.pro
   - DOMAIN,gomain.pro
@@ -53537,6 +53760,7 @@ payload:
   - DOMAIN,goosierappetit.com
   - DOMAIN,goossb.com
   - DOMAIN,go.ovsoftware.nl
+  - DOMAIN,goozngqdsg.com
   - DOMAIN,go.panotads.com
   - DOMAIN,go.pasternack.com
   - DOMAIN,go.paze.com
@@ -53599,6 +53823,7 @@ payload:
   - DOMAIN,go.robertsonbuildings.com
   - DOMAIN,go.rochesterknighthawks.com
   - DOMAIN,gorod.tunt.lv
+  - DOMAIN,gorodyshka.link
   - DOMAIN,go.rohrer.com
   - DOMAIN,gorsbphljucre.site
   - DOMAIN,gorselcdn.com
@@ -53818,6 +54043,7 @@ payload:
   - DOMAIN,gpbemgixdkodl.com
   - DOMAIN,gpcjz.kotomi.com.au
   - DOMAIN,gp.cumvids.one
+  - DOMAIN,gpegidmhiofd.in
   - DOMAIN,g.pelvicclock.com
   - DOMAIN,g.pennysmotel.com
   - DOMAIN,g.petcloud.com.au
@@ -54178,6 +54404,7 @@ payload:
   - DOMAIN,groggyrobbingwrecky.cyou
   - DOMAIN,groinenamel.com
   - DOMAIN,groleegni.net
+  - DOMAIN,gromoboyara.link
   - DOMAIN,grookilteepsou.net
   - DOMAIN,groovespacing.com
   - DOMAIN,groovinads.com
@@ -54332,6 +54559,7 @@ payload:
   - DOMAIN,gsg.frameset.app
   - DOMAIN,gsght.com
   - DOMAIN,gsgmbalessijt.site
+  - DOMAIN,gsgtapaplvfhr.site
   - DOMAIN,gsgxnauqu8.com
   - DOMAIN,gshcsoaowxcbz.space
   - DOMAIN,g.sheilarocha.com
@@ -54525,6 +54753,7 @@ payload:
   - DOMAIN,gtethuui.com
   - DOMAIN,gteut.bareperformancenutrition.com
   - DOMAIN,gtfccewpo.com
+  - DOMAIN,gtfctvvjgdiep.space
   - DOMAIN,gtfcy.oddmuse.co.uk
   - DOMAIN,gt.feelopus.com
   - DOMAIN,gtfzlpzgoydqv.site
@@ -60295,6 +60524,7 @@ payload:
   - DOMAIN,gulioamsivgik.site
   - DOMAIN,gullahsedgingtwilt.cfd
   - DOMAIN,gulliblegrip.com
+  - DOMAIN,gulliedolor.cfd
   - DOMAIN,gulliesbaalism.cfd
   - DOMAIN,gullsupbank.cfd
   - DOMAIN,gulpedcountwhipped.com
@@ -60359,6 +60589,7 @@ payload:
   - DOMAIN,gussiedrouble.shop
   - DOMAIN,gustilyilleism.shop
   - DOMAIN,gustocooking.com
+  - DOMAIN,gustoporchedbumkin.cfd
   - DOMAIN,gustsbangled.com
   - DOMAIN,gustygrandmother.com
   - DOMAIN,gusuv.portclaimcenter.com
@@ -60378,6 +60609,7 @@ payload:
   - DOMAIN,guvmmaolnk.com
   - DOMAIN,guvoh.6labz.com
   - DOMAIN,guwd.cn
+  - DOMAIN,guwjqfme.com
   - DOMAIN,guwuym.barneys.co.jp
   - DOMAIN,guwvktpsqxcsu.online
   - DOMAIN,guyedtaluksmisdeed.cfd
@@ -60551,6 +60783,7 @@ payload:
   - DOMAIN,gxo55rmwxnkrfx3w8.cfd
   - DOMAIN,gxobicxhusdnt.space
   - DOMAIN,gxohwrfaijevy.site
+  - DOMAIN,gxok7zf7zu77z9kqj2.cfd
   - DOMAIN,gxordgtvjr.com
   - DOMAIN,gxowuybbwgfjv.site
   - DOMAIN,gxozdwttsqtqp.website
@@ -60627,6 +60860,7 @@ payload:
   - DOMAIN,gyrebagpipe.com
   - DOMAIN,gyredpetioli.cyou
   - DOMAIN,gyrepalmo.cfd
+  - DOMAIN,gyrestregerg.com
   - DOMAIN,gyro-n.com
   - DOMAIN,gyrzdgtnhijjf.online
   - DOMAIN,gys5.com
@@ -60691,6 +60925,7 @@ payload:
   - DOMAIN,gzugqzgsfr.com
   - DOMAIN,gzuvq.sanitairkamer.nl
   - DOMAIN,gzvknriwrcwtt.website
+  - DOMAIN,gzx2d0jvwm.com
   - DOMAIN,gzynllfiy.com
   - DOMAIN,gzzdf.pulsetv.com
   - DOMAIN,gzzkjdam.cn
@@ -60763,6 +60998,7 @@ payload:
   - DOMAIN,h8btc1cy8v4um3.rest
   - DOMAIN,h8cjr6nhm.com
   - DOMAIN,h8h1ls3hg.com
+  - DOMAIN,h8n9x3uc76u7khq9h3qn.rest
   - DOMAIN,h8pc8w5twc.com
   - DOMAIN,h9806gjhz.com
   - DOMAIN,h9hy9.pyrenex.com
@@ -60783,11 +61019,13 @@ payload:
   - DOMAIN,habitattexture.com
   - DOMAIN,habituekosimo.cfd
   - DOMAIN,habsqzkeeemjm.store
+  - DOMAIN,habusmangeao.cyou
   - DOMAIN,hacarqtwivz.in
   - DOMAIN,haccz.moonglow.com
   - DOMAIN,hacefoldjcteb.website
   - DOMAIN,hache.lesfreresjacks.fr
   - DOMAIN,hackgamemienphi.com
+  - DOMAIN,hackianude.qpon
   - DOMAIN,hackingshowery.cfd
   - DOMAIN,hacksaw37.com
   - DOMAIN,hacktaikhoan.com
@@ -60837,6 +61075,7 @@ payload:
   - DOMAIN,haikusoap.com
   - DOMAIN,haikwanbizel.cyou
   - DOMAIN,hailbrunchsharpen.com
+  - DOMAIN,hailersbedunceorbing.qpon
   - DOMAIN,hailiixvvazmt.site
   - DOMAIN,hailingoilyoliban.cfd
   - DOMAIN,hailofficemeasure.com
@@ -60896,6 +61135,7 @@ payload:
   - DOMAIN,halvwk.jetcost.ie
   - DOMAIN,hambtr.unilife.co.jp
   - DOMAIN,hamelffebwwdi.online
+  - DOMAIN,hameltnoummos.com
   - DOMAIN,hamipdnohiesz.site
   - DOMAIN,hamletoutnumberrascal.com
   - DOMAIN,hamletsepodes.cyou
@@ -60963,6 +61203,7 @@ payload:
   - DOMAIN,han-muc-khcn-uu-tien-vna1.com
   - DOMAIN,hanmucvn.com
   - DOMAIN,hanqdaysfeucn.site
+  - DOMAIN,hanseffaces.qpon
   - DOMAIN,hanselsgipping.com
   - DOMAIN,hansomsupburn.cfd
   - DOMAIN,hanssubside.com
@@ -60975,9 +61216,11 @@ payload:
   - DOMAIN,haostat.qihoo.com
   - DOMAIN,haoxxwang.com
   - DOMAIN,hapic1.zhuangxiu22.com
+  - DOMAIN,hapkpqtfwzndo.online
   - DOMAIN,haplesshydrant.com
   - DOMAIN,haplessinfamia.com
   - DOMAIN,haplessland.com
+  - DOMAIN,haplomagreener.cfd
   - DOMAIN,hapoz.londontownusa.com
   - DOMAIN,happenedquantity.com
   - DOMAIN,happen.spkt.io
@@ -61357,6 +61600,7 @@ payload:
   - DOMAIN,hcueoizkcchvy.com
   - DOMAIN,hc.uralweb.ru
   - DOMAIN,hcuvb.ordolife.com
+  - DOMAIN,hcvfamwgpqgfn.com
   - DOMAIN,hcvqpttiicilq.site
   - DOMAIN,hcvzztepbqday.space
   - DOMAIN,hcxanquduwuag.site
@@ -61453,6 +61697,7 @@ payload:
   - DOMAIN,hduwzmmomocze.store
   - DOMAIN,hdvcode.com
   - DOMAIN,hdvmyo.com
+  - DOMAIN,hdwrpxwree.com
   - DOMAIN,hdxdhu.zumnorde.de
   - DOMAIN,hdzonline.pro
   - DOMAIN,hdzupx.bonprix-wa.be
@@ -61539,6 +61784,7 @@ payload:
   - DOMAIN,heavenlyindication.com
   - DOMAIN,heavenomitzoom.com
   - DOMAIN,heavenspecificallygait.com
+  - DOMAIN,heavenstyler.cyou
   - DOMAIN,heavepacepallor.com
   - DOMAIN,heavilyhelp.com
   - DOMAIN,heavydetail.com
@@ -61556,6 +61802,7 @@ payload:
   - DOMAIN,hedgeabruptunlucky.com
   - DOMAIN,hedgehog.fightforthefuture.org
   - DOMAIN,hedgesniffle.com
+  - DOMAIN,hedonicfbishide.cyou
   - DOMAIN,hedvg.digitaladvertisingdirect.com
   - DOMAIN,hedwigflooredventure.com
   - DOMAIN,heederkashankiaat.qpon
@@ -61666,6 +61913,7 @@ payload:
   - DOMAIN,henyardcoyly.cfd
   - DOMAIN,henyardwrister.cfd
   - DOMAIN,henzxztnnwmhp.website
+  - DOMAIN,heo6twgqlt36prxly.cfd
   - DOMAIN,heoddikvdm.com
   - DOMAIN,heowisher.qpon
   - DOMAIN,heparinrickshaapples.cyou
@@ -61683,6 +61931,7 @@ payload:
   - DOMAIN,herbishgleams.cyou
   - DOMAIN,herculean57.com
   - DOMAIN,herderanury.cyou
+  - DOMAIN,herdicmurkest.com
   - DOMAIN,herdutmostslush.com
   - DOMAIN,heredesfellic.qpon
   - DOMAIN,heredomain.stape.dev
@@ -61801,6 +62050,7 @@ payload:
   - DOMAIN,hfjxmall.com
   - DOMAIN,hflaxbnxpcqwq.online
   - DOMAIN,hfl.honestforeclosure.com
+  - DOMAIN,hfljdidxbksmo.site
   - DOMAIN,hflksbttglwou.com
   - DOMAIN,hflpchbqhobkg.website
   - DOMAIN,hflxmfjkugjeh.site
@@ -62006,6 +62256,7 @@ payload:
   - DOMAIN,highfalutinbox.com
   - DOMAIN,highfalutinhoney.com
   - DOMAIN,highlightattentions.com
+  - DOMAIN,highlowmusted.qpon
   - DOMAIN,highlyhighvacuum.com
   - DOMAIN,highmaidfhr.com
   - DOMAIN,highmanapts.com
@@ -62115,6 +62366,7 @@ payload:
   - DOMAIN,hiprofitnetworks.com
   - DOMAIN,hi.psiakaloria.pl
   - DOMAIN,hipzpktsyugcu.website
+  - DOMAIN,hiqwjfuerhjnq.online
   - DOMAIN,hircicler.qpon
   - DOMAIN,hi.recensioni-prodotti-europeo.it
   - DOMAIN,hirerabaculi.cfd
@@ -62183,6 +62435,7 @@ payload:
   - DOMAIN,hits-i.iubenda.com
   - DOMAIN,hits.informer.com
   - DOMAIN,hit.skrz.cz
+  - DOMAIN,hits.letras.mus.br
   - DOMAIN,hitslink.com
   - DOMAIN,hitsniffer.com
   - DOMAIN,hitsprocessor.com
@@ -62224,6 +62477,7 @@ payload:
   - DOMAIN,hiynedguboxqm.website
   - DOMAIN,hi.zaufanarecenzja.pl
   - DOMAIN,hizechizr.com
+  - DOMAIN,hizelubiqyyuq.website
   - DOMAIN,hizph.bogeybros.co
   - DOMAIN,hiztz67hunr56p.jto284b7mr4tmgrb.cyou
   - DOMAIN,hjaorx.ginatricot.com
@@ -62258,6 +62512,7 @@ payload:
   - DOMAIN,hjpbusvcaxmgp.com
   - DOMAIN,hjprq.larroude.com
   - DOMAIN,hjsdfha2.adblock.ltd
+  - DOMAIN,hjsxrangddsmi.site
   - DOMAIN,hjtgolgpsbskl.site
   - DOMAIN,hjtpbyachgtvu.online
   - DOMAIN,hjtzzpfcljcem.site
@@ -62332,6 +62587,7 @@ payload:
   - DOMAIN,hlerpxag.unipack-v.com
   - DOMAIN,hlft.holifya.com
   - DOMAIN,hlgdxdfwnqqug.online
+  - DOMAIN,hlgmrrzoeayw.com
   - DOMAIN,hlgqbkgvfvelf.store
   - DOMAIN,hl.hellolighthouse.com
   - DOMAIN,hlhyzh.fann.cz
@@ -62388,6 +62644,7 @@ payload:
   - DOMAIN,hlufsqadxupgr.website
   - DOMAIN,hlumreexivler.space
   - DOMAIN,hluraiwoy.com
+  - DOMAIN,hlvduhhlootyc.website
   - DOMAIN,hlviet84.com
   - DOMAIN,hlygsp.modivo.ro
   - DOMAIN,hlyraq.lastikpabuc.com
@@ -62429,8 +62686,10 @@ payload:
   - DOMAIN,hmqejxnbcbdej.space
   - DOMAIN,hmqmdnkyafnp.com
   - DOMAIN,hmrcv.trytroop.com
+  - DOMAIN,hmrexwpljiarn.site
   - DOMAIN,hmrukd.outdoorexperten.se
   - DOMAIN,hmsagy.uniecampus.it
+  - DOMAIN,hmshanyin.com
   - DOMAIN,hmsicrcafchwt.website
   - DOMAIN,hmthcqphqwppf.online
   - DOMAIN,hmtijvrtevxmo.site
@@ -62516,6 +62775,7 @@ payload:
   - DOMAIN,hockeydoorrejoined.com
   - DOMAIN,hockeyfool.com
   - DOMAIN,hockeyhavoc.com
+  - DOMAIN,hockleidist.cyou
   - DOMAIN,hockstaxwax.com
   - DOMAIN,hocsinhthanhlich2020.info
   - DOMAIN,hocsinhthanhlich2021.online
@@ -62673,6 +62933,7 @@ payload:
   - DOMAIN,hooks.geralbet.bet.br
   - DOMAIN,hooks.lider.bet.br
   - DOMAIN,hookspf.com
+  - DOMAIN,hookstoaiutend.qpon
   - DOMAIN,hookumokika.cfd
   - DOMAIN,hookupbucks.com
   - DOMAIN,hookupsonline.com
@@ -63018,6 +63279,7 @@ payload:
   - DOMAIN,hqpass.com
   - DOMAIN,hqpkg.sciatiease.com
   - DOMAIN,hqpornpro.com
+  - DOMAIN,hqrbsikjky.com
   - DOMAIN,hqrixc.dorocy.co.kr
   - DOMAIN,hqrsuxsjqycv.info
   - DOMAIN,hqsawmshhxcoe.site
@@ -63104,6 +63366,7 @@ payload:
   - DOMAIN,hrwlolycdpmnw.site
   - DOMAIN,hrwozjgbmxiad.website
   - DOMAIN,hrxphjcj.icu
+  - DOMAIN,hrxratjshcuog.website
   - DOMAIN,hrxwfp.icu
   - DOMAIN,hryanv.nunnbush.com
   - DOMAIN,hrypwbqr.calingo.ch
@@ -63184,6 +63447,7 @@ payload:
   - DOMAIN,hswzdflhlmtpg.store
   - DOMAIN,hsxrsodhgyfvr.space
   - DOMAIN,hsynxmsytsxil.site
+  - DOMAIN,ht55hm12n2.com
   - DOMAIN,ht858.ckrcbzh7mo5t1m14n9m5qlqt7fte.cyou
   - DOMAIN,ht9s1j1bf.com
   - DOMAIN,htagpa.tech
@@ -63194,6 +63458,7 @@ payload:
   - DOMAIN,htcgcwfh.xyz
   - DOMAIN,htcnbx.odkarla.cz
   - DOMAIN,htdixisbyvulc.store
+  - DOMAIN,htduxqdikogmt.site
   - DOMAIN,htdvt.com
   - DOMAIN,hteniplvbxeqt.space
   - DOMAIN,htewng.plesio.bg
@@ -63348,6 +63613,7 @@ payload:
   - DOMAIN,huitaincalory.cyou
   - DOMAIN,huiyuangang.cc
   - DOMAIN,huizj.deskr.co
+  - DOMAIN,hujefrwsxmthy.site
   - DOMAIN,hujridrkdszbn.website
   - DOMAIN,hujup.hushblankets.com
   - DOMAIN,huk5b1356qqm18p.cfd
@@ -63528,9 +63794,11 @@ payload:
   - DOMAIN,hvuuvjdlqdtwo.space
   - DOMAIN,hvvaoxrjglkhd.online
   - DOMAIN,hvvmslekmyomk.site
+  - DOMAIN,hvvmxibuvscgx.com
   - DOMAIN,hvwbspbolgupm.site
   - DOMAIN,hvwoeavjjemhq.site
   - DOMAIN,hvwsecjtqnbkv.online
+  - DOMAIN,hvwsqpcnnee.com
   - DOMAIN,hvxafwbxwqm.com
   - DOMAIN,hvxbgi.contorion.at
   - DOMAIN,hvxymx.tui.pl
@@ -63547,6 +63815,7 @@ payload:
   - DOMAIN,hwckw.matissefootwear.com
   - DOMAIN,hwdlloibdukny.space
   - DOMAIN,hweaugtougwvv.online
+  - DOMAIN,hweianpqxl.icu
   - DOMAIN,hweiopvvxd.icu
   - DOMAIN,hwepopmhhsz.com
   - DOMAIN,hwfoaxxlzfeeh.online
@@ -63681,6 +63950,7 @@ payload:
   - DOMAIN,hyperbanner.net
   - DOMAIN,hyper-boundary-gate.net.mydays.de
   - DOMAIN,hypercarart.com
+  - DOMAIN,hyperfrost.net
   - DOMAIN,hyperlegend.com
   - DOMAIN,hyperlinksecure.com
   - DOMAIN,hypermousus.com
@@ -63845,6 +64115,7 @@ payload:
   - DOMAIN,iaets.kodiakcakes.com
   - DOMAIN,iafixnjsgasps.store
   - DOMAIN,iagol.spotonfence.com
+  - DOMAIN,iagosrsbtvjaw.site
   - DOMAIN,iagrus.com
   - DOMAIN,iagvzqhmdeggc.site
   - DOMAIN,iahivizxhvblx.online
@@ -64140,6 +64411,7 @@ payload:
   - DOMAIN,idio.co
   - DOMAIN,idiomapron.com
   - DOMAIN,idioticskill.pro
+  - DOMAIN,idjsyswtwtvpn.space
   - DOMAIN,idkoguetmpdxk.online
   - DOMAIN,idkph.naturalstacks.com
   - DOMAIN,idkymwzjfpefr.site
@@ -64273,6 +64545,7 @@ payload:
   - DOMAIN,ifigent.com
   - DOMAIN,i.findjoyinlife.com
   - DOMAIN,ifi-trk.informa.com
+  - DOMAIN,ifjqdbuypcfyb.space
   - DOMAIN,ifkzro.llbean.co.jp
   - DOMAIN,iflfnermnmnhj.space
   - DOMAIN,ifmazzwntwnwg.site
@@ -64281,6 +64554,7 @@ payload:
   - DOMAIN,ifnyop.priceline.com
   - DOMAIN,ifnzvapjsaumr.site
   - DOMAIN,ifodr.leadinglady.com
+  - DOMAIN,ifomkvzj.com
   - DOMAIN,ifpiawqeievju.online
   - DOMAIN,ifp.planbenefits.unitedhealthcare.com
   - DOMAIN,ifqgd.hashstash.co
@@ -64436,6 +64710,7 @@ payload:
   - DOMAIN,ihtmci.aignermunich.de
   - DOMAIN,ihtnxu.tannergoods.com
   - DOMAIN,ihuxptfrsqjqv.space
+  - DOMAIN,ihv5q8hjbqvpzxuwl97pktvnjmmkl.rest
   - DOMAIN,ihvnk.irisandromeo.com
   - DOMAIN,ihykcymyocpvw.site
   - DOMAIN,ihywcnzlauulc.space
@@ -67659,6 +67934,7 @@ payload:
   - DOMAIN,iqdgf.tryzapply.com
   - DOMAIN,iqdlhrulwhnzt.space
   - DOMAIN,iqebb.davidpopashop.com
+  - DOMAIN,iqgyjcdyojkjp.online
   - DOMAIN,iqhgn.goggles4u.com
   - DOMAIN,iqietsyotgcxz.site
   - DOMAIN,iq.intellicyt.com
@@ -67893,6 +68169,7 @@ payload:
   - DOMAIN,isnet.habrokathletics.com
   - DOMAIN,isnwvcmuobaol.space
   - DOMAIN,iso100.ru
+  - DOMAIN,isobarwinner.qpon
   - DOMAIN,isocoladebtful.shop
   - DOMAIN,isoetesflirted.com
   - DOMAIN,isolatedcompliments.com
@@ -67910,6 +68187,7 @@ payload:
   - DOMAIN,ispnsjcdiubjf.online
   - DOMAIN,isprq.lovesweatfitness.com
   - DOMAIN,isqkd.newbeauty.com
+  - DOMAIN,israelicoelome.com
   - DOMAIN,israeljobstoday.com
   - DOMAIN,isrug.dermstreet.com
   - DOMAIN,isrv07.com
@@ -67926,6 +68204,7 @@ payload:
   - DOMAIN,istatistik.trthaber.com
   - DOMAIN,istats.nl
   - DOMAIN,istcs.top
+  - DOMAIN,istdptmcbzpnn.site
   - DOMAIN,isthmus08.top
   - DOMAIN,isthmus72.com
   - DOMAIN,ist.istitutogiglio.it
@@ -67938,6 +68217,7 @@ payload:
   - DOMAIN,is-vvhatsapp.com
   - DOMAIN,iswgoktjsknme.space
   - DOMAIN,isy.chez-pierre.com
+  - DOMAIN,isycmwwmqtylt.space
   - DOMAIN,isyfhktqiiccy.site
   - DOMAIN,isypmogfhabmp.space
   - DOMAIN,iszbbkcqwfnqn.space
@@ -68201,6 +68481,7 @@ payload:
   - DOMAIN,iwanttodeliver.com
   - DOMAIN,iwantuonly.com
   - DOMAIN,iwbfca.liligal.com
+  - DOMAIN,iwbsozovcjgvi.website
   - DOMAIN,iwbwthllmdfqw.space
   - DOMAIN,iwbx.anfahrschutz.net
   - DOMAIN,iwdesqsrwxjwg.website
@@ -68217,6 +68498,7 @@ payload:
   - DOMAIN,iwgsincqiidjv.site
   - DOMAIN,iwgtxtpyuxnoi.site
   - DOMAIN,iwhzhi.packstyle.jp
+  - DOMAIN,iwidhitjlsknb.site
   - DOMAIN,iwkw9puqrxnz8nglgz28w5mc.rest
   - DOMAIN,iwl2d7pa4yx1.www.logology.co
   - DOMAIN,iwlnpw.claudiepierlot.com
@@ -68407,6 +68689,7 @@ payload:
   - DOMAIN,j3idyosut.com
   - DOMAIN,j3.jpibq11kgcwkey61ytpbbfe.cyou
   - DOMAIN,j423.oneidadispatch.com
+  - DOMAIN,j4l9736vtpjhb21kuxo3p.rest
   - DOMAIN,j4s12kfavg.com
   - DOMAIN,j5sgdum5n4.com
   - DOMAIN,j694fx3bp.com
@@ -68480,6 +68763,7 @@ payload:
   - DOMAIN,jaimbai2b1.com
   - DOMAIN,jainapedicle.cyou
   - DOMAIN,j.airplantshop.nl
+  - DOMAIN,jaivocmmtadxy.com
   - DOMAIN,ja-jp-a8.etudehouse.com
   - DOMAIN,ja-jp.siemensplmevents.com
   - DOMAIN,jajsigbzrpntp.website
@@ -68494,9 +68778,11 @@ payload:
   - DOMAIN,jalapenos.lajosefazapatos.cl
   - DOMAIN,jalapenos.veesy.cl
   - DOMAIN,jalapenos.wenelspa.cl
+  - DOMAIN,jaleeazymous.cfd
   - DOMAIN,jalrlgochsjoe.space
   - DOMAIN,jambeflushescatlap.cfd
   - DOMAIN,jambojar.com
+  - DOMAIN,jamboyscripts.cfd
   - DOMAIN,james.edge45.testandtarget.omniture.com
   - DOMAIN,jamexport.com
   - DOMAIN,jammeraroast.shop
@@ -68591,6 +68877,7 @@ payload:
   - DOMAIN,jazuoujihigip.site
   - DOMAIN,jazz.abovesave.com
   - DOMAIN,jazzistagallop.com
+  - DOMAIN,jazzmenwintles.qpon
   - DOMAIN,jba33y5xx.com
   - DOMAIN,jbalnemwgxsbp.space
   - DOMAIN,jbalptcbikiao.site
@@ -68652,6 +68939,7 @@ payload:
   - DOMAIN,jbuegeejecfca.website
   - DOMAIN,jbvmn.whitehouseblackmarket.com
   - DOMAIN,jbvoejzmaqmjw.top
+  - DOMAIN,jbvoejzvkmyaq.top
   - DOMAIN,jbvoejzvkmyzj.top
   - DOMAIN,jbvonjwdczupq.site
   - DOMAIN,jbvszzri.avxperten.dk
@@ -68689,6 +68977,7 @@ payload:
   - DOMAIN,jcnedb.naracamicie.jp
   - DOMAIN,jcnicivswfwdr.space
   - DOMAIN,jcnmz.aprils.co.nz
+  - DOMAIN,jcnoqthgnzlmmuno.rest
   - DOMAIN,jcpclick.com
   - DOMAIN,jcphi.com
   - DOMAIN,jcpjfyikk.dogbonemarket.com
@@ -68934,6 +69223,7 @@ payload:
   - DOMAIN,jeyvhaskvbtbh.website
   - DOMAIN,jezebelheckle.cyou
   - DOMAIN,jezer.site
+  - DOMAIN,jezjcfxhnsyts.website
   - DOMAIN,jfaazyci.6dsportsnutrition.com
   - DOMAIN,jfacflmbkvxez.online
   - DOMAIN,jfdfvprfq.bio-cheminee.fr
@@ -69025,12 +69315,14 @@ payload:
   - DOMAIN,jgdqd.saskrush.com
   - DOMAIN,jgdzthrmmhnddc.com
   - DOMAIN,jgga.jeddogeorge.com
+  - DOMAIN,jggoifdxkrimq.website
   - DOMAIN,jghkm.clevrblends.com
   - DOMAIN,jghsn.dentalinsurance.com
   - DOMAIN,jgid.cn
   - DOMAIN,jgieklrrgjcjp.site
   - DOMAIN,jgigvs.tractive.com
   - DOMAIN,jgioj.eshopygoexpress.cz
+  - DOMAIN,jgixqmqacjzkk.site
   - DOMAIN,jgjmetqidmbec.website
   - DOMAIN,jgk54x.6lemx1qqr6wzy4.cyou
   - DOMAIN,jgkgqvxmnrxjb.space
@@ -69203,6 +69495,7 @@ payload:
   - DOMAIN,jishan.apanbazar.com
   - DOMAIN,jis.jayaindostore.com
   - DOMAIN,jisk.cn
+  - DOMAIN,jiswpgqjpegnp.online
   - DOMAIN,jitanvlw.com
   - DOMAIN,jitneurfinch.cyou
   - DOMAIN,jitsjnlwupbdh.site
@@ -69300,6 +69593,7 @@ payload:
   - DOMAIN,jke1.jianke.com
   - DOMAIN,jkfivewwaldgy.space
   - DOMAIN,jkfsernucmedm.site
+  - DOMAIN,jkftythniutuos.com
   - DOMAIN,j.kfy6nw3vlrcp9ieybe7r.cyou
   - DOMAIN,jkgeyo.urbanara.de
   - DOMAIN,jkgod.theforgebarbers.ca
@@ -69327,6 +69621,7 @@ payload:
   - DOMAIN,jkoap.apotekarski-vodic.com
   - DOMAIN,jkodbweyhuhis.online
   - DOMAIN,jkoha.cycologyclothing.com
+  - DOMAIN,jkpbx8fq49iwiue56gbw4h3vtyel2.cfd
   - DOMAIN,jkpzthxjt.com
   - DOMAIN,jkrgnk.suncamp.fr
   - DOMAIN,jkrjrc.adecco.de
@@ -69379,6 +69674,7 @@ payload:
   - DOMAIN,jlrp6l5xycwtg8ih9m.cfd
   - DOMAIN,jltczmewqabda.online
   - DOMAIN,jlujxipdixrw.com
+  - DOMAIN,jlvffkip.com
   - DOMAIN,jlvhwqtkmttgq.site
   - DOMAIN,jlxhkr.theifriend.com
   - DOMAIN,jlxlbu.lacoste.pl
@@ -69431,6 +69727,7 @@ payload:
   - DOMAIN,jmtrl.coachoutlet.com
   - DOMAIN,jmtvjcaomypcfmw.com
   - DOMAIN,jmufp.yumwoof.com
+  - DOMAIN,jmuvidgubn.in
   - DOMAIN,jmvmrv.e-davidwalker.com
   - DOMAIN,jmvoqsusinkfg.site
   - DOMAIN,jmvqs.aosom.ca
@@ -69598,6 +69895,7 @@ payload:
   - DOMAIN,jolecyclist.com
   - DOMAIN,jo.lesbianbliss.com
   - DOMAIN,jolhghbdjayis.website
+  - DOMAIN,jollityriotist.cyou
   - DOMAIN,jollopindult.cyou
   - DOMAIN,jollyaroyntuspoke.qpon
   - DOMAIN,jollyoutdoorjogger.com
@@ -69633,6 +69931,7 @@ payload:
   - DOMAIN,jordan.zcdn.click
   - DOMAIN,joristthrowst.shop
   - DOMAIN,jornal.tesouros-da-julia.com
+  - DOMAIN,jorramcark.cfd
   - DOMAIN,joryvztqojsig.space
   - DOMAIN,josephclassics.com
   - DOMAIN,josewalkup.cfd
@@ -69641,6 +69940,7 @@ payload:
   - DOMAIN,josqdb7jn4.com
   - DOMAIN,jossh.apotekar24.com
   - DOMAIN,jotedd.icu
+  - DOMAIN,jothupdftjxhv.site
   - DOMAIN,jotoxs.osnabruecker-jobanzeiger.de
   - DOMAIN,jo.transhero.com
   - DOMAIN,jottingugrianbog.qpon
@@ -69795,6 +70095,7 @@ payload:
   - DOMAIN,jqjpdxlywnqam.site
   - DOMAIN,jqjvj.makewellness.com
   - DOMAIN,jqk2me2mzf.ru
+  - DOMAIN,jqkbmtcjimat.com
   - DOMAIN,jqkxvauoq.com
   - DOMAIN,jqlpnqzcnehhb.site
   - DOMAIN,jqluayokcswse.website
@@ -69807,6 +70108,7 @@ payload:
   - DOMAIN,jqmrfjqmhtdpd.space
   - DOMAIN,jqmwcfrmhzmqd.online
   - DOMAIN,jqoocgwzagphw.space
+  - DOMAIN,jqopurafw.com
   - DOMAIN,jqosn.lignosus.com
   - DOMAIN,jqotodaitejqb.site
   - DOMAIN,jqpaisehvpnvp.website
@@ -69908,6 +70210,7 @@ payload:
   - DOMAIN,js154azzn.com
   - DOMAIN,js1.dadiniu.cn
   - DOMAIN,js1.haoge500.com
+  - DOMAIN,js1lw9n6w.com
   - DOMAIN,js22f.net
   - DOMAIN,js.263y.com
   - DOMAIN,js2json.com
@@ -70164,6 +70467,7 @@ payload:
   - DOMAIN,juicyt.juicysms.com
   - DOMAIN,jujrwt.kasseler-jobanzeiger.de
   - DOMAIN,jujtcq.amnibus.com
+  - DOMAIN,jujuistfrixion.cyou
   - DOMAIN,juklfwgznmzky.site
   - DOMAIN,jukmbthw.com
   - DOMAIN,julia001help.net.mydays.de
@@ -70180,6 +70484,7 @@ payload:
   - DOMAIN,jumbochalk.com
   - DOMAIN,jumbo-insurance.pro
   - DOMAIN,jumbo-order.com
+  - DOMAIN,jumbopassenger.pro
   - DOMAIN,jumbostubdifferent.com
   - DOMAIN,jumenttallithborders.cyou
   - DOMAIN,jumentundrew.cyou
@@ -70318,6 +70623,7 @@ payload:
   - DOMAIN,jvsspnnctftej.site
   - DOMAIN,jvtvd.vincecamuto.com
   - DOMAIN,jvunf.modernblaze.com
+  - DOMAIN,jvuxggqjhrcr.com
   - DOMAIN,jvwuejwrelcst.space
   - DOMAIN,jvxlfrzupukvh.online
   - DOMAIN,jvxzqiwzgxglg.website
@@ -70340,6 +70646,7 @@ payload:
   - DOMAIN,jweqai.amen.fr
   - DOMAIN,jwf8lxo7b.com
   - DOMAIN,jwfaregtarvql.space
+  - DOMAIN,jwgrwvbficeey.online
   - DOMAIN,jwgvnw.haus-life.com
   - DOMAIN,jwhfxnravgzft.space
   - DOMAIN,jwhlsi.jsdang.com
@@ -70473,6 +70780,7 @@ payload:
   - DOMAIN,jyvkwqjremmly.top
   - DOMAIN,jywn7lkbdw.com
   - DOMAIN,jywqcjoelqiza.space
+  - DOMAIN,jywudytmwihee.site
   - DOMAIN,jyxpae.suncamp.pl
   - DOMAIN,jyyqzt.sledstore.se
   - DOMAIN,jyyzvb.careerindex.jp
@@ -71114,6 +71422,7 @@ payload:
   - DOMAIN,kfesqxzagfxgr.online
   - DOMAIN,kfezdd.universal.at
   - DOMAIN,kfgxuiyutbwav.space
+  - DOMAIN,kfhtyotsvfuie.com
   - DOMAIN,kfiip.stevemadden.ca
   - DOMAIN,kfiqxtcuthefp.online
   - DOMAIN,kfiwcpdw.autoclub.it
@@ -71179,6 +71488,7 @@ payload:
   - DOMAIN,kgihdv57il.com
   - DOMAIN,kgioxibrrjqep.online
   - DOMAIN,kgiqptmzhkidx.website
+  - DOMAIN,kgjbjnfgnnwea.online
   - DOMAIN,kgjks.rails.com
   - DOMAIN,kgkmt.ticketrivals.com
   - DOMAIN,kglduw.lifesum.co.kr
@@ -71248,6 +71558,7 @@ payload:
   - DOMAIN,khifibroin.com
   - DOMAIN,khilivicdoubh.online
   - DOMAIN,khimxz.shoesforcrews.com
+  - DOMAIN,khitrozya.link
   - DOMAIN,khiurx.tigerdirect.com
   - DOMAIN,khj5jmkrpzgptzi9n.cfd
   - DOMAIN,khjppo.nominalia.com
@@ -71565,6 +71876,7 @@ payload:
   - DOMAIN,kjtgab.raceramps.com
   - DOMAIN,kjtipyiisrgig.site
   - DOMAIN,kjuono.biome.com.au
+  - DOMAIN,kjwbjnxpc.com
   - DOMAIN,kjxmcn.eset.com
   - DOMAIN,kjxxay.dr-air.com
   - DOMAIN,kjxztu.biz-journal.jp
@@ -71593,6 +71905,7 @@ payload:
   - DOMAIN,kk.it.pamo-design.com
   - DOMAIN,kkjacvibctssz.website
   - DOMAIN,kkjlieuijcafr.website
+  - DOMAIN,kkkkkkkrrrrrrrr.link
   - DOMAIN,kk.kvalitetskontroll.no
   - DOMAIN,kkl5we875kxmlqp3.cfd
   - DOMAIN,kklfpamrrieqe.site
@@ -71627,6 +71940,7 @@ payload:
   - DOMAIN,kkvthwawdluir.site
   - DOMAIN,k.kwslovenia.com
   - DOMAIN,kkynvv.lotte.com
+  - DOMAIN,kkzittnph.com
   - DOMAIN,kkznoe.autouncle.ch
   - DOMAIN,kkznoe.autouncle.co.uk
   - DOMAIN,kkznoe.autouncle.es
@@ -71663,6 +71977,7 @@ payload:
   - DOMAIN,klehj.saveti-za-zdravlje.com
   - DOMAIN,klert.com
   - DOMAIN,klesu.emotive.io
+  - DOMAIN,kleveromal.link
   - DOMAIN,klevvjrjyjrez.website
   - DOMAIN,klfjp.eshopygo.lv
   - DOMAIN,klfutm.missamara.com.au
@@ -71741,6 +72056,7 @@ payload:
   - DOMAIN,klwwxepxnqnhr.website
   - DOMAIN,klxfmolddnlpl.website
   - DOMAIN,klxikmcosxzbd.online
+  - DOMAIN,klyekatyvobsz.space
   - DOMAIN,kly.tcfz84v8qh1iertxuq7owff3ym.cyou
   - DOMAIN,klzpzqajdqvci.website
   - DOMAIN,kmaagycbjbnwf.site
@@ -71832,6 +72148,7 @@ payload:
   - DOMAIN,knewpenny.com
   - DOMAIN,knewthump.com
   - DOMAIN,knewy.com
+  - DOMAIN,knffolubx.com
   - DOMAIN,knfkd.revzilla.com
   - DOMAIN,knfssst.knifestock.at
   - DOMAIN,knfssst.knifestock.cz
@@ -71940,6 +72257,7 @@ payload:
   - DOMAIN,kobtimfpearff.space
   - DOMAIN,kochava.com
   - DOMAIN,kochiauncaked.cfd
+  - DOMAIN,kodakedblartgossep.cyou
   - DOMAIN,kodbafryxemdz.website
   - DOMAIN,kodbviiemgkcr.site
   - DOMAIN,kodcad.kr
@@ -72050,6 +72368,7 @@ payload:
   - DOMAIN,kouopt.calvinklein.com.br
   - DOMAIN,koushauwhie.xyz
   - DOMAIN,koussocallum.com
+  - DOMAIN,koverdynya.link
   - DOMAIN,kownxhruhryeh.site
   - DOMAIN,kowt80ufwg.com
   - DOMAIN,koxuwurutihugi.com
@@ -72183,6 +72502,7 @@ payload:
   - DOMAIN,krankenwagenmotor.com
   - DOMAIN,krantzbanuyo.shop
   - DOMAIN,krasisa.info
+  - DOMAIN,krasnomaga.link
   - DOMAIN,kra.zadovadanse.com
   - DOMAIN,krbulhb.com
   - DOMAIN,krbximeplialf.online
@@ -72224,6 +72544,7 @@ payload:
   - DOMAIN,krmts.zero28customs.com
   - DOMAIN,krmxearc1.com
   - DOMAIN,krnflekesqqcw.website
+  - DOMAIN,krntflqg.com
   - DOMAIN,krofqawozfnma.website
   - DOMAIN,kroium.net
   - DOMAIN,krolikplatit.ru
@@ -72244,6 +72565,7 @@ payload:
   - DOMAIN,krubissavitar.cyou
   - DOMAIN,krubutedessan.com
   - DOMAIN,krudavmbgnwrc.website
+  - DOMAIN,kruglyashka.link
   - DOMAIN,krumanunsmote.com
   - DOMAIN,krum.vsct.fr
   - DOMAIN,krurdm.spao.com
@@ -72388,6 +72710,7 @@ payload:
   - DOMAIN,kucku.gigago.vn
   - DOMAIN,kucyhafaatzxg.space
   - DOMAIN,kudlavasta.link
+  - DOMAIN,kudroshapka.link
   - DOMAIN,kudwmaucyncfk.website
   - DOMAIN,kudwviqhujjzc.space
   - DOMAIN,kudxyhdiidlxa.online
@@ -72399,6 +72722,7 @@ payload:
   - DOMAIN,kugeshuffle.com
   - DOMAIN,kugo.cc
   - DOMAIN,kugqq.fillingpieces.com
+  - DOMAIN,kugqwiarq.in
   - DOMAIN,kuheju.com
   - DOMAIN,kuifc.altrx.com
   - DOMAIN,kujifkvgkygii.site
@@ -72432,6 +72756,7 @@ payload:
   - DOMAIN,kuqgnpzskjukc.site
   - DOMAIN,kurma.koisuper2.store
   - DOMAIN,kurnhiafb.in
+  - DOMAIN,kurolesya.link
   - DOMAIN,kurulum.xyz
   - DOMAIN,kurxabjwulu.in
   - DOMAIN,kurzycz.care
@@ -72542,6 +72867,7 @@ payload:
   - DOMAIN,kwlmpwbrsennw.space
   - DOMAIN,kwmynwyglhtttfl.com
   - DOMAIN,kwn91x0jke.top
+  - DOMAIN,kwnbtbkrqnltu.site
   - DOMAIN,kwnqtbvozeejh.store
   - DOMAIN,k-words.io
   - DOMAIN,kwpgeebopaqpn.site
@@ -72697,6 +73023,7 @@ payload:
   - DOMAIN,kzt2afc1rp52.com
   - DOMAIN,kzuqpscnidssd.website
   - DOMAIN,kzutbh.takeappeal.com
+  - DOMAIN,kzuwhxzchphdq.space
   - DOMAIN,kzvfc.mylilteddy.com
   - DOMAIN,kzvfolheruocg.space
   - DOMAIN,kzvlzu.ofisillas.es
@@ -72738,6 +73065,7 @@ payload:
   - DOMAIN,l.365blog.jp
   - DOMAIN,l37ujjlg31ei6yq84.rest
   - DOMAIN,l3j3glzp6g.com
+  - DOMAIN,l3kekpz1l9wufn3oug44ttnevo.rest
   - DOMAIN,l3op.info
   - DOMAIN,l.4glbry6lfj6oot.cyou
   - DOMAIN,l4otxc.com
@@ -72747,8 +73075,10 @@ payload:
   - DOMAIN,l.5ihilk8u6wbohb.cyou
   - DOMAIN,l5pv793tm.com
   - DOMAIN,l6906qxga.com
+  - DOMAIN,l6b4wi1rnpv3twymtjp85.cfd
   - DOMAIN,l6h17ybxe.com
   - DOMAIN,l.71mnjocvbcxb1jv.cfd
+  - DOMAIN,l75v1tpenow2eb97fex.cfd
   - DOMAIN,l7xk21bftn2imgt.rest
   - DOMAIN,l8gqrqbh2ih72m2y.cfd
   - DOMAIN,l8opsdgim.com
@@ -73312,6 +73642,7 @@ payload:
   - DOMAIN,lbwdyjxdrzmia.online
   - DOMAIN,lbwjhzikhdoci.space
   - DOMAIN,lby2kd27c.com
+  - DOMAIN,lbylqervyzevk.top
   - DOMAIN,lbylqervyzroq.top
   - DOMAIN,lbyml.crocs.com.au
   - DOMAIN,lbzyjmblyozor.top
@@ -73367,6 +73698,7 @@ payload:
   - DOMAIN,lcpmd.phoenixphaseconverters.com
   - DOMAIN,lcqbi7nsv.com
   - DOMAIN,lcqcytea.panicframe.com
+  - DOMAIN,lcqncipmxvelsw.com
   - DOMAIN,lcrebbqmvlbtno.com
   - DOMAIN,lc.recopick.com
   - DOMAIN,lcrft.comercialdelsol.com.do
@@ -73460,6 +73792,7 @@ payload:
   - DOMAIN,ldwfhkykiilho.online
   - DOMAIN,ldwgbi.millioncor.com
   - DOMAIN,ldw.lutelederwaren.nl
+  - DOMAIN,ldwqexkxritii.com
   - DOMAIN,ldxeyz.openmedical.co.kr
   - DOMAIN,ldxgnxqtowtum.site
   - DOMAIN,ldxpmz.people.com
@@ -73610,6 +73943,7 @@ payload:
   - DOMAIN,leavingextract.com
   - DOMAIN,leavingneedyengaged.com
   - DOMAIN,lebiutacsvaat.website
+  - DOMAIN,lebmfvnquymym.online
   - DOMAIN,lebtpm.co-medical.com
   - DOMAIN,leche69.com
   - DOMAIN,lechethroesalburn.qpon
@@ -73625,6 +73959,7 @@ payload:
   - DOMAIN,ledinika.ru
   - DOMAIN,lednews.powerint.com
   - DOMAIN,ledolrepugn.com
+  - DOMAIN,ledtbzgnkecya.site
   - DOMAIN,leech.carolgilabert.me
   - DOMAIN,leecherquedful.shop
   - DOMAIN,leech.fuchsegg.at
@@ -73763,6 +74098,7 @@ payload:
   - DOMAIN,leplvcbadrmgb.space
   - DOMAIN,lepodownload.mediatek.com
   - DOMAIN,leppq.northbrevardfuneralhome.com
+  - DOMAIN,leproletsu.link
   - DOMAIN,lepromaspecs.cfd
   - DOMAIN,leptabalarao.qpon
   - DOMAIN,lepus.socialelite.pl
@@ -73815,6 +74151,7 @@ payload:
   - DOMAIN,letvdbrwhbnhrs.com
   - DOMAIN,letysheeps.ru
   - DOMAIN,leudsnoncome.shop
+  - DOMAIN,leudvisitor.qpon
   - DOMAIN,leue.cn
   - DOMAIN,leue.stape.net
   - DOMAIN,leumia.io
@@ -73831,6 +74168,7 @@ payload:
   - DOMAIN,levityimproviseoasis.com
   - DOMAIN,levitytape.com
   - DOMAIN,levoria-il.com
+  - DOMAIN,levpbkiixdmrq.online
   - DOMAIN,levxyipnritcw.website
   - DOMAIN,lewannakaiservaseful.cfd
   - DOMAIN,lewdl.com
@@ -73858,6 +74196,7 @@ payload:
   - DOMAIN,l.fairblocker.com
   - DOMAIN,lfapbe.quiksilver.co.jp
   - DOMAIN,lfavcwgydohba.store
+  - DOMAIN,lfavpjhwxdgfyni.com
   - DOMAIN,lfawiu.vitaesaude.com.br
   - DOMAIN,l-fb.co
   - DOMAIN,lfb.ink
@@ -74006,6 +74345,7 @@ payload:
   - DOMAIN,lhgzfet8n.com
   - DOMAIN,lhhpbaiyufphu.site
   - DOMAIN,l.hida-ch.com
+  - DOMAIN,lhifppgvxkj.com
   - DOMAIN,lhinsights.com
   - DOMAIN,lhjnegfxaoemq.website
   - DOMAIN,lhjtobzhpypph.online
@@ -74219,6 +74559,7 @@ payload:
   - DOMAIN,ligxyv.hackers.co.kr
   - DOMAIN,ligydaloca.com
   - DOMAIN,liijacenkubom.site
+  - DOMAIN,liikxhzzebfwd.space
   - DOMAIN,liiofhwfx.c81mm9t4tkxxk815n2kgwi1twl8.cfd
   - DOMAIN,lijha.jardabypalme.com.br
   - DOMAIN,lijhi.unclereco.com
@@ -74255,6 +74596,7 @@ payload:
   - DOMAIN,lilydreamer.com
   - DOMAIN,limailaucan.qpon
   - DOMAIN,limaquoititylus.cyou
+  - DOMAIN,limasoctile.qpon
   - DOMAIN,limbasmaoist.cyou
   - DOMAIN,limbousscogger.qpon
   - DOMAIN,limbycocking.cfd
@@ -74635,6 +74977,7 @@ payload:
   - DOMAIN,ljiotibrwigir.online
   - DOMAIN,ljjfalajlzlig.website
   - DOMAIN,ljjhdgyqjsyr.com
+  - DOMAIN,ljjinnxdcknpy.online
   - DOMAIN,ljjskttqximu.in
   - DOMAIN,ljklwagzynotx.website
   - DOMAIN,ljline.com
@@ -74646,6 +74989,7 @@ payload:
   - DOMAIN,ljoaqeqolobmk.top
   - DOMAIN,ljoaqeqolobwr.top
   - DOMAIN,ljpdwxykkqyxk.online
+  - DOMAIN,ljpjyaigzzecr.site
   - DOMAIN,ljpnovfknjqyl.space
   - DOMAIN,ljqpvo.hardrock.com
   - DOMAIN,ljrgbx.charleselie94.fr
@@ -74670,6 +75014,7 @@ payload:
   - DOMAIN,ljzxdu.largus.fr
   - DOMAIN,lk0v8teerw.com
   - DOMAIN,lk2vr84mkricuveci9xtuy.cfd
+  - DOMAIN,lk54dfg87.com
   - DOMAIN,lkaowvjzjfkyd.store
   - DOMAIN,l.kataranna.com
   - DOMAIN,lkcfyglveryvl.online
@@ -80198,6 +80543,7 @@ payload:
   - DOMAIN,loe.ipvzdelavanie.sk
   - DOMAIN,loen21.net
   - DOMAIN,loeqrqqeeemj.top
+  - DOMAIN,loessfraised.com
   - DOMAIN,loewxm.psg.fr
   - DOMAIN,lofcdljzqswbs.online
   - DOMAIN,lofi.acknowledge.co
@@ -81474,6 +81820,7 @@ payload:
   - DOMAIN,lrorwzpayomsy.space
   - DOMAIN,lrose.wilcoskybluesky.com
   - DOMAIN,lrp7.carrefour-banque.fr
+  - DOMAIN,lrpcqarwprvdy.site
   - DOMAIN,lrpoland.wolterskluwer.com
   - DOMAIN,lrportugal.wolterskluwer.com
   - DOMAIN,lrqho.gldn.com
@@ -81542,6 +81889,7 @@ payload:
   - DOMAIN,lsv5.belambra.fr
   - DOMAIN,lsvard.e-kinoshita.net
   - DOMAIN,lsvfzskgudyyr.site
+  - DOMAIN,lsvxhpjcivdwhs.com
   - DOMAIN,lswdjtngkdhbe.website
   - DOMAIN,lswfmx.stuartweitzman.com
   - DOMAIN,lsxhxrpnhrqoj.space
@@ -81566,6 +81914,7 @@ payload:
   - DOMAIN,ltdcef.mclanee.co.kr
   - DOMAIN,ltdczq.myhome.nifty.com
   - DOMAIN,ltdhsyotzrxgz.website
+  - DOMAIN,ltdzz.com
   - DOMAIN,l.tec29.com
   - DOMAIN,ltecrf.dhgate.com
   - DOMAIN,ltelantzxhyhr.online
@@ -81696,6 +82045,7 @@ payload:
   - DOMAIN,luggedzabeta.com
   - DOMAIN,lugirsbhpifnl.store
   - DOMAIN,luhbnpeabgeqf.online
+  - DOMAIN,luhbouguarwqh.site
   - DOMAIN,luhmdpvtncllt.website
   - DOMAIN,luhoio.zum.com
   - DOMAIN,luhzoywwssycd.online
@@ -81732,6 +82082,7 @@ payload:
   - DOMAIN,luminoussculptor.com
   - DOMAIN,lumitos.com
   - DOMAIN,lumo.linealesteoeste.com.br
+  - DOMAIN,lumpmanloammichekan.qpon
   - DOMAIN,lumpyactive.com
   - DOMAIN,lumpyage.pro
   - DOMAIN,lumpylumber.com
@@ -81770,9 +82121,11 @@ payload:
   - DOMAIN,lurker.olx.com.br
   - DOMAIN,lurriesachech.cyou
   - DOMAIN,lusbvzzcnfbeo.site
+  - DOMAIN,lusertineid.cfd
   - DOMAIN,lusfnxbxlkyip.site
   - DOMAIN,lusgle.hudabeauty.com
   - DOMAIN,lushcrush.com
+  - DOMAIN,lushingriced.cyou
   - DOMAIN,lusjjhdzbrlzu.online
   - DOMAIN,lu.sogoucdn.com
   - DOMAIN,lu.sogou.com
@@ -82424,6 +82777,7 @@ payload:
   - DOMAIN,mail.finwellgroup.com
   - DOMAIN,mail.firsthome.com
   - DOMAIN,mailgw.rottne.com
+  - DOMAIN,mailiewarabi.cyou
   - DOMAIN,mailinbox.com.br
   - DOMAIN,mailing.elconfidencialdigital.com
   - DOMAIN,mailin.rottne.com
@@ -82630,6 +82984,7 @@ payload:
   - DOMAIN,manjeetpandar.shop
   - DOMAIN,mankiebret.shop
   - DOMAIN,manksdmejidwv.website
+  - DOMAIN,manlikesubcell.qpon
   - DOMAIN,mannersportalchart.com
   - DOMAIN,manorflounderheady.com
   - DOMAIN,manorowlapprehension.com
@@ -82705,6 +83060,7 @@ payload:
   - DOMAIN,marebeenewly.com
   - DOMAIN,maredpt.com
   - DOMAIN,mareferncrawl.com
+  - DOMAIN,marehankerewa.com
   - DOMAIN,mar.englishkaku.com
   - DOMAIN,ma.revideco.se
   - DOMAIN,marfeelcache.com
@@ -84691,6 +85047,7 @@ payload:
   - DOMAIN,mazdeanexcited.cfd
   - DOMAIN,mazdoorcondite.qpon
   - DOMAIN,mazefoam.com
+  - DOMAIN,mazguqfimdwa.in
   - DOMAIN,mazicpodding.cyou
   - DOMAIN,mazincike.com
   - DOMAIN,maznsshrpkind.space
@@ -84933,6 +85290,7 @@ payload:
   - DOMAIN,mdjar.drkellyann.com
   - DOMAIN,mdlidofju.com
   - DOMAIN,mdlvjwcrxxmbh.online
+  - DOMAIN,mdlzerorudzrdy.com
   - DOMAIN,md.madurodam.nl
   - DOMAIN,md.makemake.dk
   - DOMAIN,mdm.hibinobi-mandom.jp
@@ -84945,6 +85303,7 @@ payload:
   - DOMAIN,mdokua.shiseido.co.jp
   - DOMAIN,mdoomngnidelo.store
   - DOMAIN,mdpgd.oasis-land.com
+  - DOMAIN,mdqyyrxjfrl.com
   - DOMAIN,md.r114.co.kr
   - DOMAIN,mdrihnok.com
   - DOMAIN,mdroadmmbxrlj.space
@@ -85152,6 +85511,7 @@ payload:
   - DOMAIN,meadow-static.xyz
   - DOMAIN,mealdisparitydrip.com
   - DOMAIN,mealieripply.shop
+  - DOMAIN,mealsdyce.qpon
   - DOMAIN,mealstilted.qpon
   - DOMAIN,meander29.top
   - DOMAIN,meander32.com
@@ -85657,6 +86017,7 @@ payload:
   - DOMAIN,melasmaanapest.qpon
   - DOMAIN,melda.koala.com
   - DOMAIN,melismawanze.shop
+  - DOMAIN,meljrogctjnhs.site
   - DOMAIN,mellamanjorge.net.anwalt.de
   - DOMAIN,melledmilor.cyou
   - DOMAIN,mellodur.net
@@ -85824,6 +86185,7 @@ payload:
   - DOMAIN,meritvainlydarn.com
   - DOMAIN,meritvolleyballturban.com
   - DOMAIN,mermaidconclusionwaited.com
+  - DOMAIN,mermaidhurdies.qpon
   - DOMAIN,mermanstubbybalanic.cfd
   - DOMAIN,mernrza.com
   - DOMAIN,mer.nyomdaguru.hu
@@ -85838,6 +86200,7 @@ payload:
   - DOMAIN,me.saddherbazar.xyz
   - DOMAIN,mesaviewlodge.com
   - DOMAIN,mesedybbuksindebt.qpon
+  - DOMAIN,meshedunwived.com
   - DOMAIN,me.sigsauer.com
   - DOMAIN,mesiniklan.andipublisher.com
   - DOMAIN,mesld.modavieresidences.com
@@ -88740,6 +89103,7 @@ payload:
   - DOMAIN,mfiomoaa.com
   - DOMAIN,mfjhkyeptwiop.site
   - DOMAIN,mfjoxsbmnxssq.online
+  - DOMAIN,mfkkxdvwtcifx.space
   - DOMAIN,mfksoedbqfqnr.space
   - DOMAIN,mfkxm.grateful-fred.com
   - DOMAIN,mfltgzltzqvni.online
@@ -88893,6 +89257,7 @@ payload:
   - DOMAIN,mhkrmdpluhscy.online
   - DOMAIN,mhktxzxqhlzik.online
   - DOMAIN,mhkufxshpxgps.website
+  - DOMAIN,mhlhyrrlxtbqo.website
   - DOMAIN,mhlxxxekfd.com
   - DOMAIN,mh.magrabihealth.com
   - DOMAIN,mhmciof8ef.com
@@ -89105,6 +89470,7 @@ payload:
   - DOMAIN,minewhat.com
   - DOMAIN,mingiercolugo.cyou
   - DOMAIN,mingleassertiveregard.com
+  - DOMAIN,mingorestake.cfd
   - DOMAIN,minhahbahmanislite.cfd
   - DOMAIN,minhchinhmega.com
   - DOMAIN,minhngocc789.com
@@ -89149,6 +89515,7 @@ payload:
   - DOMAIN,mintegral.net
   - DOMAIN,minunetclose.com
   - DOMAIN,minus.akirashentai.com
+  - DOMAIN,minusesasfast.com
   - DOMAIN,minuteburst.com
   - DOMAIN,minutelight-1.online
   - DOMAIN,minutemedia-prebid.com
@@ -89166,6 +89533,7 @@ payload:
   - DOMAIN,miqznq.eszonyeg.hu
   - DOMAIN,mirabelanalytics.com
   - DOMAIN,miraclethisaddicted.com
+  - DOMAIN,miranapigly.cyou
   - DOMAIN,mirando.de
   - DOMAIN,miravay.org
   - DOMAIN,mirifelon.com
@@ -89396,6 +89764,7 @@ payload:
   - DOMAIN,mkonz4wvlevi1rugp4pjec1m5z.cfd
   - DOMAIN,mkosiw.sumai1.com
   - DOMAIN,mkpjchfevxpud.website
+  - DOMAIN,mkqyqjrbfjdgo.site
   - DOMAIN,mkrfj.innasegal.com
   - DOMAIN,mkrplsblistuf.website
   - DOMAIN,mkrwxkyyfbeic.site
@@ -90330,6 +90699,7 @@ payload:
   - DOMAIN,morningstraws.com
   - DOMAIN,moro-douga.link
   - DOMAIN,morordermal.com
+  - DOMAIN,morozovnya.link
   - DOMAIN,morrowssuine.qpon
   - DOMAIN,morsn.repwearfitness.com
   - DOMAIN,mortgage.inform.equifax.com
@@ -90504,6 +90874,7 @@ payload:
   - DOMAIN,mpeowvqnbeoah.online
   - DOMAIN,mpferzoapbajb.online
   - DOMAIN,mpfmb.eightsaintsskincare.com
+  - DOMAIN,mpgbqyrd.com
   - DOMAIN,mp-gb-sdklog.kurogames.net
   - DOMAIN,mpggcd.geliebtes-zuhause.de
   - DOMAIN,mpgldibmqlhwg.space
@@ -90590,6 +90961,7 @@ payload:
   - DOMAIN,mpvrmvmrlqbwi.site
   - DOMAIN,mpvuc.filevine.com
   - DOMAIN,mpvyuhdclkwjl.space
+  - DOMAIN,mpwomffuyydx.com
   - DOMAIN,mpxmtx.directbooking.ro
   - DOMAIN,mpylnlsjriwkb.space
   - DOMAIN,mpyrwiatobzzu.space
@@ -90646,6 +91018,7 @@ payload:
   - DOMAIN,mqvhpi.fruties.pl
   - DOMAIN,mqvyob.vidaxl.fi
   - DOMAIN,mqwdgnbntkgen.space
+  - DOMAIN,mqwvygcrfgdtg.site
   - DOMAIN,mqxbtsawpuulc.store
   - DOMAIN,mqzoid.vintorte.com
   - DOMAIN,mr2cnjuh34jb.com
@@ -91125,6 +91498,7 @@ payload:
   - DOMAIN,muddy-match.com
   - DOMAIN,mudguard68.com
   - DOMAIN,mudobtnarda.com
+  - DOMAIN,mudrobasa.link
   - DOMAIN,mudsfobs.cfd
   - DOMAIN,mudweedburrish.qpon
   - DOMAIN,mudwmhaesljqz.site
@@ -91262,6 +91636,7 @@ payload:
   - DOMAIN,murvjwucldspc.space
   - DOMAIN,muscariphatic.cyou
   - DOMAIN,musclesaskewfeeding.com
+  - DOMAIN,musclywastesizz.cfd
   - DOMAIN,muse.originalculprit.com
   - DOMAIN,museszestful.qpon
   - DOMAIN,museumbodyguardappear.com
@@ -91311,6 +91686,7 @@ payload:
   - DOMAIN,mutinycdn.com
   - DOMAIN,mutsjenote.cfd
   - DOMAIN,mutswisheslazaret.cyou
+  - DOMAIN,mutterssurbase.com
   - DOMAIN,mutualdocs.com
   - DOMAIN,mutuantgoller.qpon
   - DOMAIN,mutzdgjyiqse.com
@@ -91477,6 +91853,7 @@ payload:
   - DOMAIN,mxlqgplenjdrc.site
   - DOMAIN,mxlun.com
   - DOMAIN,mx.mixvariado.com
+  - DOMAIN,mxmjrbudtaipb.website
   - DOMAIN,mxmwqo.biosante.com.br
   - DOMAIN,mx.mywd.com
   - DOMAIN,mxn191102201nm.click
@@ -91550,6 +91927,7 @@ payload:
   - DOMAIN,myaffiliateprogram.com
   - DOMAIN,myaffiliates.com
   - DOMAIN,myafriend.com
+  - DOMAIN,myagkotela.link
   - DOMAIN,myairquality.iqair.com
   - DOMAIN,my.aivideostitcherfx.com
   - DOMAIN,myakiu.trendhim.ch
@@ -91744,6 +92122,7 @@ payload:
   - DOMAIN,mysterious-emotion.com
   - DOMAIN,mysterysaunaawkward.com
   - DOMAIN,mystery.vfmleonardo.com
+  - DOMAIN,mysticaladoptionocean.com
   - DOMAIN,mysticalagoon.com
   - DOMAIN,mysticmodelsgrieced.cyou
   - DOMAIN,mysticomen.com
@@ -91790,7 +92169,6 @@ payload:
   - DOMAIN,my.top4sport.ro
   - DOMAIN,mytopf.com
   - DOMAIN,mytop.live.vkvideo.ru
-  - DOMAIN,my.toruftuiov.com
   - DOMAIN,my.totaljobs.com
   - DOMAIN,mytracking.blurryvisionbreakthrough.com
   - DOMAIN,mytracking.sanaor.com
@@ -92128,6 +92506,7 @@ payload:
   - DOMAIN,nanostats.nanopress.it
   - DOMAIN,nanthou.life
   - DOMAIN,naocpuzajwlgt.space
+  - DOMAIN,nao.kagane.to
   - DOMAIN,naompjamdbsum.site
   - DOMAIN,naos.ink
   - DOMAIN,naotokendos.com
@@ -92314,6 +92693,7 @@ payload:
   - DOMAIN,nardkoosintreeify.qpon
   - DOMAIN,narenrosrow.com
   - DOMAIN,narkalignevil.com
+  - DOMAIN,narkykea.cyou
   - DOMAIN,narlheuqrbgcf.space
   - DOMAIN,narrativederidebrainless.com
   - DOMAIN,narrowveneeringsavoury.com
@@ -92337,6 +92717,7 @@ payload:
   - DOMAIN,natasha.bulkbookstore.com
   - DOMAIN,natchezmillie.cyou
   - DOMAIN,natdisplacehereafter.com
+  - DOMAIN,nathemohi.cfd
   - DOMAIN,nathnhfjtdlum.space
   - DOMAIN,nationalaccounts.adp.com
   - DOMAIN,nationalbusinessawards.ubm-events.com
@@ -92563,6 +92944,7 @@ payload:
   - DOMAIN,ncx2.voyage-prive.it
   - DOMAIN,ncxrewvozzcuk.online
   - DOMAIN,ncxxek.donedeal.ie
+  - DOMAIN,ncxxqgo4e4nlu9bhgmfh.rest
   - DOMAIN,ncz3u7cj2.com
   - DOMAIN,nczgvrvnwbxcd.site
   - DOMAIN,nczils.pristineauction.com
@@ -92656,6 +93038,7 @@ payload:
   - DOMAIN,nd.uposorgobd.com
   - DOMAIN,ndvqr.drinkcirkul.com
   - DOMAIN,nd.wearobd.store
+  - DOMAIN,ndyihtufuobovrm.com
   - DOMAIN,ndylmk.elysiumhealth.com
   - DOMAIN,ndyzz.com
   - DOMAIN,nd.zaherfurniture.com
@@ -92719,6 +93102,7 @@ payload:
   - DOMAIN,neglectoffset.com
   - DOMAIN,neglectsquad.com
   - DOMAIN,negligwormian.cyou
+  - DOMAIN,negrinesubbias.cyou
   - DOMAIN,negritasecants.shop
   - DOMAIN,negrznhssmvfw.online
   - DOMAIN,neguspredark.shop
@@ -93362,6 +93746,7 @@ payload:
   - DOMAIN,nfihz.belliwelli.com
   - DOMAIN,n.fitchratings.com
   - DOMAIN,nfitekfooeigt.website
+  - DOMAIN,nfitvkybxaibh.space
   - DOMAIN,nfjwykabvrbxf.site
   - DOMAIN,nfksjkfs.com
   - DOMAIN,nfliiqxnaadkx.online
@@ -93391,6 +93776,7 @@ payload:
   - DOMAIN,nfthe.goclove.com
   - DOMAIN,nftqcoenbehqu.online
   - DOMAIN,nfts-opensea.web.app
+  - DOMAIN,nftvclrhjgrao.website
   - DOMAIN,nfudeh.jadebag.co.kr
   - DOMAIN,nfused.eobuv.com.ua
   - DOMAIN,nfvj.cn
@@ -93603,6 +93989,7 @@ payload:
   - DOMAIN,nhtosawxpqjxu.site
   - DOMAIN,nhtrw.burgerville.com
   - DOMAIN,nhtzj.guardsurvival.com
+  - DOMAIN,nhubwikasji.in
   - DOMAIN,nhuk707eex.com
   - DOMAIN,nhukg.hyerboots.com
   - DOMAIN,nhungmiu.me
@@ -93677,6 +94064,7 @@ payload:
   - DOMAIN,nifeshilluk.com
   - DOMAIN,niffcancri.cyou
   - DOMAIN,nificcravens.cfd
+  - DOMAIN,nifqcwegjckank.com
   - DOMAIN,niftygatevay.com
   - DOMAIN,niftygotevay.com
   - DOMAIN,niftygraphs.com
@@ -93858,6 +94246,7 @@ payload:
   - DOMAIN,nkksj.nestedbean.com
   - DOMAIN,nklmyoknzntio.website
   - DOMAIN,nklzj.schoolyardsnacks.com
+  - DOMAIN,nkmsfuhdoyjwd.space
   - DOMAIN,nkmsite.com
   - DOMAIN,nknky.bicyclebluebook.com
   - DOMAIN,nknqotgyblbpr.space
@@ -94493,6 +94882,7 @@ payload:
   - DOMAIN,npolkkpbzrrpl.site
   - DOMAIN,npozbs.msccruises.nl
   - DOMAIN,nppcvydbsljye.site
+  - DOMAIN,npplbfnehrr.com
   - DOMAIN,nprki.shopbboutique.co
   - DOMAIN,nprkvj.mall.sk
   - DOMAIN,nprove.com
@@ -94513,6 +94903,7 @@ payload:
   - DOMAIN,npvcb.23andme.com
   - DOMAIN,npvos.com
   - DOMAIN,npvva.purplegator.com
+  - DOMAIN,npwyildqeanlo.online
   - DOMAIN,npwzzebiufwws.site
   - DOMAIN,npxlkaugtvywe.store
   - DOMAIN,npzahkooxkyps.website
@@ -94561,6 +94952,7 @@ payload:
   - DOMAIN,nqslmtuswqdz.com
   - DOMAIN,nqsm.medicus.ca
   - DOMAIN,nqsncoau.buzz
+  - DOMAIN,nqtti27g73zzom696vv6j.rest
   - DOMAIN,nqujxpsgreztv.online
   - DOMAIN,nqumc.webinopoly.com
   - DOMAIN,nqvpvohgnfjie.online
@@ -94840,9 +95232,11 @@ payload:
   - DOMAIN,ntwkbc42.com
   - DOMAIN,ntyivmvvzscaj.store
   - DOMAIN,ntzgwekoefmwq.site
+  - DOMAIN,nuancedmorosis.com
   - DOMAIN,nuaooeaurlzpv.space
   - DOMAIN,nuayrztxdbfem.site
   - DOMAIN,nubap.buffalojeans.com
+  - DOMAIN,nubbledbalked.qpon
   - DOMAIN,nubumwpmqpslh.website
   - DOMAIN,nucgsx.indestructibleshoes.com
   - DOMAIN,nuchaorb.cfd
@@ -95026,6 +95420,7 @@ payload:
   - DOMAIN,nwbpsg.amso.pl
   - DOMAIN,nwbuhr.icu
   - DOMAIN,nwcqt.bellabubear.com
+  - DOMAIN,nwcrzarmm.com
   - DOMAIN,nwemnd.com
   - DOMAIN,nwfkhvqxjxpll.online
   - DOMAIN,nwfkjx.gadventures.com
@@ -95041,6 +95436,7 @@ payload:
   - DOMAIN,nwkcdv.pandapiac.hu
   - DOMAIN,nwlnml.megaknihy.sk
   - DOMAIN,nwlogtgbemzts.site
+  - DOMAIN,nwlwodnzybpnq.space
   - DOMAIN,nwmlglasjxvgx.space
   - DOMAIN,nwmnd.com
   - DOMAIN,nwmum.com
@@ -95086,6 +95482,7 @@ payload:
   - DOMAIN,nwwufquiqrfoy.website
   - DOMAIN,nwxbws.oxygenconcentrator.shop
   - DOMAIN,nwxjn.pramworld.co.uk
+  - DOMAIN,nwybatxoocbnx.space
   - DOMAIN,nwzbxcfmseiyv.space
   - DOMAIN,nwzutgomlrtdv.website
   - DOMAIN,nwzvnahvynvik.online
@@ -95180,6 +95577,7 @@ payload:
   - DOMAIN,nymjb.chicme.com
   - DOMAIN,nymllqnuvxbsz.online
   - DOMAIN,nymphadustbox.qpon
+  - DOMAIN,nymphetcongeed.cyou
   - DOMAIN,nymphidbeauism.qpon
   - DOMAIN,nymphidtouzleswlity.qpon
   - DOMAIN,nympl.cwspirits.com
@@ -95270,6 +95668,7 @@ payload:
   - DOMAIN,o.027eat.com
   - DOMAIN,o03fssif8l.com
   - DOMAIN,o0rnzwzst5.com
+  - DOMAIN,o17kbwlq9p.com
   - DOMAIN,o18.click
   - DOMAIN,o18.link
   - DOMAIN,o1cqxzypeckmhy.cfd
@@ -95296,6 +95695,7 @@ payload:
   - DOMAIN,o4nofsh6.de
   - DOMAIN,o4svlxhjun.xyz
   - DOMAIN,o4uxrk33.com
+  - DOMAIN,o5kniji94pv61t17.rest
   - DOMAIN,o5tir3zfugeo6ej.rest
   - DOMAIN,o5.uklbxk74ck8898ii2rgj83crbt19l234z3jfk.cyou
   - DOMAIN,o5y2zd1lq8.com
@@ -95340,6 +95740,7 @@ payload:
   - DOMAIN,oaiab.mykitsch.com
   - DOMAIN,oaiad.josephjoseph.com
   - DOMAIN,oainternetservices.com
+  - DOMAIN,oaipqzragewef.com
   - DOMAIN,oaizwm.zox.la
   - DOMAIN,oajkd.youngla.com
   - DOMAIN,oak.brunobett.de
@@ -95504,6 +95905,7 @@ payload:
   - DOMAIN,obwaopxfnxfdw.space
   - DOMAIN,obwguczcik.com
   - DOMAIN,obwjugohllr.in
+  - DOMAIN,obxbpdykkxswe.online
   - DOMAIN,obytag.kokiskashop.cz
   - DOMAIN,obyuhk.mondoaffariweb.it
   - DOMAIN,obyxuq.gazzy.com.br
@@ -95622,6 +96024,7 @@ payload:
   - DOMAIN,ocvdi0rum.com
   - DOMAIN,ocvonzvikas.in
   - DOMAIN,ocwlhv.ecid.com.br
+  - DOMAIN,ocxehodotubuxun.com
   - DOMAIN,ocxlihabtozf.com
   - DOMAIN,ocxmbarylsyde.space
   - DOMAIN,ocypodemasora.cyou
@@ -95630,6 +96033,7 @@ payload:
   - DOMAIN,od6992uotl.com
   - DOMAIN,odakhzdbrzbny.website
   - DOMAIN,oda.markitondemand.com
+  - DOMAIN,odbmumtgzryff.online
   - DOMAIN,odc.1und1.de
   - DOMAIN,odchkdybnsxre.space
   - DOMAIN,odcihresoxgcv.site
@@ -95685,8 +96089,10 @@ payload:
   - DOMAIN,odswzz.tadaaz.be
   - DOMAIN,odtrtadl.com
   - DOMAIN,oduauledfalmc.online
+  - DOMAIN,oducnyesnjykf.space
   - DOMAIN,odulfytvuuibr.space
   - DOMAIN,odylicplodge.qpon
+  - DOMAIN,odylismnumina.com
   - DOMAIN,odyvcahzbdmlx.website
   - DOMAIN,odzcmuoq.in
   - DOMAIN,odzzperikpir.com
@@ -95836,6 +96242,7 @@ payload:
   - DOMAIN,official-permit.com
   - DOMAIN,officials-kmspico.com
   - DOMAIN,officialvillage.pro
+  - DOMAIN,offletcocuiza.cyou
   - DOMAIN,offlineentheal.qpon
   - DOMAIN,offlookglaiks.cfd
   - DOMAIN,offoonguser.com
@@ -95951,12 +96358,14 @@ payload:
   - DOMAIN,ogqlccnoxzvum.space
   - DOMAIN,ogrhbjyjvdbct.online
   - DOMAIN,ogscumkte.com
+  - DOMAIN,ogsfuqozzf.in
   - DOMAIN,ogt.jp
   - DOMAIN,ogtsesfvshtsk.website
   - DOMAIN,ogtz5yn2u1.ru
   - DOMAIN,oguaumtdjyqoe.online
   - DOMAIN,ogucv.visitkingsisland.com
   - DOMAIN,ogukky.canadagoose.jp
+  - DOMAIN,ogvnfdtunhiwf.space
   - DOMAIN,ogwsktwhfwlky.space
   - DOMAIN,ogwzby.peek-und-cloppenburg.de
   - DOMAIN,ogxrnlidijwxg.website
@@ -96206,6 +96615,7 @@ payload:
   - DOMAIN,okjrzejattkco.online
   - DOMAIN,okkkk.com
   - DOMAIN,okku84mt.xyz
+  - DOMAIN,okkxvcuspgayc.site
   - DOMAIN,oklajbxfhfmqa.site
   - DOMAIN,okloib88.com
   - DOMAIN,okn57l1h.top
@@ -96218,6 +96628,7 @@ payload:
   - DOMAIN,okopuhtgqgelr.space
   - DOMAIN,okoshechka.net
   - DOMAIN,okoulvuvtzurb.site
+  - DOMAIN,okoumegastful.com
   - DOMAIN,okoy.cn
   - DOMAIN,okq2b5zjft.com
   - DOMAIN,okqefbozkgqvd.website
@@ -96362,6 +96773,7 @@ payload:
   - DOMAIN,omcshw.pharmasi.it
   - DOMAIN,om.cyberrentals.com
   - DOMAIN,om.davita.com
+  - DOMAIN,omdayasxkysogi.com
   - DOMAIN,om.dowjoneson.com
   - DOMAIN,om.eamobile.com
   - DOMAIN,omeda.com
@@ -96808,6 +97220,7 @@ payload:
   - DOMAIN,ondqytiskpgyp.site
   - DOMAIN,ondrotnw.com
   - DOMAIN,onduaaafbeuug.site
+  - DOMAIN,ondulecheval.cyou
   - DOMAIN,one2.onestep.fr
   - DOMAIN,one.akhconstructionbd.com
   - DOMAIN,one.ap288-stp.click
@@ -96959,6 +97372,7 @@ payload:
   - DOMAIN,onmanectrictor.com
   - DOMAIN,onmarketer.net
   - DOMAIN,onmarshtompor.com
+  - DOMAIN,onmatqratjp.in
   - DOMAIN,onmuf.eshopygo.it
   - DOMAIN,onmxrrvzhikqu.website
   - DOMAIN,onnie.roolee.com
@@ -97007,6 +97421,7 @@ payload:
   - DOMAIN,oobeapxokjyke.online
   - DOMAIN,oobja.madrinascoffee.com
   - DOMAIN,o.obprk52555pgx2tefpeq1oyfj5rm4w4fjxf.cyou
+  - DOMAIN,oobzrkss.com
   - DOMAIN,ooceqolgvobwy.online
   - DOMAIN,oocrzh.byojet.com
   - DOMAIN,ooc.smu.edu.sg
@@ -97185,6 +97600,7 @@ payload:
   - DOMAIN,opinicl.com
   - DOMAIN,opinionatedborrowed.com
   - DOMAIN,opi-nion.com
+  - DOMAIN,opixzarbflige.online
   - DOMAIN,opjqa.wineinsiders.com
   - DOMAIN,oplarzxfsrvsj.space
   - DOMAIN,oplmbxdyndadi.website
@@ -97231,6 +97647,7 @@ payload:
   - DOMAIN,optiads.org
   - DOMAIN,optically.cyclecourierco.com
   - DOMAIN,opticlygremio.com
+  - DOMAIN,opticsmonimia.cfd
   - DOMAIN,optidigital.com
   - DOMAIN,optidownloader.com
   - DOMAIN,optimagroupthuongphuong.net
@@ -97300,6 +97717,7 @@ payload:
   - DOMAIN,opyavarfwqcpf.store
   - DOMAIN,opzbidaprrxpz.space
   - DOMAIN,opzphurkro.com
+  - DOMAIN,opzwqprixwmoi.online
   - DOMAIN,oqaeoy.solac.com
   - DOMAIN,oqawvx.bodybogam.com
   - DOMAIN,oqbbkv.promosejours.com
@@ -97573,7 +97991,9 @@ payload:
   - DOMAIN,orvamgdjbijvb.space
   - DOMAIN,orvgpjjyagvfn.site
   - DOMAIN,orvietnmqxcgm.online
+  - DOMAIN,orvillebosksbougee.cyou
   - DOMAIN,orvilletalkie.cyou
+  - DOMAIN,orvmxjfhnzgfj.website
   - DOMAIN,orwxixml.com
   - DOMAIN,osahsadctgzfa.site
   - DOMAIN,osamachoice.com
@@ -97615,6 +98035,7 @@ payload:
   - DOMAIN,os.efax.es
   - DOMAIN,os.efax.nl
   - DOMAIN,osef.co.il
+  - DOMAIN,oselaziffs.cyou
   - DOMAIN,os.evoicereceptionist.com
   - DOMAIN,osezny.intheswim.com
   - DOMAIN,os.fandango.com
@@ -97824,6 +98245,7 @@ payload:
   - DOMAIN,ougzbi.ecco-verde.es
   - DOMAIN,ouhhc.frootbat.com
   - DOMAIN,ouhoxibwjvwuz.site
+  - DOMAIN,ouiiadyzaieqx.space
   - DOMAIN,ouiokaq.top
   - DOMAIN,ouiwfrtqcwjeu.online
   - DOMAIN,oujudpodmnumr.space
@@ -97964,6 +98386,7 @@ payload:
   - DOMAIN,ovardu.com
   - DOMAIN,ovarianveneur.qpon
   - DOMAIN,ovaringhazistryptic.cyou
+  - DOMAIN,ovarinheat.cyou
   - DOMAIN,ovbxpk.nabytek-bogart.cz
   - DOMAIN,ovekrdngtazex.space
   - DOMAIN,ovenbifaces.cam
@@ -97978,6 +98401,7 @@ payload:
   - DOMAIN,overdates.com
   - DOMAIN,overdidsivers.cyou
   - DOMAIN,overduedistrust.com
+  - DOMAIN,overdue-share.pro
   - DOMAIN,overdyezirak.cfd
   - DOMAIN,overestimatejerseyrefrigerator.com
   - DOMAIN,overfewcigua.shop
@@ -98166,6 +98590,7 @@ payload:
   - DOMAIN,oxrdktkaktdod.online
   - DOMAIN,oxreevtzvttav.space
   - DOMAIN,oxrlic.bulbamerica.com
+  - DOMAIN,oxrmixgve59rjpxgc.cfd
   - DOMAIN,oxromskyinhfv.site
   - DOMAIN,oxrqbdaslqcek.space
   - DOMAIN,oxshgkbicsayq.website
@@ -98340,6 +98765,7 @@ payload:
   - DOMAIN,p3-ad-sign.byteimg.com
   - DOMAIN,p3-ad-sign.byteimg.com.queniusy.com
   - DOMAIN,p3lj34e33yz6ug5z.rest
+  - DOMAIN,p3yh1ogopqp3h7n7vixt8.cfd
   - DOMAIN,p43c4oysmb.com
   - DOMAIN,p4dc8ve6i.com
   - DOMAIN,p4lc17i.j77bwf9ghq491f.cyou
@@ -98367,6 +98793,7 @@ payload:
   - DOMAIN,p7h1silo3f.app.cainthus.com
   - DOMAIN,p.7keuoze7ctki63r419u4f.cyou
   - DOMAIN,p7tycr5jcw42r2pflvo7.cfd
+  - DOMAIN,p7w3bmhmns.com
   - DOMAIN,p.7xccjif6mm6zrf7go6y6z.cyou
   - DOMAIN,p8q4zf3r59nnbpz5vp2f2.cfd
   - DOMAIN,p8u.hinet.net
@@ -98383,6 +98810,7 @@ payload:
   - DOMAIN,pa.bellewaerde.be
   - DOMAIN,pabgey.siepomaga.pl
   - DOMAIN,pabidding.io
+  - DOMAIN,pabiogdbcg.com
   - DOMAIN,pacaka.conxxx.pro
   - DOMAIN,pacasjxynqbnc.online
   - DOMAIN,pacayajudases.cfd
@@ -98399,6 +98827,7 @@ payload:
   - DOMAIN,packagingsolutions.filamatic.com
   - DOMAIN,packeteagle.com
   - DOMAIN,packlenseavesdrop.com
+  - DOMAIN,packmanwains.qpon
   - DOMAIN,packsofgood.com
   - DOMAIN,pacontainer.s3.amazonaws.com
   - DOMAIN,pac.the-sun.com
@@ -98679,6 +99108,7 @@ payload:
   - DOMAIN,pa.lesarcs-peiseyvallandry.com
   - DOMAIN,paletteeasily.com
   - DOMAIN,pa.leveil.fr
+  - DOMAIN,palfrybriton.cyou
   - DOMAIN,palibs.tech
   - DOMAIN,palibzh.tech
   - DOMAIN,pallahwauve.cyou
@@ -98702,6 +99132,7 @@ payload:
   - DOMAIN,pamelarandom.com
   - DOMAIN,pam.hottur.com.br
   - DOMAIN,pampopholf.com
+  - DOMAIN,pamswrings.cfd
   - DOMAIN,pamvc.sexymodest.com
   - DOMAIN,pamzqm.yitechnology.com
   - DOMAIN,p-analytics.life
@@ -99493,6 +99924,7 @@ payload:
   - DOMAIN,paservices.tech
   - DOMAIN,pasfox.co
   - DOMAIN,pasgerenuk.cyou
+  - DOMAIN,pashesdebcle.cfd
   - DOMAIN,pasheszoril.cfd
   - DOMAIN,pa.skipass-grand-massif.com
   - DOMAIN,pa.skipass-laplagne.com
@@ -99568,6 +100000,7 @@ payload:
   - DOMAIN,patrick.oceanviewstudiosandsuites.com
   - DOMAIN,patriot.cs.pp.cn
   - DOMAIN,patriotic66.top
+  - DOMAIN,patroleligulin.cyou
   - DOMAIN,patrolsodium.com
   - DOMAIN,patronagemaestroforestall.com
   - DOMAIN,patron.heathfield.co.uk
@@ -99920,6 +100353,7 @@ payload:
   - DOMAIN,pecirtripyvis.site
   - DOMAIN,peckersgrandma.cyou
   - DOMAIN,pecklehydro.com
+  - DOMAIN,pecorafougue.com
   - DOMAIN,pecoraturkois.shop
   - DOMAIN,pectinweskits.com
   - DOMAIN,pectosealvia.click
@@ -99979,6 +100413,7 @@ payload:
   - DOMAIN,pekeshackle.com
   - DOMAIN,pekjhombxovne.online
   - DOMAIN,pekrhjaeiwkcm.space
+  - DOMAIN,pelamedara.link
   - DOMAIN,pelicanprogram.com
   - DOMAIN,pelicansource.com
   - DOMAIN,pelikan-network.ir
@@ -100052,6 +100487,7 @@ payload:
   - DOMAIN,peppy2lon1g1stalk.com
   - DOMAIN,pepsinenookies.shop
   - DOMAIN,pepwpv.icu
+  - DOMAIN,pepyakanew.link
   - DOMAIN,peqfgslwvqndy.space
   - DOMAIN,pequotarbored.cfd
   - DOMAIN,peqvwk.notino.at
@@ -100066,6 +100502,7 @@ payload:
   - DOMAIN,percycle.com
   - DOMAIN,perdp.bitsandpieces.com
   - DOMAIN,pereliaastroid.com
+  - DOMAIN,perepolokha.link
   - DOMAIN,peresentacconette.com
   - DOMAIN,peres.naechstenpflege.ch
   - DOMAIN,perf.af.eficads.com
@@ -100236,6 +100673,7 @@ payload:
   - DOMAIN,peuwacvgrvtrg.space
   - DOMAIN,p-events.ivideosmart.com
   - DOMAIN,pevftg.shopee.sg
+  - DOMAIN,pevqdzwyiqkj.com
   - DOMAIN,pevrksshtngcg.site
   - DOMAIN,pewagecraichyoversup.cfd
   - DOMAIN,peweevoyeusejotnian.cfd
@@ -100458,6 +100896,7 @@ payload:
   - DOMAIN,philacct.com
   - DOMAIN,philadelphia-content.cresa.com
   - DOMAIN,phileweb-amzrank.vercel.app
+  - DOMAIN,philiapeched.cyou
   - DOMAIN,philips.sedgwick.com
   - DOMAIN,philosophicaltomorrow.com
   - DOMAIN,philosophicalwarndrugged.com
@@ -101175,6 +101614,7 @@ payload:
   - DOMAIN,pkdzd.kafibody.com
   - DOMAIN,pkeeper3.ru
   - DOMAIN,pketred.com
+  - DOMAIN,pkgsuredo.cfd
   - DOMAIN,pkhevp.suplinx.com
   - DOMAIN,pkhottoqai.com
   - DOMAIN,pk.i2onf43ij8ucupu.cyou
@@ -101587,6 +102027,7 @@ payload:
   - DOMAIN,ploughplbroch.com
   - DOMAIN,ploughseaters.shop
   - DOMAIN,plovcq.loacker.com
+  - DOMAIN,plowmenepoptic.com
   - DOMAIN,ploy.batmobi.net
   - DOMAIN,ploybite.com
   - DOMAIN,ployimmediately.com
@@ -101731,6 +102172,7 @@ payload:
   - DOMAIN,pmjvfwmaetwrn.space
   - DOMAIN,pmkdisodic.cfd
   - DOMAIN,pmlfclxqicihz.website
+  - DOMAIN,pmlsjdfanqrgq.com
   - DOMAIN,pmmdhc.com
   - DOMAIN,pmmjoxhunb.com
   - DOMAIN,pmmpjb.matratzen-concord.de
@@ -101882,6 +102324,7 @@ payload:
   - DOMAIN,pofookhmbkwuf.site
   - DOMAIN,pofyybwevmids.online
   - DOMAIN,pogbd.suzannesfashions.ca
+  - DOMAIN,pogonipdoe.cyou
   - DOMAIN,pogothere.xyz
   - DOMAIN,pogvmflmokkjh.website
   - DOMAIN,pogytulare.cfd
@@ -102347,6 +102790,7 @@ payload:
   - DOMAIN,ppduaejaozsch.website
   - DOMAIN,ppdzrzm5z7.com
   - DOMAIN,ppedzeazco.in
+  - DOMAIN,ppeqetzfaepfc.space
   - DOMAIN,pperkvadtvtxk.online
   - DOMAIN,p.permalink-system.com
   - DOMAIN,pp.fitnesshubbd.xyz
@@ -102457,6 +102901,7 @@ payload:
   - DOMAIN,pqj.qe5wr5upzce3gz2.cyou
   - DOMAIN,pq.k3m5jkhfgxqc2hm4.cyou
   - DOMAIN,pqlcpm.kindoh.co.kr
+  - DOMAIN,pqlhykngrykaa.site
   - DOMAIN,pqlmae.lamaisonduchocolat.co.jp
   - DOMAIN,pqlrfrtotmzpt.website
   - DOMAIN,pqlvwnxkodluw.online
@@ -102503,6 +102948,7 @@ payload:
   - DOMAIN,practical-associate.pro
   - DOMAIN,practicalboil.com
   - DOMAIN,practical-interest.com
+  - DOMAIN,practicantihum.cyou
   - DOMAIN,practice1.bongoshri.com
   - DOMAIN,practicecash.com
   - DOMAIN,practicedrectification.com
@@ -102523,6 +102969,7 @@ payload:
   - DOMAIN,praosthill.cfd
   - DOMAIN,pra.praxis.nl
   - DOMAIN,prateranglo.cfd
+  - DOMAIN,prattlenymphos.cfd
   - DOMAIN,prawn.lionsmouth.digital
   - DOMAIN,prawnyattorns.com
   - DOMAIN,prayersoriginate.com
@@ -103485,6 +103932,7 @@ payload:
   - DOMAIN,pro.wildpacificwhalewatch.com
   - DOMAIN,prowlenthusiasticcongest.com
   - DOMAIN,prowlgrabbed.com
+  - DOMAIN,prowstrewage.cfd
   - DOMAIN,pro.xceleratoronline.co.nz
   - DOMAIN,proxima.midjourney.com
   - DOMAIN,proximic.com
@@ -103863,6 +104311,7 @@ payload:
   - DOMAIN,pudalz.gismeteo.by
   - DOMAIN,puddwz.mister-auto.ie
   - DOMAIN,pudencygannet.qpon
+  - DOMAIN,pudhmbpdlliky.space
   - DOMAIN,pudhr.paulinafitness.com
   - DOMAIN,pudppkqcs.icu
   - DOMAIN,pudseysfm.cfd
@@ -104192,6 +104641,7 @@ payload:
   - DOMAIN,pussl48.com
   - DOMAIN,pussyeatingclub.com
   - DOMAIN,pussy-pics.net
+  - DOMAIN,pustobrya.link
   - DOMAIN,putana.cz
   - DOMAIN,putcherowldom.cfd
   - DOMAIN,putherybiali.cfd
@@ -104267,9 +104717,11 @@ payload:
   - DOMAIN,pvrugd.nieruchomosci-online.pl
   - DOMAIN,pvszyovqkuwyn.space
   - DOMAIN,pvtd.cn
+  - DOMAIN,pvtebufamzfon.site
   - DOMAIN,pvtjt.ancestralsupplements.com
   - DOMAIN,pvtvv.halfdaytravel.com
   - DOMAIN,pvuznrtadztxu.space
+  - DOMAIN,pvvdfvwyytmpi.com
   - DOMAIN,pvvii.griotsgarage.com
   - DOMAIN,pvvkigebunabd.site
   - DOMAIN,pvwfz.tonimay.com.au
@@ -104394,6 +104846,7 @@ payload:
   - DOMAIN,px.ucweb.com
   - DOMAIN,pxvlcc.crocs.fr
   - DOMAIN,pxvoyuez.com
+  - DOMAIN,pxvwrdgdwmnop.com
   - DOMAIN,px.wpk.quark.cn
   - DOMAIN,px.wp.pl
   - DOMAIN,pxwwnicuhhofj.space
@@ -104478,6 +104931,7 @@ payload:
   - DOMAIN,pzifsf.th-agent.jp
   - DOMAIN,pziqf.blackovis.com
   - DOMAIN,pzjhx.bauhaus.dk
+  - DOMAIN,pzjoonojxxtuf.online
   - DOMAIN,pzkaqvyqypgyd.site
   - DOMAIN,pzkkot4kn.com
   - DOMAIN,pzlkz.villadelpalmar.com
@@ -104486,6 +104940,7 @@ payload:
   - DOMAIN,pzlsmpdqmlowi.site
   - DOMAIN,pzmbetafgealw.online
   - DOMAIN,pzmpi.ticketsforless.com
+  - DOMAIN,pzmu7go7i2.com
   - DOMAIN,pznjw.loveyagutsbox.com
   - DOMAIN,pznri.crocs.de
   - DOMAIN,pzoapdfmzfrqz.website
@@ -104528,7 +104983,9 @@ payload:
   - DOMAIN,q2i8kd5n.de
   - DOMAIN,q2tqrsh02.com
   - DOMAIN,q31cwh.5l7kmfxje2933jb8pi1x1cz.cyou
+  - DOMAIN,q35g17z5yvicu7.cfd
   - DOMAIN,q3b8j7.uthqnrwntwqxg8h8h1wgx5b.cyou
+  - DOMAIN,q3lblqj4mnhir3ff23x43xm4ehfx8q1.rest
   - DOMAIN,q4173l5op.com
   - DOMAIN,q47u5jeg.x5qjv9hxu7eugfueezpfk.cyou
   - DOMAIN,q4l5gz6lqog6.www.eventus.io
@@ -104659,6 +105116,7 @@ payload:
   - DOMAIN,qbomp.healthiapp.com
   - DOMAIN,qbop.com
   - DOMAIN,qbpkyvtnxslrk.website
+  - DOMAIN,qbqrecnzpejoz.site
   - DOMAIN,qbrth.ezcontacts.com
   - DOMAIN,qbrzvovbwqwqz.top
   - DOMAIN,qbstirlmttced.online
@@ -104830,6 +105288,7 @@ payload:
   - DOMAIN,qerpks.rollei.de
   - DOMAIN,qerusgreyt.com
   - DOMAIN,qeshpghxerbyb.site
+  - DOMAIN,qetsjadxfjtzq.online
   - DOMAIN,qeujnihdvzsnv.online
   - DOMAIN,qeukqwbcbhgku.online
   - DOMAIN,qeutai.99streetshop.com
@@ -104872,6 +105331,7 @@ payload:
   - DOMAIN,qfiobhon.com
   - DOMAIN,qfioxlrke.in
   - DOMAIN,qfjgcntbdvthn.online
+  - DOMAIN,qfjggtpggwnjh.site
   - DOMAIN,qfkmyf.clarins.com
   - DOMAIN,qfkpz.xdrama.com
   - DOMAIN,qflcnpyfqxedr.space
@@ -104928,6 +105388,7 @@ payload:
   - DOMAIN,qgreedreau.com
   - DOMAIN,qgthiomylmdvo.online
   - DOMAIN,qgtlndbjewjxa.website
+  - DOMAIN,qguhxvmzvkdyd.online
   - DOMAIN,qgumjp.asiae.co.kr
   - DOMAIN,qgumjp.idol-chart.com
   - DOMAIN,qgumjp.joins.com
@@ -105084,11 +105545,13 @@ payload:
   - DOMAIN,qjpymgrcpbeah.site
   - DOMAIN,qjqdkli0ag.com
   - DOMAIN,qjqil.execupgrades.com
+  - DOMAIN,qjqkymegl.com
   - DOMAIN,qjqmyapfebbvb.space
   - DOMAIN,qjsepjbndeeot.site
   - DOMAIN,qjudfh.hh-taiwan.com.tw
   - DOMAIN,qjurou.laredoute.com
   - DOMAIN,qjuyaxbrnhxgm.online
+  - DOMAIN,qjvubfxbdaxbs.space
   - DOMAIN,qjvyvtffjirwg.website
   - DOMAIN,qjwcjt.revolveclothing.com
   - DOMAIN,qjxhxu.lakeside.com
@@ -105144,6 +105607,7 @@ payload:
   - DOMAIN,qldvnj.purepara.com
   - DOMAIN,qleamb.climbing247.se
   - DOMAIN,qlfqkjluvz.com
+  - DOMAIN,qlhqkphqbkoxg.site
   - DOMAIN,qliqxaxsajpls.space
   - DOMAIN,qlitics.com
   - DOMAIN,qliwncicprtay.site
@@ -105215,11 +105679,14 @@ payload:
   - DOMAIN,qmmoq.propanedepot.com
   - DOMAIN,qmmscfin.smiletrainindia.org
   - DOMAIN,qmnjvczfauxbb.site
+  - DOMAIN,qmohwjiqvndcy.online
   - DOMAIN,qmoqruden.com
   - DOMAIN,qmoyfh.xcite.com.sa
   - DOMAIN,qmqmv.jacksonandperkins.com
   - DOMAIN,qmrelvbjbzjew.top
+  - DOMAIN,qmrelvbjbzjzo.top
   - DOMAIN,qmrhu.iheartraves.com
+  - DOMAIN,qmswagnknctcv.online
   - DOMAIN,qmtjvq.kuoni.ch
   - DOMAIN,qmtrnqp900.com
   - DOMAIN,qmtyg.firstday.com
@@ -105250,6 +105717,7 @@ payload:
   - DOMAIN,qnjcoqqwvfgei.online
   - DOMAIN,qnjhb.gatorwaders.com
   - DOMAIN,qnjpcchsedxxb.site
+  - DOMAIN,qnjwkwywbkhuq.online
   - DOMAIN,qnlbs2m0uoto.www.videoath.com
   - DOMAIN,qnlh1.paintingpan.com
   - DOMAIN,qnmhf.nalgene.com
@@ -105438,6 +105906,7 @@ payload:
   - DOMAIN,qquxahyfqinua.site
   - DOMAIN,qqvcouthy.qpon
   - DOMAIN,qqwbkn.rostocker-jobanzeiger.de
+  - DOMAIN,qqwnrphmqkxvn.site
   - DOMAIN,qqwyihwm.thjen.tech
   - DOMAIN,qqxovh.bosod.co.kr
   - DOMAIN,qqyydb.shopatshowcase.com
@@ -105904,11 +106373,13 @@ payload:
   - DOMAIN,quiz.resolucaoonline.com
   - DOMAIN,quizzicalpartner.com
   - DOMAIN,quizzicalrun.com
+  - DOMAIN,quizzical-topic.com
   - DOMAIN,quizzicalzephyr.com
   - DOMAIN,qujaotqzrctlf.website
   - DOMAIN,qujishu.com
   - DOMAIN,quk9.destinia.com.ar
   - DOMAIN,qukaqmdewtarx.site
+  - DOMAIN,quksodcbcybmo.space
   - DOMAIN,quksyhnvkuhru.website
   - DOMAIN,qultgdlesbdaw.online
   - DOMAIN,qumhzv.calmamall.com
@@ -106028,6 +106499,7 @@ payload:
   - DOMAIN,qwikln.com
   - DOMAIN,qwkfljghzcmsl.site
   - DOMAIN,qwlbvlyylzeob.top
+  - DOMAIN,qwlfbjwkaxqqe.site
   - DOMAIN,qwnizqblmkevc.space
   - DOMAIN,qwnzzp50x.com
   - DOMAIN,qwo2megh2y.bj9oo31oomni2o28z.cyou
@@ -106067,6 +106539,7 @@ payload:
   - DOMAIN,qxawczrzwjrfg.space
   - DOMAIN,qxaz2xcw.com
   - DOMAIN,qxbkmxojrqwkb.online
+  - DOMAIN,qxbpi331k.com
   - DOMAIN,qxcqurvolreou.space
   - DOMAIN,qxdjfb.astoreo.cz
   - DOMAIN,qxdownload.com
@@ -106382,6 +106855,7 @@ payload:
   - DOMAIN,raidsliz.shop
   - DOMAIN,raidsstrolld.qpon
   - DOMAIN,railbowyers.cfd
+  - DOMAIN,raillypraams.qpon
   - DOMAIN,railroadignorant.com
   - DOMAIN,railwaygiraffe.com
   - DOMAIN,railwayreason.com
@@ -106416,6 +106890,7 @@ payload:
   - DOMAIN,rak8s.com
   - DOMAIN,rakam-api.aptoide.com
   - DOMAIN,rake.11st.co.kr
+  - DOMAIN,rakeagerosel.com
   - DOMAIN,rakerscoofsmahajan.cfd
   - DOMAIN,rake.tmap.co.kr
   - DOMAIN,rakiblinger.com
@@ -106663,6 +107138,7 @@ payload:
   - DOMAIN,r.biotrck.com
   - DOMAIN,rbipvkasmggrm.site
   - DOMAIN,rbis-solutions.averydennison.com
+  - DOMAIN,rbjbghvkbywgnl.com
   - DOMAIN,rbjixtnbjdcnd.online
   - DOMAIN,rbjrfofcbpapw.website
   - DOMAIN,rblezsuhrvhor.space
@@ -106685,6 +107161,7 @@ payload:
   - DOMAIN,rbqlbokqravyy.top
   - DOMAIN,rb.rfn.ru
   - DOMAIN,r.browser.miui.com
+  - DOMAIN,rbru3ubey.com
   - DOMAIN,rbrxg.com
   - DOMAIN,rbrzcu.green-acres.gr
   - DOMAIN,rbsfckgfwpgnr.site
@@ -106781,6 +107258,7 @@ payload:
   - DOMAIN,rd.alice.it
   - DOMAIN,rd.americaninfopage.com
   - DOMAIN,rdbd.xsread.com
+  - DOMAIN,rdbfaofnuhdkf.space
   - DOMAIN,rdblieez7.com
   - DOMAIN,rdbwwe.zolotoyvek.ua
   - DOMAIN,rdcdzuzowsxnq.website
@@ -107302,6 +107780,7 @@ payload:
   - DOMAIN,refersion.com
   - DOMAIN,referwhen.com
   - DOMAIN,refer.wordpress.com
+  - DOMAIN,reffedseck.com
   - DOMAIN,refiledplanned.cfd
   - DOMAIN,refilmsbones.top
   - DOMAIN,refilmstroll.shop
@@ -107485,6 +107964,7 @@ payload:
   - DOMAIN,reklamstore.cubecdn.net
   - DOMAIN,reklam.turkmmo.com
   - DOMAIN,reklam.yonlendir.com
+  - DOMAIN,reknockjones.cfd
   - DOMAIN,rek.serial24.com
   - DOMAIN,rek.www.wp.pl
   - DOMAIN,rek.yemlee.com
@@ -107570,6 +108050,7 @@ payload:
   - DOMAIN,reljmonrmipxw.space
   - DOMAIN,rellsagesamerence.com
   - DOMAIN,relmaxtop.com
+  - DOMAIN,relnewsier.cfd
   - DOMAIN,reload.hotscopes.org
   - DOMAIN,rel-s.com
   - DOMAIN,reltrd.peteralexander.com.au
@@ -107594,6 +108075,7 @@ payload:
   - DOMAIN,remark.haplaytour.com
   - DOMAIN,remark.herlan.com
   - DOMAIN,remarriedbore.com
+  - DOMAIN,remasswatsluger.qpon
   - DOMAIN,rematchperiod.cyou
   - DOMAIN,remedyweek.com
   - DOMAIN,remedyy46.com
@@ -108011,6 +108493,8 @@ payload:
   - DOMAIN,restaurant.il-teatro.dk
   - DOMAIN,rest.comfy.ua
   - DOMAIN,resteddiabetepocket.com
+  - DOMAIN,resteepbangarearray.cfd
+  - DOMAIN,restersdemobsdesize.qpon
   - DOMAIN,restfultools.com
   - DOMAIN,restingcarpal.cyou
   - DOMAIN,re.stjude.org
@@ -108280,6 +108764,7 @@ payload:
   - DOMAIN,rfmqj.broadwaysd.com
   - DOMAIN,rfmqq.mindfulsouls.com
   - DOMAIN,rfoimlidydyph.site
+  - DOMAIN,rfoundabimebanksia.qpon
   - DOMAIN,rfpbmkezjrtkf.site
   - DOMAIN,rfpjoviqbmecn.online
   - DOMAIN,rfpmudsnyeuhe.space
@@ -108566,6 +109051,7 @@ payload:
   - DOMAIN,rihcos.com
   - DOMAIN,rihhfqeqwimni.website
   - DOMAIN,rihiv.lumindrops.co
+  - DOMAIN,rihnruzrgufav.space
   - DOMAIN,rihurxgrxghfh.online
   - DOMAIN,rik11.fun
   - DOMAIN,rikip.com
@@ -108573,6 +109059,7 @@ payload:
   - DOMAIN,rikmomo.co
   - DOMAIN,rikmomo.me
   - DOMAIN,rikshaalertedkowbird.qpon
+  - DOMAIN,rikshawmajathor.cyou
   - DOMAIN,rilletincaic.cyou
   - DOMAIN,rilnkygbfbvru.site
   - DOMAIN,rilsozgcmtyio.online
@@ -108597,6 +109084,7 @@ payload:
   - DOMAIN,ringtonepartner.com
   - DOMAIN,rinkswhiskeyethnish.cfd
   - DOMAIN,rinqgwqhyxozh.website
+  - DOMAIN,rinsersdisarm.cfd
   - DOMAIN,rio9s1zdpd.com
   - DOMAIN,riobank.asia
   - DOMAIN,riotgame-khoataikhoan-vn.xyz
@@ -108915,6 +109403,7 @@ payload:
   - DOMAIN,rnb4bxd0.xyz
   - DOMAIN,rnccnwtekuerb.space
   - DOMAIN,rncokhdxtcdxa.website
+  - DOMAIN,rncslvkhvwpol.space
   - DOMAIN,rndchandelureon.com
   - DOMAIN,rndgc.takemeche.com
   - DOMAIN,rndmlk8asw.com
@@ -109058,6 +109547,7 @@ payload:
   - DOMAIN,rofnjd.icu
   - DOMAIN,rogciihbvtvda.online
   - DOMAIN,rogeroalumnusjoutes.cfd
+  - DOMAIN,roggledourseptets.cyou
   - DOMAIN,ro-go.experian.com
   - DOMAIN,roguephilosopher.com
   - DOMAIN,roguessimooms.cyou
@@ -109403,9 +109893,11 @@ payload:
   - DOMAIN,rqtgk.breathedivinity.com
   - DOMAIN,rqtrk.eu
   - DOMAIN,rqtsvdclifjqy.site
+  - DOMAIN,rqudubdyzkqum.website
   - DOMAIN,rqvsws.carreblanc.com
   - DOMAIN,rqwel.com
   - DOMAIN,rqwlvvklvqboa.top
+  - DOMAIN,rqxvfhoiigmow.space
   - DOMAIN,rqyebobmjojvq.top
   - DOMAIN,rqyjlkojuohpv.online
   - DOMAIN,rqykyzjfwyjbu.online
@@ -109456,6 +109948,7 @@ payload:
   - DOMAIN,rrsxes4oy.com
   - DOMAIN,rrtng.brickwar2.com
   - DOMAIN,rrudwdjo.mrvig.com
+  - DOMAIN,rruermzwlaewg.website
   - DOMAIN,rrvay.com
   - DOMAIN,rrvllvxqfobil.site
   - DOMAIN,rrxldl.bol.de
@@ -110481,6 +110974,7 @@ payload:
   - DOMAIN,rutcomposureopt.com
   - DOMAIN,rutecwsieverf.online
   - DOMAIN,ruthclovepuberty.com
+  - DOMAIN,rutheneapollo.cfd
   - DOMAIN,ruthlessdegree.com
   - DOMAIN,ruthlesssomeoneabattoir.com
   - DOMAIN,ruthsize.com
@@ -110589,6 +111083,7 @@ payload:
   - DOMAIN,rwhneg.breaking-news.jp
   - DOMAIN,r.wholehall.com
   - DOMAIN,rwhxz.space
+  - DOMAIN,rwhyrlb8r2.com
   - DOMAIN,rwilwcovop.icu
   - DOMAIN,r.winf.site
   - DOMAIN,rwjbdrzrqgsrf.space
@@ -110685,6 +111180,7 @@ payload:
   - DOMAIN,ry0.rythmefm.com
   - DOMAIN,ry7icaih0p.com
   - DOMAIN,r.yabancidizi.in
+  - DOMAIN,ryabokoshka.link
   - DOMAIN,ryapalta.com
   - DOMAIN,ryaqlyayyeba.top
   - DOMAIN,ryastalest.cfd
@@ -110954,6 +111450,7 @@ payload:
   - DOMAIN,s.4tr.cc
   - DOMAIN,s4utm.skirting4u.co.uk
   - DOMAIN,s615419487.sc.origins.en25.com
+  - DOMAIN,s6cfki4v4.com
   - DOMAIN,s6ctxsmoaj.com
   - DOMAIN,s.6hd49jng.com
   - DOMAIN,s6.textlink.vn
@@ -110961,6 +111458,7 @@ payload:
   - DOMAIN,s7227wuo.xyz
   - DOMAIN,s72h7io4o.com
   - DOMAIN,s762.pressenterprise.com
+  - DOMAIN,s7jkxkm72.com
   - DOMAIN,s7xrlzfa.top
   - DOMAIN,s811.ketv.com
   - DOMAIN,s861531437.sc.origins.en25.com
@@ -111153,6 +111651,7 @@ payload:
   - DOMAIN,sac.dermatitecontrolada.com.br
   - DOMAIN,sace.aaa.com
   - DOMAIN,sa.chdist.com
+  - DOMAIN,sachetscrane.qpon
   - DOMAIN,sachetsmicella.cyou
   - DOMAIN,sackedphil.com
   - DOMAIN,saclel.zotapay.com
@@ -111484,6 +111983,7 @@ payload:
   - DOMAIN,s.alfaalmanca.com
   - DOMAIN,salicyldefames.com
   - DOMAIN,salientalmuce.shop
+  - DOMAIN,salinanbunga.cyou
   - DOMAIN,salinatineola.qpon
   - DOMAIN,sal.isanook.com
   - DOMAIN,salitempbscripple.cfd
@@ -111497,6 +111997,7 @@ payload:
   - DOMAIN,salmoncontroversy.com
   - DOMAIN,salmonfin.com
   - DOMAIN,salmon.thespiritualpsychologist.co.uk
+  - DOMAIN,salmuphahdgcc.site
   - DOMAIN,saloopsphonerenigua.cfd
   - DOMAIN,salpoidviolan.qpon
   - DOMAIN,salsacartel.com
@@ -111519,6 +112020,8 @@ payload:
   - DOMAIN,salvador24.com
   - DOMAIN,salvageapplet.com
   - DOMAIN,salvocutling.qpon
+  - DOMAIN,salvoedbias.qpon
+  - DOMAIN,salweysends.qpon
   - DOMAIN,salzburg.semsea.at
   - DOMAIN,samage-bility.icu
   - DOMAIN,samarketing.sedgwick.com
@@ -111566,6 +112069,8 @@ payload:
   - DOMAIN,sam.manager-magazin.de
   - DOMAIN,sam.montano.se
   - DOMAIN,sam.msn.com
+  - DOMAIN,samograyka.link
+  - DOMAIN,samokhvala.link
   - DOMAIN,s.amora.ro
   - DOMAIN,sampanhuntley.com
   - DOMAIN,sampa.saidsom.com.br
@@ -111914,6 +112419,7 @@ payload:
   - DOMAIN,s.antaestudio.com
   - DOMAIN,santander-open-academy.cip.test.ajo.adobe.com
   - DOMAIN,santarem.ondec.com.br
+  - DOMAIN,santenetoping.cyou
   - DOMAIN,santirssalsolajazzing.qpon
   - DOMAIN,santogrush.cfd
   - DOMAIN,santo.neelchuri.com
@@ -112113,6 +112619,7 @@ payload:
   - DOMAIN,sayac.kapital.com.tr
   - DOMAIN,sayac.net.tr
   - DOMAIN,sayac.tmgrup.com.tr
+  - DOMAIN,sayawharfed.cfd
   - DOMAIN,sayinnovation.com
   - DOMAIN,saymedia.com
   - DOMAIN,saysbright.cyou
@@ -112170,6 +112677,7 @@ payload:
   - DOMAIN,sbkbb.chiccousa.com
   - DOMAIN,sbkgxdiiaxtgx.space
   - DOMAIN,sbkpo.clarks.com
+  - DOMAIN,sbkzujohszxzh.site
   - DOMAIN,s.blau-touristik.de
   - DOMAIN,sblfdxsencirl.website
   - DOMAIN,sblhp.com
@@ -112315,6 +112823,7 @@ payload:
   - DOMAIN,scatteredheat.com
   - DOMAIN,scatteredstream.com
   - DOMAIN,scatylems.com
+  - DOMAIN,scaulgeneva.qpon
   - DOMAIN,scaupcroaks.cyou
   - DOMAIN,scawliachimo.qpon
   - DOMAIN,scawtepee.com
@@ -112325,6 +112834,7 @@ payload:
   - DOMAIN,sc.bellator.com
   - DOMAIN,sc.blurb.fr
   - DOMAIN,scb.nanghanmucthenganhangvisa.com
+  - DOMAIN,scbrnbtihnvjku.com
   - DOMAIN,sc.caffe2go.com
   - DOMAIN,sc.cmt.com
   - DOMAIN,sccotxcyhkpsm.site
@@ -112431,6 +112941,7 @@ payload:
   - DOMAIN,scjylqtrugste.space
   - DOMAIN,sc.kidschoiceawards.com
   - DOMAIN,sckolyzbykufh.website
+  - DOMAIN,sckvhnlffrweb.site
   - DOMAIN,sckxod.apostrophes.kr
   - DOMAIN,scl6gc5l.site
   - DOMAIN,sc.lacapitale.com
@@ -112577,6 +113088,7 @@ payload:
   - DOMAIN,scout.bergfreunde.nl
   - DOMAIN,scout.bergfreunde.no
   - DOMAIN,scout.bergfreunde.se
+  - DOMAIN,scout.data.funkedigital.de
   - DOMAIN,scouthssocmen.com
   - DOMAIN,scowderbriarycb.cyou
   - DOMAIN,scowderrefresh.cyou
@@ -112740,6 +113252,7 @@ payload:
   - DOMAIN,scxjzworwsxhn.online
   - DOMAIN,sc.xn--sarccalados-s9a.com.br
   - DOMAIN,s.cybercompass.io
+  - DOMAIN,scyjupzqmyvwn.site
   - DOMAIN,scyphatipis.shop
   - DOMAIN,scythebushwah.qpon
   - DOMAIN,scyunztvkunuw.website
@@ -113447,6 +113960,7 @@ payload:
   - DOMAIN,sefg.praxis-naveed.de
   - DOMAIN,sefsdvc.com
   - DOMAIN,segapi.splice.com
+  - DOMAIN,segathysurditywasts.cyou
   - DOMAIN,seggardhagmall.qpon
   - DOMAIN,seghg.hottopic.com
   - DOMAIN,segment-api.goodrx.com
@@ -113486,6 +114000,7 @@ payload:
   - DOMAIN,seizureblade.com
   - DOMAIN,sejdfu.coeur.de
   - DOMAIN,sejeantlintier.qpon
+  - DOMAIN,sejvwznhmhxwj.website
   - DOMAIN,sekaopi.nocre.jp
   - DOMAIN,sekereepeeist.cyou
   - DOMAIN,sekindo.com
@@ -113893,6 +114408,7 @@ payload:
   - DOMAIN,serl.mooo.com
   - DOMAIN,sermfhdkrupwy.store
   - DOMAIN,ser.nutrifymart.com
+  - DOMAIN,serootongaro.cyou
   - DOMAIN,seroprevot.cfd
   - DOMAIN,serpigocrull.cyou
   - DOMAIN,serraisawah.cfd
@@ -120725,6 +121241,7 @@ payload:
   - DOMAIN,sheep.pixair-survey.com
   - DOMAIN,sheep.tomfyfe.com
   - DOMAIN,sheep.vaxstandby.com
+  - DOMAIN,sheererretsina.qpon
   - DOMAIN,sheeta.nrj-play.fr
   - DOMAIN,sheetvibe.com
   - DOMAIN,sheikkhmdyousuf.bdnature.com
@@ -120830,6 +121347,7 @@ payload:
   - DOMAIN,shirvansnafus.shop
   - DOMAIN,shisanmaozser.com
   - DOMAIN,s.hisp.in
+  - DOMAIN,shistsasthoreweeply.qpon
   - DOMAIN,shitblimp.gasm.ninja
   - DOMAIN,shittenyomud.cfd
   - DOMAIN,shittimcecity.qpon
@@ -121461,6 +121979,7 @@ payload:
   - DOMAIN,showsclick.com
   - DOMAIN,showsteel.com
   - DOMAIN,show.tissueworld.com
+  - DOMAIN,showunionsjoker.com
   - DOMAIN,showyoursite.com
   - DOMAIN,showzyeye.com
   - DOMAIN,shp.stayhealthy.ch
@@ -121611,6 +122130,7 @@ payload:
   - DOMAIN,sienitemarek.cfd
   - DOMAIN,sienokeeryirp.online
   - DOMAIN,sieostialsaphena.cfd
+  - DOMAIN,sierraechappetweeze.cyou
   - DOMAIN,sierrakermit.com
   - DOMAIN,sierrakonradreorganize.com
   - DOMAIN,sieuatoc.com
@@ -121751,6 +122271,7 @@ payload:
   - DOMAIN,silverwhitebirds.co
   - DOMAIN,silylbranny.shop
   - DOMAIN,simarabonzian.cfd
+  - DOMAIN,simerandom.qpon
   - DOMAIN,simg.bwin.be
   - DOMAIN,simg.bwin.com
   - DOMAIN,simg.bwin.es
@@ -121833,6 +122354,7 @@ payload:
   - DOMAIN,sinckuxlsucmq.online
   - DOMAIN,sindmagneto.cyou
   - DOMAIN,sindtex.shop
+  - DOMAIN,sinebryuga.link
   - DOMAIN,sinehut.com
   - DOMAIN,s.info.cemexgo.com
   - DOMAIN,sinfo.dtcidev.co
@@ -121840,6 +122362,7 @@ payload:
   - DOMAIN,s.infogram.com
   - DOMAIN,s.infomx.cemexgo.com
   - DOMAIN,sinfulmaia.cfd
+  - DOMAIN,singeseczemas.cfd
   - DOMAIN,singingprior.com
   - DOMAIN,singingunicorn.com
   - DOMAIN,singledatetime.com
@@ -121909,6 +122432,7 @@ payload:
   - DOMAIN,sisdtb.climatempo.com.br
   - DOMAIN,sis.facesittingbbw.com
   - DOMAIN,sisseth.com
+  - DOMAIN,sistentdiets.cfd
   - DOMAIN,sis.timezooltd.com
   - DOMAIN,sistrenvaudism.cfd
   - DOMAIN,sitaoabuser.com
@@ -122127,6 +122651,7 @@ payload:
   - DOMAIN,skaiqedhgm.com
   - DOMAIN,s.kakkutukku.fi
   - DOMAIN,s.kakservice.se
+  - DOMAIN,skaldicmismetstrude.cfd
   - DOMAIN,skaldsgils.com
   - DOMAIN,skanceharshly.com
   - DOMAIN,s.kancelariailt.pl
@@ -122286,8 +122811,10 @@ payload:
   - DOMAIN,sknkp.appliednutrition.uk
   - DOMAIN,s.kociarnia.pl
   - DOMAIN,s.kohezi.com
+  - DOMAIN,skorobeyka.link
   - DOMAIN,s.kottisdesign.gr
   - DOMAIN,skouthgoal.cfd
+  - DOMAIN,skovorodnya.link
   - DOMAIN,skoybfeiwwszy.website
   - DOMAIN,skp.jalg.me
   - DOMAIN,skppwc.billabong.com.br
@@ -122389,6 +122916,7 @@ payload:
   - DOMAIN,s.laviere.in
   - DOMAIN,slavismunbowed.qpon
   - DOMAIN,slawhomager.com
+  - DOMAIN,slayedousters.cfd
   - DOMAIN,slayingbugeyes.com
   - DOMAIN,slaysweater.com
   - DOMAIN,slazq.wakakuu.com
@@ -127159,6 +127687,7 @@ payload:
   - DOMAIN,smiterdacusalumite.cyou
   - DOMAIN,smithburka.com
   - DOMAIN,smithvaaa.e.epiqnotification.com
+  - DOMAIN,smitnkfaripvm.site
   - DOMAIN,smi.today
   - DOMAIN,smixldswntjcf.site
   - DOMAIN,sm.jadukathi.com
@@ -127407,6 +127936,7 @@ payload:
   - DOMAIN,snailscrambledcontrivance.com
   - DOMAIN,snailthreatenedinvited.com
   - DOMAIN,snakenecklace.com
+  - DOMAIN,snakeryreclang.cfd
   - DOMAIN,snakeslang.com
   - DOMAIN,snalytics.accidenthero.at
   - DOMAIN,snalytics.allianz-assistance.at
@@ -127457,6 +127987,7 @@ payload:
   - DOMAIN,sndkfw.24mx.es
   - DOMAIN,sndkorea.co.kr
   - DOMAIN,sndqar.rajapack.es
+  - DOMAIN,sneakedbiopsy.com
   - DOMAIN,sneakedsonlessupknell.cyou
   - DOMAIN,sneakerorblike.com
   - DOMAIN,sneakintriguecasting.com
@@ -127625,6 +128156,7 @@ payload:
   - DOMAIN,so333o.com
   - DOMAIN,so8.hyatt.com
   - DOMAIN,soahu1wnmt6l.www.replai.io
+  - DOMAIN,soakersscrin.com
   - DOMAIN,soakweaseluniversal.com
   - DOMAIN,soakysecrets.com
   - DOMAIN,soamelxvleduv.space
@@ -127706,6 +128238,7 @@ payload:
   - DOMAIN,so.desertschools.org
   - DOMAIN,sodhef.com
   - DOMAIN,sodj88.com
+  - DOMAIN,sodlessteargas.com
   - DOMAIN,sodoit.com
   - DOMAIN,soduniversal.com
   - DOMAIN,s-odx.oleads.com
@@ -127741,6 +128274,7 @@ payload:
   - DOMAIN,softonic-analytics.net
   - DOMAIN,softpopads.com
   - DOMAIN,softscales.com
+  - DOMAIN,softsign.pro
   - DOMAIN,softsunpath.com
   - DOMAIN,softwarefpt.com
   - DOMAIN,softwaresdaily.com
@@ -128546,6 +129080,7 @@ payload:
   - DOMAIN,spa.saturniadayspa.com
   - DOMAIN,spasmedschofleuret.cyou
   - DOMAIN,spatacquaint.com
+  - DOMAIN,spatheddecatyl.cyou
   - DOMAIN,spatioludwig.com
   - DOMAIN,spa-tracker.spapi.io
   - DOMAIN,spatula91.com
@@ -129217,6 +129752,7 @@ payload:
   - DOMAIN,sqsftt.loi.nl
   - DOMAIN,sqtagpqwzyfhj.site
   - DOMAIN,sqtivj.vidaxl.hr
+  - DOMAIN,sqtiygnudnwyp.site
   - DOMAIN,sqtlbziegerqu.website
   - DOMAIN,sqtueaeeidkhw.site
   - DOMAIN,squadtee.net
@@ -138852,6 +139388,7 @@ payload:
   - DOMAIN,staininhibitfaraway.com
   - DOMAIN,staipe.locagorafranquia.com
   - DOMAIN,staircase59.com
+  - DOMAIN,stairhamitalalterne.cfd
   - DOMAIN,stairwellansweredsalute.com
   - DOMAIN,stakedances.com
   - DOMAIN,stakeschips.com
@@ -144517,6 +145054,7 @@ payload:
   - DOMAIN,stoajotdjrzyr.site
   - DOMAIN,stoampaliy.net
   - DOMAIN,stoastenore.qpon
+  - DOMAIN,stoatstecla.qpon
   - DOMAIN,stockbook-ads.firebaseapp.com
   - DOMAIN,stockbook-ads.firebaseio.com
   - DOMAIN,stockerator.com
@@ -145248,6 +145786,7 @@ payload:
   - DOMAIN,sub.allorabd.com
   - DOMAIN,sub.alpha.shop
   - DOMAIN,sub.andhabit.com
+  - DOMAIN,subanunrevive.com
   - DOMAIN,subareamerels.cyou
   - DOMAIN,sub.asthaexpressbd.com
   - DOMAIN,subaxe.xyz
@@ -145291,6 +145830,7 @@ payload:
   - DOMAIN,subfsqno.emano.flowox.com
   - DOMAIN,sub.fundedsportstrader.com
   - DOMAIN,sub.gccandlefactory.com.au
+  - DOMAIN,subgmucker.qpon
   - DOMAIN,subgringirjajunkies.cfd
   - DOMAIN,subgumgutwise.com
   - DOMAIN,subido.fontedodireito.com
@@ -145322,6 +145862,7 @@ payload:
   - DOMAIN,sub.musclepain.dk
   - DOMAIN,sub.mybuckethat.nl
   - DOMAIN,sub.neddycare.com
+  - DOMAIN,subnessbeefin.cfd
   - DOMAIN,sub.nicestayrentals.com
   - DOMAIN,sub.nordofficial.dk
   - DOMAIN,sub.oferte-top.ro
@@ -145536,6 +146077,7 @@ payload:
   - DOMAIN,sujgsrsppqoij.site
   - DOMAIN,sujisandkey.qpon
   - DOMAIN,sujon.safetylearning.com.au
+  - DOMAIN,sukeypongee.cfd
   - DOMAIN,sukiem-muahe-pubgmobilevn.com
   - DOMAIN,sukien-2021lmht.ga
   - DOMAIN,sukienbts2022.com
@@ -145935,6 +146477,7 @@ payload:
   - DOMAIN,sv-api-event.headlines.pw
   - DOMAIN,sv-api-lottery.headlines.pw
   - DOMAIN,s.varbergshus.se
+  - DOMAIN,svarogonil.link
   - DOMAIN,svbakoarswdvw.site
   - DOMAIN,svbbz.drool-art.com
   - DOMAIN,svbwirezjttqe.site
@@ -146381,6 +146924,7 @@ payload:
   - DOMAIN,swiftlymonumentcheating.com
   - DOMAIN,swiftlypairs.com
   - DOMAIN,swift.radio12.org
+  - DOMAIN,swiftsdumkybleeze.cyou
   - DOMAIN,swift.vanuitjehuis.nl
   - DOMAIN,swifty.swiftfn.com
   - DOMAIN,swiggerbrowden.qpon
@@ -146458,6 +147002,7 @@ payload:
   - DOMAIN,switchofers.com
   - DOMAIN,switchtwentiesduty.com
   - DOMAIN,switheupsmite.cfd
+  - DOMAIN,swivetstithy.cyou
   - DOMAIN,swizzlehellersphearse.cyou
   - DOMAIN,swizzmetage.cfd
   - DOMAIN,swkism.moon-trade.ru
@@ -146467,6 +147012,7 @@ payload:
   - DOMAIN,s.wlink2.com
   - DOMAIN,swlvbfovkhela.space
   - DOMAIN,swmdqn.sizeofficial.fr
+  - DOMAIN,swmfuiyhnmnmy.site
   - DOMAIN,swmkru.zlutahala.cz
   - DOMAIN,swmlidloaetad.site
   - DOMAIN,swm.nozemoil.nl
@@ -146502,6 +147048,7 @@ payload:
   - DOMAIN,swowsignori.cfd
   - DOMAIN,swqerog.com
   - DOMAIN,swqleb.adidas.ru
+  - DOMAIN,swqsqbkcy.com
   - DOMAIN,s.wrebit.se
   - DOMAIN,swrksnogbbojn.online
   - DOMAIN,swsdd.simplywall.st
@@ -146836,6 +147383,7 @@ payload:
   - DOMAIN,szdki.shefit.com
   - DOMAIN,szdzbcjj.dvsalg.dk
   - DOMAIN,szervermeres.talazobudapest.hu
+  - DOMAIN,szessqxaqyahw.site
   - DOMAIN,szexma.com
   - DOMAIN,szfdojqawwoua.space
   - DOMAIN,szfwkanxvdeff.site
@@ -146882,17 +147430,20 @@ payload:
   - DOMAIN,szpyqrgh.xyz
   - DOMAIN,szpzwvdcpedjl.site
   - DOMAIN,szqbzj.croisieresdiscount.com
+  - DOMAIN,szqgxxbcxeyvb.space
   - DOMAIN,szqwzosxn3.com
   - DOMAIN,szqxvo.com
   - DOMAIN,szriknglmmlrv.site
   - DOMAIN,szrpr.raen.com
   - DOMAIN,szrvop.infoloty.pl
+  - DOMAIN,szsiedxxsmjhm.site
   - DOMAIN,szsmtk.com
   - DOMAIN,szsvc.adinaeden.com
   - DOMAIN,sztpmc.branshes.com
   - DOMAIN,szubtepzaka.com
   - DOMAIN,szujqg.mlaworld.com
   - DOMAIN,szuyezltkzrku.space
+  - DOMAIN,szvukrkrtmody.com
   - DOMAIN,szwrfefyffnaf.space
   - DOMAIN,szwzkummtjbag.online
   - DOMAIN,s.zyros.com
@@ -146959,6 +147510,7 @@ payload:
   - DOMAIN,t84lkychhcmi4696wij.cfd
   - DOMAIN,t85itha3nitde.com
   - DOMAIN,t.881903.com
+  - DOMAIN,t8fcpe4ir9v8xixbtjh.rest
   - DOMAIN,t8.mailperformance.com
   - DOMAIN,t.91syun.com
   - DOMAIN,t93179898pq8u2ynyvwluc.cfd
@@ -146981,6 +147533,7 @@ payload:
   - DOMAIN,taberedscaups.qpon
   - DOMAIN,tabificlarick.cfd
   - DOMAIN,tabiraathecae.com
+  - DOMAIN,tabjnarbsbhlk.space
   - DOMAIN,tableland06.top
   - DOMAIN,tabligheirani.ir
   - DOMAIN,tabloidincapable.com
@@ -147783,6 +148336,7 @@ payload:
   - DOMAIN,taixiumomo.me
   - DOMAIN,taixiumomo.net
   - DOMAIN,tajdmtszoslff.site
+  - DOMAIN,tajfgxiduzgby.site
   - DOMAIN,t.ajrkm.link
   - DOMAIN,tajsq.fairmont-sonoma.com
   - DOMAIN,takeads.com
@@ -147996,12 +148550,14 @@ payload:
   - DOMAIN,tapulsads.ru
   - DOMAIN,t.apurvashah.live
   - DOMAIN,taqrr.fromourplace.co.uk
+  - DOMAIN,taramashka.link
   - DOMAIN,tarantula.searchbox.tech
   - DOMAIN,tarantula.tuxedo.media
   - DOMAIN,taraponmately.qpon
   - DOMAIN,tarbfjimpnnbvi.com
   - DOMAIN,t.arcade.show
   - DOMAIN,tardangro.com
+  - DOMAIN,tardanttawneys.cfd
   - DOMAIN,tardierrouges.com
   - DOMAIN,t.arenaswimming.ch
   - DOMAIN,targaubs.com
@@ -148380,6 +148936,7 @@ payload:
   - DOMAIN,tatrck.com
   - DOMAIN,ta.trs.cn
   - DOMAIN,tatsumi-sys.jp
+  - DOMAIN,tattastouts.com
   - DOMAIN,tattered-sale.com
   - DOMAIN,tatterslisses.cyou
   - DOMAIN,tattiedamidols.cyou
@@ -148512,6 +149069,7 @@ payload:
   - DOMAIN,taujxhyhmgwbd.website
   - DOMAIN,taulanogging.com
   - DOMAIN,taunphoik.com
+  - DOMAIN,taupoumuscovi.qpon
   - DOMAIN,t.ausloans.com.au
   - DOMAIN,tautingtortes.com
   - DOMAIN,tautitpilfers.cfd
@@ -148542,6 +149100,7 @@ payload:
   - DOMAIN,taxiwayfruited.com
   - DOMAIN,taxkob.equestrianstockholm.com
   - DOMAIN,taylor.gladspring.com
+  - DOMAIN,tazaromikaz.link
   - DOMAIN,tazlo.cloud
   - DOMAIN,taznfx.renters.pl
   - DOMAIN,taznt.diffwholesale.com
@@ -148647,6 +149206,7 @@ payload:
   - DOMAIN,tbvmlx.funkydunky.ru
   - DOMAIN,tbvzp.foodandwood.nl
   - DOMAIN,tbwqvufmxnyst.space
+  - DOMAIN,tbwxqmbn.com
   - DOMAIN,tbwzcos.retreatmentbotanics.com
   - DOMAIN,t.byutickets.com
   - DOMAIN,tbyvvwvv.tantec-benelux.nl
@@ -148936,6 +149496,7 @@ payload:
   - DOMAIN,t.doorsonlineuk.co.uk
   - DOMAIN,td.oprahdaily.com
   - DOMAIN,tdor-smetrics.td.com
+  - DOMAIN,tdosmagsmlpxp.com
   - DOMAIN,tdoxvlhvoyfld.site
   - DOMAIN,tdp1.vivabox.es
   - DOMAIN,tdpfe.lalignenyc.com
@@ -148966,6 +149527,7 @@ payload:
   - DOMAIN,tds.vss-security.nl
   - DOMAIN,tdtc.shop
   - DOMAIN,tdt.dansktandforsikring.dk
+  - DOMAIN,tdtexdceiujwi.site
   - DOMAIN,tdtfga.healingpinesrecovery.com
   - DOMAIN,td.thepioneerwoman.com
   - DOMAIN,td.townandcountrymag.com
@@ -149377,6 +149939,7 @@ payload:
   - DOMAIN,tephrasneurol.cyou
   - DOMAIN,tepid-gather.pro
   - DOMAIN,tepinursh.com
+  - DOMAIN,teplodara.link
   - DOMAIN,tepshared.tep.test.ajo.adobe.com
   - DOMAIN,tepwxt.bonescoffee.com
   - DOMAIN,teqeft.allegromedical.com
@@ -149846,6 +150409,7 @@ payload:
   - DOMAIN,thbeq.honestpaws.com
   - DOMAIN,thbfepqqqebde.online
   - DOMAIN,thbfylh8zkfuf.nu7c57gn2hhlkooucvx5wr8l15z.cyou
+  - DOMAIN,thcgdpqoxar.com
   - DOMAIN,the4.fun
   - DOMAIN,theactivetag.com
   - DOMAIN,theadex.com
@@ -149860,6 +150424,7 @@ payload:
   - DOMAIN,thebestoffersintheweb.com
   - DOMAIN,thebestpaints.com
   - DOMAIN,thebetterdealz.com
+  - DOMAIN,thebicyclehut.com
   - DOMAIN,thebigvan.com
   - DOMAIN,thebrainybulb.com
   - DOMAIN,thecalokas.com
@@ -150035,6 +150600,7 @@ payload:
   - DOMAIN,thickmaggot.com
   - DOMAIN,thickscuttles.cfd
   - DOMAIN,thickteaching.com
+  - DOMAIN,thickyedicts.com
   - DOMAIN,thieflamppost.com
   - DOMAIN,thiendia2.com
   - DOMAIN,thietbidiennang.online
@@ -150353,6 +150919,7 @@ payload:
   - DOMAIN,tiimkq.furgonetka.pl
   - DOMAIN,tijaifxd.saxlift.com
   - DOMAIN,tikemainpin.cyou
+  - DOMAIN,tikhomira.link
   - DOMAIN,tiki111.com
   - DOMAIN,tiki11.com
   - DOMAIN,tiki11.top
@@ -150474,6 +151041,7 @@ payload:
   - DOMAIN,tilttrk.com
   - DOMAIN,tiltwin.com
   - DOMAIN,timbressclere.qpon
+  - DOMAIN,timbresthump.qpon
   - DOMAIN,time1.me
   - DOMAIN,time-and-attendance.insperity.com
   - DOMAIN,timecrossed.com
@@ -151229,6 +151797,7 @@ payload:
   - DOMAIN,t.lw1kkn78knnq9j.cyou
   - DOMAIN,tlwetv.bizento.com
   - DOMAIN,tlwkfwnww.com
+  - DOMAIN,tlxaiqzvdpexo.site
   - DOMAIN,tlxble.tofivet.pl
   - DOMAIN,tlxjuj.com
   - DOMAIN,tlzbingfedfln.online
@@ -151265,6 +151834,7 @@ payload:
   - DOMAIN,tmbewm.partykungen.se
   - DOMAIN,tm.billig-bigbags.dk
   - DOMAIN,tmbiounhsqufo.online
+  - DOMAIN,tmblkvxxkvilj.online
   - DOMAIN,tm.bloischambord.com
   - DOMAIN,tm.broyeursani.fr
   - DOMAIN,tmbsxx.oxybul.com
@@ -151503,6 +152073,7 @@ payload:
   - DOMAIN,t.neilson.co.uk
   - DOMAIN,t.net.jumia.ci
   - DOMAIN,t.nettrck.store
+  - DOMAIN,tnetyyaujjidk.space
   - DOMAIN,t.nevadawolfpack.com
   - DOMAIN,tneve.newsilver.com
   - DOMAIN,t.neverhome.com
@@ -151657,6 +152228,7 @@ payload:
   - DOMAIN,t.ohdearbaby.no
   - DOMAIN,t.ohiobobcats.com
   - DOMAIN,tohoef.com
+  - DOMAIN,tohrkhcdqdxlma.com
   - DOMAIN,tohvww.mathon.fr
   - DOMAIN,toibjavyncxnc.site
   - DOMAIN,toiletpaper.life
@@ -151678,6 +152250,7 @@ payload:
   - DOMAIN,tokyowatch.cc
   - DOMAIN,tokyueiklbphqgupc.org
   - DOMAIN,tolasdauk.cfd
+  - DOMAIN,tolastoddlerauriga.qpon
   - DOMAIN,toldaspirationpointy.com
   - DOMAIN,toldyouso.lol
   - DOMAIN,t.olemisssports.com
@@ -151962,6 +152535,7 @@ payload:
   - DOMAIN,tortoisepage.com
   - DOMAIN,tortorumbundu.cyou
   - DOMAIN,toru0vane.com
+  - DOMAIN,toruftuiov.com
   - DOMAIN,torulapelites.shop
   - DOMAIN,torvind.com
   - DOMAIN,torvousrottle.qpon
@@ -153469,6 +154043,7 @@ payload:
   - DOMAIN,tracking.dokabathworks.com.br
   - DOMAIN,tracking.domapostas.bet
   - DOMAIN,tracking.doyoulovesalt.com
+  - DOMAIN,tracking.dpmlol.com
   - DOMAIN,tracking.dpstampede.com
   - DOMAIN,tracking.drs.de
   - DOMAIN,tracking.drsfostersmith.com
@@ -155392,6 +155967,7 @@ payload:
   - DOMAIN,traothuongxe7.com
   - DOMAIN,tr.apac.coms.moethennessy.com
   - DOMAIN,tr.apac.legal.moethennessy.com
+  - DOMAIN,trapcyclar.qpon
   - DOMAIN,trapdoortissuepush.com
   - DOMAIN,trapescook.com
   - DOMAIN,trapezium69.top
@@ -156174,6 +156750,7 @@ payload:
   - DOMAIN,trifolygeleem.cfd
   - DOMAIN,trigaetarin.shop
   - DOMAIN,trigami.com
+  - DOMAIN,triggerrudas.cfd
   - DOMAIN,triggersdelusion.com
   - DOMAIN,triggers.wfxtriggers.com
   - DOMAIN,triggertag.gorillanation.com
@@ -156812,6 +157389,7 @@ payload:
   - DOMAIN,trk.nuvaneo.com
   - DOMAIN,trk.nvenergy.com
   - DOMAIN,trk.oberdorferpumps.com
+  - DOMAIN,trkoecacrjxhw.site
   - DOMAIN,trkoffline.thedentoza.com
   - DOMAIN,trk.olnl.net
   - DOMAIN,trk.oma.dk
@@ -157480,6 +158058,7 @@ payload:
   - DOMAIN,tr.route-solutiondata.fr
   - DOMAIN,tr.roxx-online.shop
   - DOMAIN,trrxwwvbwtqah.site
+  - DOMAIN,trrzgrcrhgmgw.site
   - DOMAIN,tr.safrancom-esp.net
   - DOMAIN,tr.samoresim.ru
   - DOMAIN,tr.satisfaction.groupe-pv-cp.com
@@ -157516,6 +158095,7 @@ payload:
   - DOMAIN,tr.silvera-contact.fr
   - DOMAIN,tr.simmple-us.com
   - DOMAIN,tr.singhfit.com
+  - DOMAIN,trslgffwxnkjq.site
   - DOMAIN,tr.slvrbullet.com
   - DOMAIN,tr.smtp1.email-mediapost.fr
   - DOMAIN,tr.snapchat.com
@@ -157759,6 +158339,7 @@ payload:
   - DOMAIN,t.sabora.ro
   - DOMAIN,t-s.actemra.com
   - DOMAIN,t-s.activase.com
+  - DOMAIN,tsadcebakufrd.site
   - DOMAIN,t.safehaventraining.co.uk
   - DOMAIN,t.safs-beta.de
   - DOMAIN,ts.aktienbulls.com
@@ -158153,6 +158734,7 @@ payload:
   - DOMAIN,ttmomo.win
   - DOMAIN,ttm.timetravel-eu.com
   - DOMAIN,ttmuvo.croisieres.fr
+  - DOMAIN,ttmylaimpkkr.com
   - DOMAIN,t.tnafpt.com
   - DOMAIN,tt.natwest.com
   - DOMAIN,ttnendqczfpcn.site
@@ -158372,6 +158954,7 @@ payload:
   - DOMAIN,tukrd.com
   - DOMAIN,tuktszcckzgei.site
   - DOMAIN,tulajdonostol.com
+  - DOMAIN,tulepoltinathaws.cyou
   - DOMAIN,tulip18.com
   - DOMAIN,tullesvoguishaymoro.cyou
   - DOMAIN,tulsmcvbuzvsk.website
@@ -158413,6 +158996,7 @@ payload:
   - DOMAIN,tuneupcoffee.com
   - DOMAIN,tune-up.site
   - DOMAIN,tunfen.hotping.co.kr
+  - DOMAIN,tungaunride.cfd
   - DOMAIN,tunion-api.m.taobao.com
   - DOMAIN,tunisborax.cfd
   - DOMAIN,tunkajumping.cyou
@@ -158486,6 +159070,7 @@ payload:
   - DOMAIN,turcoisjoyhop.com
   - DOMAIN,turfamusing.com
   - DOMAIN,turfitecansful.com
+  - DOMAIN,turingguzzleweeder.cyou
   - DOMAIN,turkeernohow.com
   - DOMAIN,turkeychoice.com
   - DOMAIN,turkey.tella.tv
@@ -158620,6 +159205,7 @@ payload:
   - DOMAIN,tvmwbebz.com
   - DOMAIN,tvmx-defender.pro
   - DOMAIN,tvnfoipaskoru.website
+  - DOMAIN,tvnjbpgmvifca.space
   - DOMAIN,tvnmdstrromcq.website
   - DOMAIN,tvnqr.budgecovers.com
   - DOMAIN,tvnwpb.ni.dk
@@ -158816,6 +159402,7 @@ payload:
   - DOMAIN,twwqfdakhrsyi.site
   - DOMAIN,twydiwbkccvvl.online
   - DOMAIN,twyfta.ogrodosfera.pl
+  - DOMAIN,twyxnxgl.com
   - DOMAIN,twznryfmalwge.site
   - DOMAIN,twzui6.com
   - DOMAIN,tx2.ru
@@ -158861,6 +159448,7 @@ payload:
   - DOMAIN,txpbvh.icu
   - DOMAIN,tx-pro-pull.kwai.net.iberostar.com
   - DOMAIN,txqvieufbv19hilhi.rest
+  - DOMAIN,txrdeyvidfgzz.site
   - DOMAIN,tx.rpemery.com.au
   - DOMAIN,txru.cn
   - DOMAIN,txsdwcllspdey.website
@@ -159117,6 +159705,7 @@ payload:
   - DOMAIN,uac.mk.co.kr
   - DOMAIN,uacvdinzsjqbv.site
   - DOMAIN,uacway.easyground.de
+  - DOMAIN,uacywamvvinqf.space
   - DOMAIN,uadexchange.com
   - DOMAIN,u-ad.info
   - DOMAIN,uads.cc
@@ -159514,6 +160103,7 @@ payload:
   - DOMAIN,ug54oqjpqq.com
   - DOMAIN,ug6zg26aq8.com
   - DOMAIN,ugadceetawiae.site
+  - DOMAIN,ugaliaureoushobbet.cfd
   - DOMAIN,ugaombhsfshhw.site
   - DOMAIN,ugapt.shoesforall.com
   - DOMAIN,ugckdqswxxhav.com
@@ -159822,6 +160412,7 @@ payload:
   - DOMAIN,ukzjce.idus.com
   - DOMAIN,ul781kbcu2iyce.cfd
   - DOMAIN,ulaen.com
+  - DOMAIN,ulamafluxive.com
   - DOMAIN,ulaodqkxrgard.website
   - DOMAIN,ulaywt.equmal.com
   - DOMAIN,ulbruiqadlmaa.online
@@ -160181,6 +160772,7 @@ payload:
   - DOMAIN,unfortunatechampionship.com
   - DOMAIN,unfortunatehospitality.com
   - DOMAIN,unfortunatelyemotion.com
+  - DOMAIN,unfoxedanend.com
   - DOMAIN,unfrailoutsea.cyou
   - DOMAIN,unframesiberia.com
   - DOMAIN,unfreetracy.cfd
@@ -160191,6 +160783,7 @@ payload:
   - DOMAIN,ungatedthecoid.cfd
   - DOMAIN,ungiftwanganscoying.cyou
   - DOMAIN,ungirdplumply.qpon
+  - DOMAIN,ungirtgnatter.qpon
   - DOMAIN,unguesdonsie.qpon
   - DOMAIN,ungyptrvngfqp.site
   - DOMAIN,unhandskatinka.cyou
@@ -160282,6 +160875,7 @@ payload:
   - DOMAIN,unleashtuneafter.com
   - DOMAIN,unleavemudroom.cfd
   - DOMAIN,unlentsottish.com
+  - DOMAIN,unlesscool.com
   - DOMAIN,unlessprovidence.com
   - DOMAIN,unlesssecret.com
   - DOMAIN,unlevelathel.qpon
@@ -160309,6 +160903,7 @@ payload:
   - DOMAIN,unmiterbestand.qpon
   - DOMAIN,unmitreoutlast.cfd
   - DOMAIN,unmnehicnyoiz.site
+  - DOMAIN,unmountunfree.cfd
   - DOMAIN,unnajd.com
   - DOMAIN,unnatural-buddy.pro
   - DOMAIN,unnaturalcask.com
@@ -160455,6 +161050,7 @@ payload:
   - DOMAIN,unuseia.shop
   - DOMAIN,unusuallypilgrim.com
   - DOMAIN,unusualtitle.com
+  - DOMAIN,unuyjbisppuep.online
   - DOMAIN,unvalueawave.qpon
   - DOMAIN,unvitalskeweddog.cfd
   - DOMAIN,unwallhylism.cyou
@@ -160524,6 +161120,7 @@ payload:
   - DOMAIN,uormn.cellitas.com
   - DOMAIN,uosvpkrplvxlr.online
   - DOMAIN,uoukc.7kbwiy7yggpiw56vpiz.cyou
+  - DOMAIN,uoupnsykwtbzn.space
   - DOMAIN,uoutube.com
   - DOMAIN,uovveljjaoxfe.store
   - DOMAIN,uovvobtfxeekw.site
@@ -160654,6 +161251,7 @@ payload:
   - DOMAIN,upsetsoozoid.cfd
   - DOMAIN,upsexonym.qpon
   - DOMAIN,upsidebeauty.com
+  - DOMAIN,upsideegged.qpon
   - DOMAIN,upsidehair.com
   - DOMAIN,upsight.com
   - DOMAIN,upskittyan.com
@@ -160932,6 +161530,7 @@ payload:
   - DOMAIN,userstat.net
   - DOMAIN,user-stats.rbl.ms
   - DOMAIN,userstats.shopee.vn
+  - DOMAIN,users.vidy.st
   - DOMAIN,usertag.online
   - DOMAIN,user.userguiding.com
   - DOMAIN,user.velpa.pl
@@ -160985,6 +161584,7 @@ payload:
   - DOMAIN,uspwjktbuhvsd.site
   - DOMAIN,usqok.cn
   - DOMAIN,usqzhrkdqdggr.online
+  - DOMAIN,usrcetdayache.space
   - DOMAIN,us.ricoh-usa.com
   - DOMAIN,usr.interactiveone.com
   - DOMAIN,usrpubtrk.com
@@ -161692,6 +162292,7 @@ payload:
   - DOMAIN,uurykr.pizzahut.com.mx
   - DOMAIN,uurzdr.global-style.jp
   - DOMAIN,uussa.freckledpoppy.com
+  - DOMAIN,uuswphqtty.com
   - DOMAIN,uutdjp.brooks.co.jp
   - DOMAIN,uuucbm.kontramarka.de
   - DOMAIN,uuuwxykgcvcgp.website
@@ -161729,6 +162330,7 @@ payload:
   - DOMAIN,uvj2.com
   - DOMAIN,uvjjqd.franssen-loisirs.fr
   - DOMAIN,uvjthr.impericon.com
+  - DOMAIN,uvko55r7zi652rb.rest
   - DOMAIN,uvkocm.frey-a.jp
   - DOMAIN,uvkqyxjdiswkt.site
   - DOMAIN,uvmnu.fitmycar.com.au
@@ -161795,6 +162397,7 @@ payload:
   - DOMAIN,uxdse.sugarshape.de
   - DOMAIN,uxeosvrofbl.com
   - DOMAIN,uxerwhlrkkhsb.site
+  - DOMAIN,uxeuktpbypkxz.space
   - DOMAIN,uxevhnhwanwgg.site
   - DOMAIN,uxfe.cn
   - DOMAIN,uxfvatxoqvrpf.space
@@ -161914,6 +162517,7 @@ payload:
   - DOMAIN,uzl8.bkimfvv8gr9ix9uk5oy45t.cyou
   - DOMAIN,uzmdfi.com
   - DOMAIN,uzniv.glistencosmetics.com
+  - DOMAIN,uznjfsbpxetzo.site
   - DOMAIN,uzn.sofiadiaz.site
   - DOMAIN,uzocxzrbkcrpk.online
   - DOMAIN,uzomkrhmlseld.online
@@ -162134,6 +162738,7 @@ payload:
   - DOMAIN,vanthangcltxmomo.xyz
   - DOMAIN,vaokbuyvpiyzw.website
   - DOMAIN,vapedia.com
+  - DOMAIN,vapesbro.com
   - DOMAIN,vaplsncgeszec.site
   - DOMAIN,vaporysuavest.cfd
   - DOMAIN,vapourdifferenceszealot.com
@@ -162189,6 +162794,7 @@ payload:
   - DOMAIN,vats.vsl.co.at
   - DOMAIN,vaudeville44.top
   - DOMAIN,vaudioscamaca.qpon
+  - DOMAIN,vaudona.com
   - DOMAIN,vaugroar.com
   - DOMAIN,vauhz.romperjack.com
   - DOMAIN,vault.derby.de
@@ -162430,6 +163036,7 @@ payload:
   - DOMAIN,vbmjlejlmvorz.top
   - DOMAIN,vbmxorkseftlr.online
   - DOMAIN,vbnritbsiqqar.online
+  - DOMAIN,vbookziyzfrfn.space
   - DOMAIN,vboro.de
   - DOMAIN,vbozbkzblzway.top
   - DOMAIN,vbozbkzblzwlj.top
@@ -162659,8 +163266,10 @@ payload:
   - DOMAIN,veireagins.qpon
   - DOMAIN,veirkaey.com
   - DOMAIN,veitgov.cc
+  - DOMAIN,vejbxurqccaka.site
   - DOMAIN,vekekc.nissanblainville.com
   - DOMAIN,vekmygssmfyov.online
+  - DOMAIN,vekwxixfyljxb.online
   - DOMAIN,velarium.cc
   - DOMAIN,velaro.com
   - DOMAIN,velas.catarinavelas.com.br
@@ -162816,6 +163425,7 @@ payload:
   - DOMAIN,verybouncy.com
   - DOMAIN,verygoodminigames.com
   - DOMAIN,verypopularwebsite.com
+  - DOMAIN,veselchaga.link
   - DOMAIN,veskitnerved.com
   - DOMAIN,vespymedia.com
   - DOMAIN,vesseldoubts.com
@@ -162877,6 +163487,7 @@ payload:
   - DOMAIN,vfie3ximi3elx4uw.cfd
   - DOMAIN,vfjktzbecbede.space
   - DOMAIN,vfjoawcligjcs.online
+  - DOMAIN,vfkwbnwrglemo.online
   - DOMAIN,vflbochum1848-sst.merchandising-onlineshop.com
   - DOMAIN,vfljt.coffeeandmotivation.com
   - DOMAIN,vfnab.vegamour.com
@@ -162976,6 +163587,7 @@ payload:
   - DOMAIN,vhbbeareiglah.website
   - DOMAIN,vhbbubfytrjht.space
   - DOMAIN,vhcmc2.xyz
+  - DOMAIN,vhdbqelbulsyv.site
   - DOMAIN,vhdgz.homage.com
   - DOMAIN,vhdoxakztfwdp.website
   - DOMAIN,vhdvjc.com
@@ -163585,6 +164197,7 @@ payload:
   - DOMAIN,viper.kyrelldixon.com
   - DOMAIN,viperotika.net
   - DOMAIN,viper.sitesauce.app
+  - DOMAIN,vipersslaver.cyou
   - DOMAIN,vipersuccessfullygoblet.com
   - DOMAIN,vipgooshop.com
   - DOMAIN,vip.gophersport.com
@@ -163794,6 +164407,8 @@ payload:
   - DOMAIN,vizisense.net
   - DOMAIN,viznfzhbiiual.space
   - DOMAIN,vizoalygrenn.com
+  - DOMAIN,vizorscokiehaste.cfd
+  - DOMAIN,vizslaruthsmikael.cyou
   - DOMAIN,vizu.com
   - DOMAIN,vizury.com
   - DOMAIN,vizzit.se
@@ -163820,6 +164435,7 @@ payload:
   - DOMAIN,vjkzs.feralfungi.com
   - DOMAIN,vjlckfkbcuswo.site
   - DOMAIN,vjlyljbbwmkyj.top
+  - DOMAIN,vjmgbqsfccp.com
   - DOMAIN,vjmqdx.nozhikov.ru
   - DOMAIN,vjmrjomyweqew.top
   - DOMAIN,vjmwnvteuhwhe.website
@@ -163833,6 +164449,7 @@ payload:
   - DOMAIN,vjrjvojuxlkhc.website
   - DOMAIN,vjtpmzsmcwfko.online
   - DOMAIN,vjtpr.dimeoptics.com
+  - DOMAIN,vjtytsxawhbig.website
   - DOMAIN,vjuenyeckagkz.site
   - DOMAIN,vjusp.rags.com
   - DOMAIN,vjvj.vj24co.com
@@ -163864,6 +164481,7 @@ payload:
   - DOMAIN,vkdqiijvnljek.online
   - DOMAIN,vkdrvsfxomtxw.space
   - DOMAIN,vkdvow.livingmotif.com
+  - DOMAIN,vkdytplocrhlhm.com
   - DOMAIN,vkebfg.mymoons.co
   - DOMAIN,vkehcvahibhix.space
   - DOMAIN,vkeqoidm.com
@@ -163954,6 +164572,7 @@ payload:
   - DOMAIN,vltjn.bucketsquad.com
   - DOMAIN,vltlk.com
   - DOMAIN,vltrqt.bffect.com
+  - DOMAIN,vluhbobkplsbr.site
   - DOMAIN,vlvlkbqlllqeh.site
   - DOMAIN,vlvsmfjibrzie.space
   - DOMAIN,vlwqyhgnslfad.space
@@ -164461,6 +165080,7 @@ payload:
   - DOMAIN,voraciousgrip.com
   - DOMAIN,vordwtoyptrxf.website
   - DOMAIN,voredi.com
+  - DOMAIN,vorogushka.link
   - DOMAIN,voronezh136.ru
   - DOMAIN,voroud.wine.com.br
   - DOMAIN,vortex.data.microsoft.com
@@ -164479,6 +165099,7 @@ payload:
   - DOMAIN,votescleeked.qpon
   - DOMAIN,votetoda.com
   - DOMAIN,votistics.com
+  - DOMAIN,votistusuary.cyou
   - DOMAIN,votladora.com
   - DOMAIN,v.oui.sncf
   - DOMAIN,voujxarvlijpo.space
@@ -164487,8 +165108,10 @@ payload:
   - DOMAIN,vovlacjs.cyou
   - DOMAIN,vovvrpueuffrjw.com
   - DOMAIN,vowdcepstaebi.site
+  - DOMAIN,vowedforlain.com
   - DOMAIN,vowelfemininecherish.com
   - DOMAIN,vowellm4.com
+  - DOMAIN,vowmhsdvfnohr.com
   - DOMAIN,vowsavageskim.com
   - DOMAIN,vowthreehilarious.com
   - DOMAIN,vox2z5.tqe287joo45fmjm3z1emm6mpwm.cyou
@@ -164504,6 +165127,7 @@ payload:
   - DOMAIN,voyageedgyglass.com
   - DOMAIN,voyage.explora.com
   - DOMAIN,voyagemonitoring.com
+  - DOMAIN,voyanceleges.cfd
   - DOMAIN,voyeurdisruly.com
   - DOMAIN,voyjmpyrweccq.website
   - DOMAIN,vozer.voffka.com
@@ -164614,6 +165238,7 @@ payload:
   - DOMAIN,vqmxv.allfreshseafood.com
   - DOMAIN,vqndh.frankincensemyrrh.com
   - DOMAIN,vqooisjexmusf.space
+  - DOMAIN,vqoqlebzyzbkz.top
   - DOMAIN,vqoqlebzyzbyq.top
   - DOMAIN,vqotgo.knittingroom.no
   - DOMAIN,vqpque.eloan.co.jp
@@ -164674,6 +165299,7 @@ payload:
   - DOMAIN,vrsastidzuham.online
   - DOMAIN,vrske.frenchbroadchocolates.com
   - DOMAIN,vrskf.clockcanvas.com
+  - DOMAIN,vrsmqepitnwfa.online
   - DOMAIN,vrsri.widefitshoes.co.uk
   - DOMAIN,vrssptskkihvn.site
   - DOMAIN,vrstage.com
@@ -164692,6 +165318,7 @@ payload:
   - DOMAIN,vruqb.bbself.co
   - DOMAIN,vrvjwr.mobelaris.com
   - DOMAIN,vrwzecqcyjfmy.site
+  - DOMAIN,vrxvrikmhdhgyu.com
   - DOMAIN,vry9.destinia.com
   - DOMAIN,vrzasswvgpsvg.com
   - DOMAIN,vrzmfy.fool.com
@@ -165151,6 +165778,7 @@ payload:
   - DOMAIN,vyragdxymcqtw.online
   - DOMAIN,vyrqhmdy.unbrws.de
   - DOMAIN,vyrwmrwmlozsq.site
+  - DOMAIN,vyrwoaskamnff.website
   - DOMAIN,vyse.rajanaga777trend.site
   - DOMAIN,vysfvhtxrikig.site
   - DOMAIN,vyshuddphvxka.store
@@ -165295,6 +165923,7 @@ payload:
   - DOMAIN,w5bacb.com
   - DOMAIN,w5bi16f3co.com
   - DOMAIN,w5c6d9.cc
+  - DOMAIN,w5cm1tq39pgp2mx1e48ec.rest
   - DOMAIN,w5daa5.com
   - DOMAIN,w5eep9esa.com
   - DOMAIN,w6ecevvubhmntx.rest
@@ -165479,6 +166108,7 @@ payload:
   - DOMAIN,waitingnumber.com
   - DOMAIN,wait.re
   - DOMAIN,waixpa.supriagora.com.br
+  - DOMAIN,wakbpyyvwzspn.online
   - DOMAIN,wakermaugis.cyou
   - DOMAIN,wa.ker-sun.com
   - DOMAIN,wa.ker-sun.de
@@ -165497,6 +166127,7 @@ payload:
   - DOMAIN,walldatewishful.com
   - DOMAIN,wallerbaham.cyou
   - DOMAIN,walletblossomendanger.com
+  - DOMAIN,wallingpestis.cfd
   - DOMAIN,walloonricins.cfd
   - DOMAIN,wallpapersfacts.com
   - DOMAIN,wallsmagged.cyou
@@ -165756,6 +166387,7 @@ payload:
   - DOMAIN,waykingroup.com
   - DOMAIN,waylowrates.net
   - DOMAIN,waynephoebuspur.qpon
+  - DOMAIN,waysspigot.com
   - DOMAIN,waytogrow.com
   - DOMAIN,wayyaj8t094u.www.kodalia.com
   - DOMAIN,wazcltokdhjwk.online
@@ -166752,6 +167384,7 @@ payload:
   - DOMAIN,weemenmilpas.qpon
   - DOMAIN,weem.weemco.com
   - DOMAIN,weeoffer.com
+  - DOMAIN,weepfultunican.qpon
   - DOMAIN,weepingmosur.qpon
   - DOMAIN,weepy-fail.pro
   - DOMAIN,weepylack.com
@@ -167012,6 +167645,7 @@ payload:
   - DOMAIN,wghoubdaxpsik.site
   - DOMAIN,wghvvdmdqgdzz.space
   - DOMAIN,wgimhiakumdkf.site
+  - DOMAIN,wgkalppicmkzm.site
   - DOMAIN,wgkga5oh0.com
   - DOMAIN,wgkqglotkohpe.site
   - DOMAIN,wgkwfkdvltuqy.online
@@ -167235,6 +167869,7 @@ payload:
   - DOMAIN,whoppercreaky.com
   - DOMAIN,whopping-click.com
   - DOMAIN,whoppngzrzsyz.online
+  - DOMAIN,whorledebbets.cyou
   - DOMAIN,whorlefrisky.cfd
   - DOMAIN,whortsiddat.com
   - DOMAIN,whosclickingwho.com
@@ -167762,6 +168397,7 @@ payload:
   - DOMAIN,wlsmeu.soundpure.com
   - DOMAIN,wlsowfouhbjxf.space
   - DOMAIN,wltvpgcwsvndn.online
+  - DOMAIN,wltzlvbcgcuff.website
   - DOMAIN,wluenozwkxvfe.site
   - DOMAIN,wlupsmxczpcml.online
   - DOMAIN,wl.uqwjdhgv.top
@@ -167804,11 +168440,13 @@ payload:
   - DOMAIN,wmctjd.com
   - DOMAIN,wmcurwxrjc.com
   - DOMAIN,wmc.westwoodgroup.com
+  - DOMAIN,wmdhodtwgahbb.space
   - DOMAIN,wmdvampzbrzyg.online
   - DOMAIN,wmedps.com
   - DOMAIN,wmeng.feihuadns.com
   - DOMAIN,wmeoznybzmddz.space
   - DOMAIN,wmeqobovlbqvw.top
+  - DOMAIN,wmfkwmvquitpi.site
   - DOMAIN,wmgtr.com
   - DOMAIN,wmhnx.realdaily.com
   - DOMAIN,wmhq8tw8t5ju3y.rest
@@ -167842,6 +168480,7 @@ payload:
   - DOMAIN,wmrnhjhjamiev.website
   - DOMAIN,wmrok.com
   - DOMAIN,wmrok.net
+  - DOMAIN,wmruxqnfx.com
   - DOMAIN,wm.szdushi.com.cn
   - DOMAIN,wmtchliztxcvp.website
   - DOMAIN,wmtten.com
@@ -168093,6 +168732,7 @@ payload:
   - DOMAIN,wormilmantles.qpon
   - DOMAIN,wormishnimrod.com
   - DOMAIN,wormlaboratoryspeeding.com
+  - DOMAIN,wormmillard.cyou
   - DOMAIN,worqzcrxiwuob.online
   - DOMAIN,worried-advantage.com
   - DOMAIN,worried-difference.pro
@@ -168157,6 +168797,7 @@ payload:
   - DOMAIN,wpb.wgplayer.com
   - DOMAIN,wpcklpeseoivx.online
   - DOMAIN,wpdbdkhobbwhf.space
+  - DOMAIN,wpdebqdqisagw.site
   - DOMAIN,wpdieifpq.net
   - DOMAIN,wpdstat.com
   - DOMAIN,wpe-client02-vm4.net.mydays.de
@@ -168327,6 +168968,7 @@ payload:
   - DOMAIN,wrongpotato.com
   - DOMAIN,wrongwound.com
   - DOMAIN,wroomnahn.in
+  - DOMAIN,wrosslebaringunmoors.qpon
   - DOMAIN,wrothxerasia.qpon
   - DOMAIN,wrouitslhznhn.online
   - DOMAIN,wrpqqnurjtljv.space
@@ -168554,6 +169196,7 @@ payload:
   - DOMAIN,wurzfs.motherhood.com
   - DOMAIN,wuscedrktaxsh.online
   - DOMAIN,wusefjjxcqhwc.site
+  - DOMAIN,wusvbivefsvez.site
   - DOMAIN,wutienitme247.info
   - DOMAIN,wutqgiuriurbk.space
   - DOMAIN,wut.usadirtbike.com
@@ -168656,6 +169299,7 @@ payload:
   - DOMAIN,wwokkf.laredoute.ru
   - DOMAIN,wwolofckv.com
   - DOMAIN,wwoujxaxvklvk.online
+  - DOMAIN,wwpfswjptlpbn.com
   - DOMAIN,wwpoclwtiyuau.site
   - DOMAIN,wwpon365.ru
   - DOMAIN,wwpvpbktgoets.space
@@ -169704,6 +170348,7 @@ payload:
   - DOMAIN,xhluphuewwlbnc.com
   - DOMAIN,xhmeoqeoeurjk.store
   - DOMAIN,xhmewlkjkvump.online
+  - DOMAIN,xhmigokzqygkk.space
   - DOMAIN,xhmyevcqcasdf.site
   - DOMAIN,xhnln.radandhappy.com
   - DOMAIN,xhnouqnhyhohr.online
@@ -169817,6 +170462,7 @@ payload:
   - DOMAIN,xj9gth5i.xyz
   - DOMAIN,xjawvwhipohot.online
   - DOMAIN,xjcaxizqgdgbv.online
+  - DOMAIN,xjdfubwlgothk.site
   - DOMAIN,xjdkccwyttuqj.website
   - DOMAIN,xjgmmnhqbw.com
   - DOMAIN,xjh4uvv1ew.com
@@ -169844,9 +170490,12 @@ payload:
   - DOMAIN,xjrprd.yokayseiy.com
   - DOMAIN,xjrwxfdphc.com
   - DOMAIN,xjsefd.materik-m.ru
+  - DOMAIN,xjsrwaltfysgs.site
   - DOMAIN,xjssvmqlyreua.space
   - DOMAIN,xjuoopnalaycv.site
   - DOMAIN,xjurarsoqdinb.website
+  - DOMAIN,xjvudcmxkcsmj.com
+  - DOMAIN,xjvuluvmtluxt.online
   - DOMAIN,xjvwt2vr.xyz
   - DOMAIN,xjwgyq.fatquartershop.com
   - DOMAIN,xjwhad.com
@@ -169966,6 +170615,7 @@ payload:
   - DOMAIN,xlog.tiktokv.com
   - DOMAIN,xlog-va.musical.ly
   - DOMAIN,xlog-va.tiktokv.com
+  - DOMAIN,xlosvaiwfiouucj.com
   - DOMAIN,xlovecam.com
   - DOMAIN,xlpblc.binding101.com
   - DOMAIN,xlp.sparkasse.si
@@ -170947,6 +171597,7 @@ payload:
   - DOMAIN,xmqyjruq.com
   - DOMAIN,xmrmngqivbgpx.site
   - DOMAIN,xmrqo.2y2z3bpqp1trkh9k.cyou
+  - DOMAIN,xmseuqkyrhfyh.site
   - DOMAIN,xmskvgwt.salaam.com.au
   - DOMAIN,xms.lol
   - DOMAIN,xms.theoundemma.com
@@ -171127,6 +171778,7 @@ payload:
   - DOMAIN,xqhfb9hzrs.com
   - DOMAIN,xqiitw.brasty.ro
   - DOMAIN,xqirlbojexnvw.online
+  - DOMAIN,xqjggwjgpyx.com
   - DOMAIN,xqjlpo.kasanova.it
   - DOMAIN,xqkawrafpewuz.online
   - DOMAIN,xqkhkazk.kursus.unord.dk
@@ -171174,6 +171826,7 @@ payload:
   - DOMAIN,xrbxqqyscduwx.site
   - DOMAIN,xrdcyg.ellementry.com
   - DOMAIN,xrff-adguard.pro
+  - DOMAIN,xrghhenchuigi.com
   - DOMAIN,xrhrrk.steepandcheap.com
   - DOMAIN,xriilfnjxunjw.site
   - DOMAIN,xrkbhl2cp.com
@@ -171341,6 +171994,7 @@ payload:
   - DOMAIN,xtr.tos.sktelecom.com
   - DOMAIN,x.trvdp.com
   - DOMAIN,xttaff.com
+  - DOMAIN,xttwjjdocwcms.online
   - DOMAIN,xtube.chat
   - DOMAIN,xtuirgdoviqif.online
   - DOMAIN,xtvzanfdrfjrz.site
@@ -171456,6 +172110,7 @@ payload:
   - DOMAIN,xvteew.lacoste.jp
   - DOMAIN,xvuaguwvreldr.space
   - DOMAIN,xvuslink.com
+  - DOMAIN,xvuypdknkrndc.site
   - DOMAIN,xvvoitelqemgl.space
   - DOMAIN,xvvvhu.ullapopken.ch
   - DOMAIN,xvvvuchrlkezb.site
@@ -171473,6 +172128,7 @@ payload:
   - DOMAIN,xweaczbjyftvd.site
   - DOMAIN,x.weather.com
   - DOMAIN,xwfafjiihnpmy.space
+  - DOMAIN,xwfhxrmbzsblo.site
   - DOMAIN,xwgbnryynelfd.site
   - DOMAIN,xwgkbcbvjjvxr.website
   - DOMAIN,xwhymy.caco.com.tw
@@ -171527,6 +172183,7 @@ payload:
   - DOMAIN,xxjiqg.oysho.com
   - DOMAIN,xxjvha.timex.com
   - DOMAIN,xxkagukmsbtbp.site
+  - DOMAIN,xxkcygkzdchkf.space
   - DOMAIN,xxkjak.reddoorz.com
   - DOMAIN,xxlahqxgriyco.online
   - DOMAIN,xxljob-csr31.net.jumia.com.gh
@@ -171622,11 +172279,13 @@ payload:
   - DOMAIN,x.yaohuo.me
   - DOMAIN,xybrf8tcvf.com
   - DOMAIN,xycgec.theoutlet.ru
+  - DOMAIN,xycossiqmelxs.site
   - DOMAIN,xycqtidq.greenunicornfarms.com
   - DOMAIN,xycyblnwl.net
   - DOMAIN,xydvxl.keikei.co
   - DOMAIN,xyeaak.koreva-formation.com
   - DOMAIN,xyefaumnllhxc.online
+  - DOMAIN,xyerbsxlycvah.site
   - DOMAIN,xyexwfbjrrnak.space
   - DOMAIN,xyf21yawkj.com
   - DOMAIN,xy.fbcdn.net
@@ -171834,6 +172493,7 @@ payload:
   - DOMAIN,yapfairmark.com
   - DOMAIN,yaplylippers.shop
   - DOMAIN,yapockhairpinhiccup.cyou
+  - DOMAIN,yapockmerinos.cfd
   - DOMAIN,yappingptoses.cyou
   - DOMAIN,yapplanetsterritory.com
   - DOMAIN,yaq17.com
@@ -171850,6 +172510,7 @@ payload:
   - DOMAIN,yariman.online
   - DOMAIN,yarkoda.cfd
   - DOMAIN,yaroec.plytki-lazienki.pl
+  - DOMAIN,yaropolka.link
   - DOMAIN,yarpmifasfo.com
   - DOMAIN,yarucaloricwhelked.cfd
   - DOMAIN,yarurachamar.qpon
@@ -171917,6 +172578,7 @@ payload:
   - DOMAIN,ybmmejnmkflmw.site
   - DOMAIN,ybmulvsbb.com
   - DOMAIN,ybnquhcbojngd.space
+  - DOMAIN,ybnuohsytbvpl.website
   - DOMAIN,ybotvisit.com
   - DOMAIN,ybowcyskuemsj.store
   - DOMAIN,ybozjqsojrktu.online
@@ -172054,6 +172716,7 @@ payload:
   - DOMAIN,yeeumgjxfifku.space
   - DOMAIN,yefhhuanqlbky.site
   - DOMAIN,yefktd.avito.ru
+  - DOMAIN,yefwzfajfxeva.space
   - DOMAIN,yegprnemph.creativelandings.xyz
   - DOMAIN,yegtaizxtftpo.online
   - DOMAIN,yegvjrkcasiwf.space
@@ -172261,6 +172924,7 @@ payload:
   - DOMAIN,yhvewh.aboutyou.ro
   - DOMAIN,yhyuxrfbsweho.site
   - DOMAIN,yhzofhfjcynkg.site
+  - DOMAIN,yiasneyurp.com
   - DOMAIN,yibivacaji.com
   - DOMAIN,yibxebytevyif.website
   - DOMAIN,yibxfyylqxswj.site
@@ -172291,6 +172955,7 @@ payload:
   - DOMAIN,yieldyruts.cyou
   - DOMAIN,yiferh.nursemates.com
   - DOMAIN,yigao.com
+  - DOMAIN,yignoiibxhwau.space
   - DOMAIN,yigrwlisuduca.website
   - DOMAIN,yihknpvsjhstu.site
   - DOMAIN,yiipcpbdbyznp.online
@@ -172430,6 +173095,7 @@ payload:
   - DOMAIN,ykworxcmwijsf.website
   - DOMAIN,ykxfoj.purchasingpower.com
   - DOMAIN,ykxfrjzw.knickerbox.com
+  - DOMAIN,ykxfxkhmuomya.space
   - DOMAIN,ykxmsm.buckle-down.com
   - DOMAIN,ykxwn.com
   - DOMAIN,ykyceauapfxbd.store
@@ -172548,6 +173214,7 @@ payload:
   - DOMAIN,ymuoawrphgaqm.site
   - DOMAIN,ymuoyc.capriche.es
   - DOMAIN,ymuqohcxibqit.site
+  - DOMAIN,ymvhnxcaanmuy.site
   - DOMAIN,ymvikp.estadao.com.br
   - DOMAIN,ymviwl.just4camper.de
   - DOMAIN,ymvmx.mygrooveguide.com
@@ -172689,6 +173356,7 @@ payload:
   - DOMAIN,young-expert.pro
   - DOMAIN,youngfun.pro
   - DOMAIN,youngstermansionphrase.com
+  - DOMAIN,younguntraffic.cyou
   - DOMAIN,younkergongman.cyou
   - DOMAIN,youqunjx.com
   - DOMAIN,youraccordanceparquet.com
@@ -172748,6 +173416,7 @@ payload:
   - DOMAIN,youtubesave.org
   - DOMAIN,youwillneverfindme.bonusx.it
   - DOMAIN,youwillneverfindme.shop.candelamedical.com
+  - DOMAIN,youyajmbsppbfhp.com
   - DOMAIN,yovcb.com
   - DOMAIN,yovoads.com
   - DOMAIN,yowiespopian.com
@@ -172768,11 +173437,13 @@ payload:
   - DOMAIN,ypbfjo.paulsmith.co.jp
   - DOMAIN,ypbvyc.mpa-pro.fr
   - DOMAIN,ypdizpjmjgcsr.website
+  - DOMAIN,ypdlpyerqlwkma.com
   - DOMAIN,ypfrqqgjhaxqk.space
   - DOMAIN,ypgfrdasphgre.online
   - DOMAIN,yphb6qp2xi3k9q.rest
   - DOMAIN,y.photoint.net
   - DOMAIN,ypiohesltiqrj.space
+  - DOMAIN,ypiqeucturclw.site
   - DOMAIN,ypirlqn.icu
   - DOMAIN,ypjihx.homemarkt.gr
   - DOMAIN,yp.k3kgq6g19hk4yr6nu74vvnrti54y.cyou
@@ -172959,6 +173630,7 @@ payload:
   - DOMAIN,yt.kryxplus.shop
   - DOMAIN,ytlgqbhoj.com
   - DOMAIN,ytluqctugedmm.site
+  - DOMAIN,ytmkixbdrequt.site
   - DOMAIN,ytoontoteh.com
   - DOMAIN,ytouvy.arezzo.com.br
   - DOMAIN,ytpfbbg6hl.com
@@ -173195,6 +173867,7 @@ payload:
   - DOMAIN,ywugyssrmkvat.website
   - DOMAIN,ywums.compensation.help
   - DOMAIN,ywuzuazsjnzto.online
+  - DOMAIN,ywxc.net
   - DOMAIN,ywxkuh.street-moto-piece.fr
   - DOMAIN,ywygrtyblmaxe.site
   - DOMAIN,ywzmvh.trovaprezzi.it
@@ -173215,6 +173888,7 @@ payload:
   - DOMAIN,yxkzip.brastemp.com.br
   - DOMAIN,yxmgua.allgaeuer-jobanzeiger.de
   - DOMAIN,yxmtgttitplap.store
+  - DOMAIN,yxmvtcdlrsvkm.online
   - DOMAIN,yxnitldzfbuun.space
   - DOMAIN,yxnkrmzdmjwwt.site
   - DOMAIN,yxokmto.cq6or714eqgu6lyykm7wz29zi.cfd
@@ -173252,6 +173926,7 @@ payload:
   - DOMAIN,yybrtm.ru-mi.com
   - DOMAIN,yycgyufotxqxy.space
   - DOMAIN,yyecdiehcvadf.site
+  - DOMAIN,yyehfhgfnvvpa.online
   - DOMAIN,yyenb.cn
   - DOMAIN,yyexajwvnijim.space
   - DOMAIN,yyfhbgupnibgo.space
@@ -173278,6 +173953,7 @@ payload:
   - DOMAIN,yyrtip.mujkoberec.cz
   - DOMAIN,yysjea.stepstone.nl
   - DOMAIN,yysqrv.berge-meer.de
+  - DOMAIN,yyuaksepmz.com
   - DOMAIN,yyutfzv.com
   - DOMAIN,yyvkni.ottasilver.com
   - DOMAIN,yyvsnx.theathletesfoot.fi
@@ -173293,6 +173969,7 @@ payload:
   - DOMAIN,yyysja.qjnavi.jp
   - DOMAIN,yyyyvulnhyiur.online
   - DOMAIN,yyzuhi.clarinsusa.com
+  - DOMAIN,yz6q857w7ylbeb.cfd
   - DOMAIN,yz9gv7oczur.b4wfgbr26itlmf12i2nyf.cyou
   - DOMAIN,yz-ae.lojel.com
   - DOMAIN,yzamhsczcvjoc.com
@@ -173316,6 +173993,7 @@ payload:
   - DOMAIN,yzkviyey.com
   - DOMAIN,yzmgilueybloe.site
   - DOMAIN,yznvhiongucvp.site
+  - DOMAIN,yzodswvqjiprl.website
   - DOMAIN,yzozkqzhsbeur.online
   - DOMAIN,yzptivayenbbc.space
   - DOMAIN,yzrrqmaumjcmu.site
@@ -173469,6 +174147,7 @@ payload:
   - DOMAIN,zamkh.mygardyn.com
   - DOMAIN,zamocwtuh.com
   - DOMAIN,zamok911.com
+  - DOMAIN,zamorokeharu.link
   - DOMAIN,zampda.net
   - DOMAIN,zamxcn.dmall.co.kr
   - DOMAIN,zanderaswirl.com
@@ -173534,6 +174213,7 @@ payload:
   - DOMAIN,z.barkertime.com
   - DOMAIN,z.bbpo8m4u7lc5gwok6iyvw1w3luinix9ijt.cyou
   - DOMAIN,zbbuttbhoybvc.space
+  - DOMAIN,zbcnfjuttikis.online
   - DOMAIN,zbcyy.axparis.com
   - DOMAIN,zbdfg.littlebigplayroom.com
   - DOMAIN,zbdtkk.totvs.com
@@ -173693,6 +174373,7 @@ payload:
   - DOMAIN,zdh11070lo.com
   - DOMAIN,zdh11071lo.com
   - DOMAIN,zdi0.destinia.cr
+  - DOMAIN,zdiquumzpblxi.website
   - DOMAIN,zditzhefjchxk.online
   - DOMAIN,zdiykdcxbwsvn.site
   - DOMAIN,zdjcxtteffxrri.com
@@ -173977,7 +174658,9 @@ payload:
   - DOMAIN,zhcxvk.qvc.com
   - DOMAIN,zhcyrfxkupdvs.store
   - DOMAIN,zhdpyo.saveeye.co.kr
+  - DOMAIN,zhdqegmnehrpl.site
   - DOMAIN,zhduni.rizap.jp
+  - DOMAIN,zhenivalka.link
   - DOMAIN,zhffvzqowuoos.space
   - DOMAIN,zhfut.westminsterteak.com
   - DOMAIN,zhgcahjbqiiuu.website
@@ -174110,6 +174793,7 @@ payload:
   - DOMAIN,zireemilsoude.net
   - DOMAIN,zirkitedraco.cyou
   - DOMAIN,zirve100.com
+  - DOMAIN,zirxajjgiolaj.online
   - DOMAIN,zismc.trygoomz.com
   - DOMAIN,zispj.skinlaundry.com
   - DOMAIN,zisr3w3i2csfa76m.edge41.testandtarget.omniture.com
@@ -174151,6 +174835,7 @@ payload:
   - DOMAIN,zjfiz.betseyjohnson.com
   - DOMAIN,zjflf9epfe.com
   - DOMAIN,zjfvpv.serengeticatalog.com
+  - DOMAIN,zjgdqfrizhwdp.online
   - DOMAIN,zjgfq.com
   - DOMAIN,zjhswy.comeup.com.tr
   - DOMAIN,zjhwrbopbrnzu.online
@@ -174176,6 +174861,7 @@ payload:
   - DOMAIN,zjskecnjpgdcm.online
   - DOMAIN,zjspxohftdmow.site
   - DOMAIN,zjsyscbvw.com
+  - DOMAIN,zjtehunleyndv.online
   - DOMAIN,zjtwifdgwyyse.space
   - DOMAIN,zju16obqzy.com
   - DOMAIN,zjuoc.fromourplace.au
@@ -174262,6 +174948,7 @@ payload:
   - DOMAIN,zla963.top
   - DOMAIN,zlacraft.com
   - DOMAIN,zlaosdshglcjt.space
+  - DOMAIN,zlatobryuga.link
   - DOMAIN,zlavxbjuyekwo.site
   - DOMAIN,zlawbmfqrowhe.site
   - DOMAIN,zlbnjb.icu
@@ -174333,6 +175020,7 @@ payload:
   - DOMAIN,zmahxlcxkasov.website
   - DOMAIN,zmamhuakbbu.com
   - DOMAIN,zmazkg.infinitijoyas.com
+  - DOMAIN,zmblesusfxzxe.site
   - DOMAIN,zmbulblwjgxfe.space
   - DOMAIN,zmcotfbwooimx.space
   - DOMAIN,zmdesf.cn
@@ -174397,6 +175085,7 @@ payload:
   - DOMAIN,zngkzslgifgon.space
   - DOMAIN,zngvqwp.icu
   - DOMAIN,znigpcayzsxyp.site
+  - DOMAIN,znivolyayyfxg.space
   - DOMAIN,zniwiarz.topagrar.pl
   - DOMAIN,znizlnbamkeod.site
   - DOMAIN,znjvedmtgybbk.store
@@ -174499,6 +175188,7 @@ payload:
   - DOMAIN,zone1.bestbdsm24.com
   - DOMAIN,zone1.bestporn24.com
   - DOMAIN,zonealta.com
+  - DOMAIN,zonedguenonpayt.qpon
   - DOMAIN,zonedummy.com
   - DOMAIN,zonedustertractor.com
   - DOMAIN,zonegroove.com
@@ -174715,6 +175405,7 @@ payload:
   - DOMAIN,zrpfi.cheershealth.com
   - DOMAIN,zrprgcqjqjtkz.space
   - DOMAIN,zrqdzenetzkmn.space
+  - DOMAIN,zrqowxicbhgps.online
   - DOMAIN,zrquurrkzvtdn.online
   - DOMAIN,zrqzesxyykuqq.website
   - DOMAIN,zrrjq.pinkblushmaternity.com
@@ -174965,6 +175656,7 @@ payload:
   - DOMAIN,zvdvxrykeaetq.website
   - DOMAIN,zvekujanpxsfq.website
   - DOMAIN,zveqltmojqeyt.site
+  - DOMAIN,zveroboyna.link
   - DOMAIN,zvetokr2hr8pcng09.com
   - DOMAIN,zvfzqw.cotta.jp
   - DOMAIN,zvglmqsgwbfhe.website
@@ -175078,6 +175770,7 @@ payload:
   - DOMAIN,zxirf29qivqh8.uzokb1ivryvorr28cuhhhx2nb2p.cfd
   - DOMAIN,zxjnlsqprjjqo.space
   - DOMAIN,zxjshtdjvtfhb.site
+  - DOMAIN,zxldtcnhhvpml.space
   - DOMAIN,zxmkhbsmmuikc.online
   - DOMAIN,zxnymrendoxms.space
   - DOMAIN,zxokndyjenmgz.online
